@@ -72,7 +72,7 @@ normalization within arrays has been already carried out, e.g. using
 normalizeWithinArrays from limma.
 
 ```{r}
-allSE <- normalize(allSE, norm.method="quantile")
+norm.air <- normalize(airSE, norm.method="quantile")
 ```
 
 The EnrichmentBrowser incorporates established functionality from the limma
@@ -83,14 +83,6 @@ on the negative binomial distribution with edgeR and DESeq2.
 • GROUP defines the sample groups being contrasted,
 • BLOCK defines paired samples or sample blocks, as e.g. for batch effects.
 For more information on experimental design, see the limma user guide chapter 9.
-For the ALL dataset, the GROUP variable indicates whether the BCR-ABL gene
-fusion is present (1) or not (0).
-
-```{r}
-allSE$GROUP <- ifelse(allSE$mol.biol == "BCR/ABL", 1, 0)
-table(allSE$GROUP)
-```
-
 For the airway dataset, it indicates whether the cell lines have been treated
 with dexamethasone (1) or not (0).
 
@@ -108,36 +100,6 @@ airSE$BLOCK <- airway$cell
 table(airSE$BLOCK)
 ```
 
-For microarray expression data, the deAna function carries out a differential
-expression analysis between the two groups based on functionality from the limma
-package. Resulting fold changes and t-test derived p-values for each gene are
-appended to the rowData slot.
-
-```{r}
-allSE <- deAna(allSE, padj.method="BH")
-rowData(allSE, use.names=TRUE)
-```
-
-Nominal p-values (PVAL) are corrected for multiple testing (ADJ.PVAL) using the
-method from Benjamini and Hochberg implemented in the function p.adjust from the
-stats package. To get a first overview, we inspect the p-value distribution and
-the volcano plot (fold change against p-value).
-
-```{r}
-par(mfrow=c(1,2))
-pdistr(rowData(allSE)$PVAL)
-volcano(rowData(allSE)$FC, rowData(allSE)$ADJ.PVAL)
-```
-
-The expression change of highest statistical significance is observed for the
-ENTREZ gene 7525.
-
-```{r}
-ind.min <- which.min(rowData(allSE)$ADJ.PVAL)
-rowData(allSE, use.names=TRUE)[ ind.min, ]
-```
-
-This turns out to be the YES proto-oncogene 1 (hsa:7525@KEGG).
 For RNA-seq data, the deAna function carries out a differential expression
 analysis between the two groups either based on functionality from limma (that
 includes the voom transformation), or alternatively, the popular edgeR or DESeq2
@@ -181,16 +143,144 @@ analysis.
 
 #### Enrichment Analysis
 
-```{r}
+In the following, we introduce how the EnrichmentBrowser package can be used to
+perform state-of-the-art enrichment analysis of gene sets. We consider the ALL
+and the airway gene expression data as processed in the previous sections. We
+are now interested in whether predefined sets of genes that are known to work
+together, e.g. as defined in the Gene Ontology (GO) or the KEGG pathway
+annotation, are coordinately differentially expressed. The function getGenesets
+can be used to download gene sets from databases such as GO and KEGG. Here, we
+use the function to download all KEGG pathways for a chosen organism
+(here: Homo sapiens) as gene sets.
 
+```{r}
+kegg.gs <- getGenesets(org="hsa", db="kegg")
 ```
 
-```{r}
+Analogously, the function getGenesets can be used to retrieve GO terms of a
+selected ontology (here: biological process, BP) as defined in the GO.db
+annotation package.
 
+```{r}
+go.gs <- getGenesets(org="hsa", db="go", go.onto="BP", go.mode="GO.db")
 ```
 
-```{r}
+If provided a file, the function parses user-defined gene sets from GMT file
+format. Here, we use this functionality for reading a list of already downloaded
+KEGG gene sets for Homo sapiens containing NCBI Entrez Gene IDs.
 
+```{r}
+gmt.file <- file.path("~/R/x86_64-pc-linux-gnu-library/3.6/EnrichmentBrowser/extdata/hsa_kegg_gs.gmt")
+hsa.gs <- getGenesets(gmt.file)
+length(hsa.gs)
+
+hsa.gs[1:2]
+```
+
+Currently, the following set-based enrichment analysis methods are supported
+
+```{r}
+sbeaMethods()
+```
+
+ORA: Overrepresentation Analysis (simple and frequently used test based on the
+hypergeometric distribution). For demonstration, we perform a basic ORA choosing
+a significance level α of 0.1
+
+```{r}
+sbea.res <- sbea(method="ora", se=airSE, gs=hsa.gs, perm=0, alpha=0.1)
+gsRanking(sbea.res)
+```
+
+The result of every enrichment analysis is a ranking of gene sets by the
+corresponding p-value. The gsRanking function displays only those gene sets
+satisfying the chosen significance level α. While such a ranked list is the
+standard output of existing enrichment tools, the EnrichmentBrowser package
+provides visualization and interactive exploration of resulting gene sets far
+beyond that point. Using the eaBrowse function creates a HTML summary from which
+each gene set can be inspected in detail (this builds on functionality from the
+ReportingTools package).
+
+```{r}
+eaBrowse(sbea.res)
+```
+
+#### Network-based enrichment analysis
+
+Having found sets of genes that are differentially regulated in the ALL data, we
+are now interested whether these findings can be supported by known regulatory
+interactions. For example, we want to know whether transcription factors and
+their target genes are expressed in accordance to the connecting regulations
+(activation/inhibition). Such information is usually given in a gene regulatory
+network derived from specific experiments or compiled from the literature. There
+are well-studied processes and organisms for which comprehensive and well
+annotated regulatory networks are available, e.g. the RegulonDB for E. coli and
+Yeastract for S. cerevisiae. However, there are also cases where such a network
+is missing. A basic workaround is to compile a network from regulations in
+pathway databases such as KEGG.
+
+```{r}
+hsa.grn <- compileGRN(org="hsa", db="kegg")
+head(hsa.grn)
+```
+
+Now, we are able to perform enrichment analysis using the compiled network.
+Currently, the following network-based enrichment analysis methods are supported
+
+```{r}
+nbeaMethods()
+```
+
+GGEA: Gene Graph Enrichment Analysis (evaluates consistency of known regulatory
+interactions with the observed expression data). For demonstration, we perform
+GGEA using the compiled KEGG regulatory network.
+
+```{r}
+nbea.res <- nbea(method="ggea", se=airSE, gs=hsa.gs, grn=hsa.grn)
+gsRanking(nbea.res)
+```
+
+The resulting ranking lists, for each statistically significant gene set, the
+number of relations of the network involving a member of the gene set under
+study ( NR.RELS ), the sum of consistencies over the relations of the set
+( RAW.SCORE ), the score normalized by induced network size
+( NORM.SCORE = RAW.SCORE / NR.RELS ), and the statistical significance of each
+gene set based on a permutation approach. A GGEA graph for a gene set depicts
+the consistency of each interaction in the set. Nodes (genes) are colored
+according to expression (up-/down-regulated) and edges (interactions)
+are colored according to consistency, i.e. how well the interaction type
+(activation/inhibition) is reflected in the correlation of the observed
+expression of both interaction partners.
+
+```{r}
+par(mfrow=c(1,2))
+ggeaGraph(
+gs=hsa.gs[["hsa05217_Basal_cell_carcinoma"]],
+grn=hsa.grn, se=airSE)
+ggeaGraphLegend()
+```
+
+#### Combining results
+
+Different enrichment analysis methods usually result in different gene set
+rankings for the same dataset. To compare results and detect gene sets that are
+supported by different methods, the EnrichmentBrowser package allows to combine
+results from the different set-based and network-based enrichment analysis
+methods. The combination of results yields a new ranking of the gene sets under
+investigation by specified ranking criteria, e.g. the average rank across
+methods. We consider the ORA result and the GGEA result from the previous
+sections and use the function combResults.
+
+```{r}
+res.list <- list(sbea.res, nbea.res)
+comb.res <- combResults(res.list)
+```
+
+The combined result can be detailedly inspected as before and interactively
+ranked.
+
+```{r}
+eaBrowse(comb.res, graph.view=hsa.grn, nr.show=5)
 ```
 
 
