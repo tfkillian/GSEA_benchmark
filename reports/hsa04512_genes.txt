@@ -1,0 +1,57 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+3908	LAMA2	laminin subunit alpha 2	2.02	4.1e-49
+1277	COL1A1	collagen type I alpha 1 chain	-1.32	6.4e-49
+22801	ITGA11	integrin subunit alpha 11	-1.73	2.4e-34
+1282	COL4A1	collagen type IV alpha 1 chain	1.31	8.6e-25
+1286	COL4A4	collagen type IV alpha 4 chain	1.9	4.8e-22
+1284	COL4A2	collagen type IV alpha 2 chain	0.88	2.6e-16
+8515	ITGA10	integrin subunit alpha 10	3.81	5.7e-16
+3915	LAMC1	laminin subunit gamma 1	0.8	2.7e-13
+3912	LAMB1	laminin subunit beta 1	0.75	1.1e-12
+6382	SDC1	syndecan 1	-0.86	2.6e-12
+3673	ITGA2	integrin subunit alpha 2	-1.03	6e-12
+1287	COL4A5	collagen type IV alpha 5 chain	-0.88	8e-11
+8516	ITGA8	integrin subunit alpha 8	1.17	2e-10
+7057	THBS1	thrombospondin 1	1.88	1.5e-09
+3909	LAMA3	laminin subunit alpha 3	0.94	4.3e-06
+3679	ITGA7	integrin subunit alpha 7	-0.49	6.4e-06
+3371	TNC	tenascin C	-0.82	8.3e-06
+3161	HMMR	hyaluronan mediated motility receptor	1.55	9.7e-06
+1278	COL1A2	collagen type I alpha 2 chain	-0.44	1.2e-05
+131873	COL6A6	collagen type VI alpha 6 chain	-0.82	1.6e-05
+3672	ITGA1	integrin subunit alpha 1	0.61	2.4e-05
+7058	THBS2	thrombospondin 2	-0.54	4.2e-05
+1293	COL6A3	collagen type VI alpha 3 chain	-0.35	6e-05
+7148	TNXB	tenascin XB	-0.51	9.6e-05
+3914	LAMB3	laminin subunit beta 3	-0.75	0.00016
+3688	ITGB1	integrin subunit beta 1	0.31	0.00031
+3696	ITGB8	integrin subunit beta 8	-0.47	0.00034
+3918	LAMC2	laminin subunit gamma 2	0.89	0.0012
+3676	ITGA4	integrin subunit alpha 4	0.5	0.0015
+1298	COL9A2	collagen type IX alpha 2 chain	-0.78	0.0036
+3655	ITGA6	integrin subunit alpha 6	0.52	0.0078
+1605	DAG1	dystroglycan 1	0.31	0.011
+6385	SDC4	syndecan 4	-0.39	0.013
+3675	ITGA3	integrin subunit alpha 3	0.34	0.033
+3913	LAMB2	laminin subunit beta 2	-0.27	0.062
+7059	THBS3	thrombospondin 3	-0.27	0.083
+5649	RELN	reelin	-0.47	0.11
+960	CD44	CD44 molecule (Indian blood group)	-0.19	0.16
+3690	ITGB3	integrin subunit beta 3	0.46	0.17
+375790	AGRN	agrin	-0.19	0.19
+961	CD47	CD47 molecule	-0.14	0.21
+1291	COL6A1	collagen type VI alpha 1 chain	-0.12	0.33
+1292	COL6A2	collagen type VI alpha 2 chain	-0.11	0.34
+3685	ITGAV	integrin subunit alpha V	0.12	0.41
+9900	SV2A	synaptic vesicle glycoprotein 2A	-0.14	0.45
+7060	THBS4	thrombospondin 4	-0.33	0.47
+3911	LAMA5	laminin subunit alpha 5	-0.13	0.49
+3910	LAMA4	laminin subunit alpha 4	-0.1	0.49
+948	CD36	CD36 molecule	0.26	0.58
+10319	LAMC3	laminin subunit gamma 3	-0.18	0.68
+284217	LAMA1	laminin subunit alpha 1	-0.11	0.7
+2335	FN1	fibronectin 1	0.06	0.74
+2811	GP1BA	glycoprotein Ib platelet subunit alpha	-0.18	0.81
+3693	ITGB5	integrin subunit beta 5	0.02	0.89
+3678	ITGA5	integrin subunit alpha 5	-0.02	0.92
+3339	HSPG2	heparan sulfate proteoglycan 2	0.02	0.93

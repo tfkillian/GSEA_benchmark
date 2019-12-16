@@ -1,0 +1,144 @@
+---
+  title: "limma goana"
+author: "Theo Killian"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    code_folding: hide
+    toc: true
+    toc_float: true
+---
+
+```{r, echo = FALSE, results = 'asis'}
+suppressPackageStartupMessages(library("dplyr"))
+knitr::opts_chunk$set(collapse=TRUE, comment="#>", warning=FALSE, message=FALSE)
+```
+
+### limma goana
+
+Gene Set Enrichment Analysis (GSEA) in this section is performed using
+`limma::goana()`. This process requires `ENTREZ` identifiers, which are obtained
+by querying the genome wide annotation for the organism of interest, as well as
+p-adjusted values. The enriched gene set is subjected to a hypergeometric test
+for differential enrichment (DE).
+
+```{r warning=FALSE, message=FALSE}
+library("limma")
+library("GO.db")
+library("org.Hs.eg.db")
+library("EnrichmentBrowser")
+library("airway")
+```
+
+To demonstrate the functionality of the package for RNA-seq data, we consider
+transcriptome profiles of four primary human `airway` smooth muscle cell lines
+in two conditions: control and treatment with dexamethasone. For further
+analysis, we remove genes with very low read counts and measurements that are
+not mapped to an *ENSEMBL gene ID*.
+
+```{r}
+data(airway) # load airway data
+airSE <- airway[grep("^ENSG", rownames(airway)),] 
+airSE <- airSE[rowMeans(assay(airSE)) > 10,] # filter row counts less than 10
+head(assay(airSE))
+```
+
+The `EnrichmentBrowser` incorporates established functionality from the `limma`
+package for differential expression analysis between sample groups. This
+involves the `voom` transformation when applied to RNA-seq data. Alternatively,
+differential expression analysis for RNA-seq data can also be carried out based
+on the negative binomial distribution with `edgeR` and `DESeq2`. *GROUP* defines
+the sample groups being contrasted. *BLOCK* defines paired samples or sample
+blocks, as e.g. for batch effects. For the `airway` dataset, it indicates
+whether the cell lines have been treated with dexamethasone (1) or not (0).
+
+```{r}
+airSE$GROUP <- ifelse(airway$dex == "trt", 1, 0) # create GROUP
+table(airSE$GROUP) # display GROUP table
+```
+
+Paired samples, or in general sample batches/blocks, can be defined via a
+*BLOCK* column in the `colData` slot. For the `airway` dataset, the sample
+blocks correspond to the four different cell lines.
+
+```{r}
+airSE$BLOCK <- airway$cell
+table(airSE$BLOCK)
+```
+
+For RNA-seq data, the `deAna` function carries out a differential expression
+analysis between the two groups either based on functionality from `limma` (that
+includes the `voom` transformation), or alternatively, the popular `edgeR` or
+`DESeq2` package. Here, we use the analysis based on `DESeq2` for demonstration.
+
+```{r deana, message=FALSE, warning=FALSE}
+airSE <- deAna(airSE, de.method="DESeq2")
+## Excluding 1831 genes not satisfying min.cpm threshold
+rowData(airSE, use.names=TRUE)
+```
+
+```{r}
+airSE_dat <- airSE %>%
+             mutate(ENTREZID = mapIds(org.Hs.eg.db, Gene, "ENTREZID", "ENSEMBL") %>%
+             unname())
+```
+
+Below shows the number of genes found in the original data.
+
+```{r}
+cat("Dimensions of airSE results ID\n")
+dim(airSE_dat)[1]
+```
+
+To perform GSEA, a *universe* of genes must be constructed. Each gene in the
+*universe* must have an `ENTREZ ID` to be testable for differential enrichment.
+Below shows the length of the list of such genes in the *universe*.
+
+```{r warning=FALSE, message=FALSE}
+airSE_id <- airSE_dat %>% filter(!is.na(ENTREZID))
+cat("Dimensions of airSE results with an ENTREZ ID\n")
+dim(mouse_id1)[1]
+```
+
+For reference, shown below is the the subset of the data that *does not have* an
+`ENTREZ ID` and is not used to construct the universe.
+
+```{r warning=FALSE, message=FALSE}
+airSE_no_id <- airSE_dat %>% filter(is.na(ENTREZID))
+cat("Dimensions of airSE results without an ENTREZ ID\n")
+dim(mouse_no_id1)[1]
+```
+
+`goana` compares the *universe* of genes by looking at all GO terms for "Hs"
+(human) with the gene set have provided from the `DESeq2` analysis, returning a
+tibble of the GO terms that are significantly differentially enriched after
+performing a hypergeometric test. The vector of enriched genes that will be
+passed are compared with the universe are those from the `DESeq2` analysis with
+a p-adjusted value *lower than 0.05* and an absolute log fold change of
+*greater than 1*.
+
+```{r  warning=FALSE, message=FALSE}
+go_goana <- goana(airSE_id$ENTREZID[(
+                  airSE_id$padj < 0.05 & abs(airSE_id$log2FoldChange) > 1)],
+                  airSE_id$ENTREZID, "Hs") %>% as_tibble()
+
+go_goana <- go_goana %>% mutate(GOID = mapIds(GO.db, .$Term, "GOID", "TERM") %>%
+                         unname()) %>%
+                         dplyr::select(GOID, everything()) %>%
+                         arrange(P.DE)
+```
+
+#### limma goana results 
+
+Below is a html table displaying the results of significant genes found in the
+GSEA analysis for comparison of mouse results.
+
+```{r}
+DT::datatable(go_goana)
+```
+
+*Session Info*
+
+```{r sessionInfo}
+sessionInfo()
+```
