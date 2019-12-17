@@ -200,7 +200,7 @@ regulatory interactions with the observed expression data. We perform *GGEA*
 using the compiled *KEGG* regulatory network.
 
 ```{r}
-nbea.res <- nbea(method="ggea", se=airSE, gs=kegg.gs, grn=hsa.grn, alpha = 0.05)
+nbea.res <- nbea(method="ggea", se=airSE, gs=go.gs, grn=hsa.grn, alpha = 0.05)
 gsRanking(nbea.res)
 ```
 
@@ -217,10 +217,10 @@ are colored according to consistency, i.e. how well the interaction type
 expression of both interaction partners.
 
 ```{r fig.height=6, fig.width=12}
-par(mfrow=c(1,2))
-ggeaGraph(gs=hsa.gs[["hsa05410_Hypertrophic_cardiomyopathy_(HCM)"]],
-          grn=hsa.grn, se=airSE)
-ggeaGraphLegend()
+# par(mfrow=c(1,2))
+# ggeaGraph(gs=hsa.gs[["hsa05410_Hypertrophic_cardiomyopathy_(HCM)"]],
+#           grn=hsa.grn, se=airSE)
+# ggeaGraphLegend()
 ```
 
 #### Combining results

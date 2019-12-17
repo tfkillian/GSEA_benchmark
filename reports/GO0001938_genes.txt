@@ -1,0 +1,57 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+6387	CXCL12	C-X-C motif chemokine ligand 12	-1.92	2.4e-70
+7472	WNT2	Wnt family member 2	-3.05	1.3e-55
+94	ACVRL1	activin A receptor like type 1	0.84	5.8e-17
+3148	HMGB2	high mobility group box 2	1.23	7.3e-13
+3725	JUN	Jun proto-oncogene, AP-1 transcription factor subunit	-1.22	1.1e-10
+7422	VEGFA	vascular endothelial growth factor A	-1.27	1.5e-10
+5587	PRKD1	protein kinase D1	0.71	3.5e-10
+6776	STAT5A	signal transducer and activator of transcription 5A	0.59	2.2e-08
+8828	NRP2	neuropilin 2	1	6.6e-08
+3164	NR4A1	nuclear receptor subfamily 4 group A member 1	1.24	5.7e-07
+3091	HIF1A	hypoxia inducible factor 1 subunit alpha	0.55	5.1e-06
+2475	MTOR	mechanistic target of rapamycin kinase	0.67	1.8e-05
+283	ANG	angiogenin	1.11	3.5e-05
+858	CAV2	caveolin 2	0.6	3.6e-05
+1960	EGR3	early growth response 3	-1.75	7.7e-05
+7424	VEGFC	vascular endothelial growth factor C	-0.44	0.00022
+2152	F3	coagulation factor III, tissue factor	0.52	0.00034
+2277	VEGFD	vascular endothelial growth factor D	-0.87	0.00079
+9037	SEMA5A	semaphorin 5A	-0.39	0.0015
+7474	WNT5A	Wnt family member 5A	-0.47	0.0042
+654	BMP6	bone morphogenetic protein 6	0.87	0.0051
+4893	NRAS	NRAS proto-oncogene, GTPase	0.29	0.019
+6356	CCL11	C-C motif chemokine ligand 11	-1.53	0.03
+10000	AKT3	AKT serine/threonine kinase 3	0.32	0.039
+1535	CYBA	cytochrome b-245 alpha chain	0.26	0.05
+10016	PDCD6	programmed cell death 6	0.22	0.057
+5228	PGF	placental growth factor	-1.14	0.067
+8742	TNFSF12	TNF superfamily member 12	0.28	0.07
+7857	SCG2	secretogranin II	0.56	0.091
+79031	PDCL3	phosducin like 3	0.39	0.092
+2247	FGF2	fibroblast growth factor 2	-0.21	0.1
+253260	RICTOR	RPTOR independent companion of MTOR complex 2	0.2	0.11
+7010	TEK	TEK receptor tyrosine kinase	-0.35	0.12
+207	AKT1	AKT serine/threonine kinase 1	0.2	0.12
+1012	CDH13	cadherin 13	0.32	0.13
+5578	PRKCA	protein kinase C alpha	0.19	0.16
+8829	NRP1	neuropilin 1	-0.18	0.16
+3690	ITGB3	integrin subunit beta 3	0.46	0.17
+56005	MYDGF	myeloid derived growth factor	0.18	0.17
+650	BMP2	bone morphogenetic protein 2	-0.54	0.22
+1893	ECM1	extracellular matrix protein 1	-0.14	0.29
+23411	SIRT1	sirtuin 1	0.18	0.31
+57521	RPTOR	regulatory associated protein of MTOR complex 1	0.13	0.4
+51157	ZNF580	zinc finger protein 580	0.15	0.44
+7060	THBS4	thrombospondin 4	-0.33	0.47
+51162	EGFL7	EGF like domain multiple 7	-0.25	0.48
+652	BMP4	bone morphogenetic protein 4	0.15	0.49
+25865	PRKD2	protein kinase D2	-0.12	0.51
+4763	NF1	neurofibromin 1	-0.08	0.51
+5365	PLXNB3	plexin B3	0.15	0.72
+7423	VEGFB	vascular endothelial growth factor B	0.04	0.81
+284361	EMC10	ER membrane protein complex subunit 10	0.04	0.86
+405	ARNT	aryl hydrocarbon receptor nuclear translocator	0.02	0.9
+55109	AGGF1	angiogenic factor with G-patch and FHA domains 1	-0.02	0.91
+659	BMPR2	bone morphogenetic protein receptor type 2	0.02	0.92
+7046	TGFBR1	transforming growth factor beta receptor 1	0.02	0.97
