@@ -1,0 +1,60 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+11938	Atp2a2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2	0.81	0.85
+23992	Prkra	protein kinase, interferon inducible double stranded RNA dependent activator	-0.51	0.93
+209027	Pycr1	pyrroline-5-carboxylate reductase 1	0.72	1
+71701	Pnpt1	polyribonucleotide nucleotidyltransferase 1	0.63	1
+108079	Prkaa2	protein kinase, AMP-activated, alpha 2 catalytic subunit	-0.58	1
+72170	Chchd4	coiled-coil-helix-coiled-coil-helix domain containing 4	0.53	1
+13665	Eif2s1	eukaryotic translation initiation factor 2, subunit 1 alpha	0.52	1
+26570	Slc7a11	solute carrier family 7 (cationic amino acid transporter, y+ system), member 11	0.49	1
+104156	Etv5	ets variant 5	0.47	1
+109815	Selenos	selenoprotein S	0.43	1
+69568	Vkorc1l1	vitamin K epoxide reductase complex, subunit 1-like 1	0.41	1
+56484	Foxo3	forkhead box O3	-0.39	1
+69051	Pycr2	pyrroline-5-carboxylate reductase family, member 2	0.39	1
+22433	Xbp1	X-box binding protein 1	0.32	1
+76467	Msrb2	methionine sulfoxide reductase B2	-0.3	1
+211651	Fancd2	Fanconi anemia, complementation group D2	-0.29	1
+229731	Slc25a24	solute carrier family 25 (mitochondrial carrier, phosphate carrier), member 24	-0.28	1
+69922	Vrk2	vaccinia related kinase 2	-0.28	1
+67689	Aldh3b1	aldehyde dehydrogenase 3 family, member B1	-0.27	1
+68943	Pink1	PTEN induced putative kinase 1	-0.26	1
+14782	Gsr	glutathione reductase	0.25	1
+232491	Pyroxd1	pyridine nucleotide-disulphide oxidoreductase domain 1	0.25	1
+74772	Atp13a2	ATPase type 13A2	-0.25	1
+14088	Fancc	Fanconi anemia, complementation group C	0.23	1
+18753	Prkcd	protein kinase C, delta	-0.2	1
+54683	Prdx5	peroxiredoxin 5	-0.2	1
+64704	Htra2	HtrA serine peptidase 2	-0.2	1
+66725	Lrrk2	leucine-rich repeat kinase 2	-0.2	1
+56458	Foxo1	forkhead box O1	-0.19	1
+18174	Slc11a2	solute carrier family 11 (proton-coupled divalent metal ion transporters), member 2	0.18	1
+230738	Zc3h12a	zinc finger CCCH type containing 12A	-0.17	1
+57320	Park7	Parkinson disease (autosomal recessive, early onset) 7	-0.16	1
+105787	Prkaa1	protein kinase, AMP-activated, alpha 1 catalytic subunit	-0.15	1
+64383	Sirt2	sirtuin 2	-0.15	1
+18023	Nfe2l1	nuclear factor, erythroid derived 2,-like 1	0.14	1
+66521	Rwdd1	RWD domain containing 1	0.14	1
+12850	Coq7	demethyl-Q 7	-0.13	1
+72446	Prr5l	proline rich 5 like	0.11	1
+21672	Prdx2	peroxiredoxin 2	-0.09	1
+433759	Hdac1	histone deacetylase 1	-0.08	1
+11758	Prdx6	peroxiredoxin 6	-0.07	1
+269254	Setx	senataxin	0.07	1
+74142	Lonp1	lon peptidase 1, mitochondrial	0.07	1
+74777	Selenon	selenoprotein N	-0.07	1
+234371	Tmem161a	transmembrane protein 161A	-0.06	1
+110265	Msra	methionine sulfoxide reductase A	-0.05	1
+231207	Cpeb2	cytoplasmic polyadenylation element binding protein 2	0.05	1
+76650	Srxn1	sulfiredoxin 1 homolog (S. cerevisiae)	-0.05	1
+18024	Nfe2l2	nuclear factor, erythroid derived 2, like 2	0.04	1
+19365	Rad52	RAD52 homolog, DNA repair protein	0.04	1
+11629	Aif1	allograft inflammatory factor 1	0.03	1
+14381	G6pdx	glucose-6-phosphate dehydrogenase X-linked	-0.03	1
+11545	Parp1	poly (ADP-ribose) polymerase family, member 1	-0.02	1
+18227	Nr4a2	nuclear receptor subfamily 4, group A, member 2	0.02	1
+320183	Msrb3	methionine sulfoxide reductase B3	-0.02	1
+66653	Brf2	BRF2, RNA polymerase III transcription initiation factor 50kDa subunit	0.02	1
+11757	Prdx3	peroxiredoxin 3	-0.01	1
+230784	Sesn2	sestrin 2	-0.01	1
+240442	Adnp2	ADNP homeobox 2	0.01	1

@@ -1,0 +1,37 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+269700	Hectd4	HECT domain E3 ubiquitin protein ligase 4	-0.67	0.057
+17869	Myc	myelocytomatosis oncogene	0.9	1
+15277	Hk2	hexokinase 2	0.53	1
+70974	Pgm2l1	phosphoglucomutase 2-like 1	-0.39	1
+66681	Pgm1	phosphoglucomutase 1	-0.34	1
+76051	Ganc	glucosidase, alpha; neutral C	-0.3	1
+269952	Gdpgp1	GDP-D-glucose phosphorylase 1	0.29	1
+67880	Dcxr	dicarbonyl L-xylulose reductase	-0.28	1
+72157	Pgm2	phosphoglucomutase 2	-0.28	1
+18604	Pdk2	pyruvate dehydrogenase kinase, isoenzyme 2	-0.27	1
+28146	Serp1	stress-associated endoplasmic reticulum protein 1	0.27	1
+18708	Pik3r1	phosphoinositide-3-kinase regulatory subunit 1	0.26	1
+26416	Mapk14	mitogen-activated protein kinase 14	-0.25	1
+67013	Oma1	OMA1 zinc metallopeptidase	-0.25	1
+16332	Inppl1	inositol polyphosphate phosphatase-like 1	-0.23	1
+319625	Galm	galactose mutarotase	-0.18	1
+105787	Prkaa1	protein kinase, AMP-activated, alpha 1 catalytic subunit	-0.15	1
+230796	Wdtc1	WD and tetratricopeptide repeats 1	-0.15	1
+12894	Cpt1a	carnitine palmitoyltransferase 1a, liver	-0.13	1
+68263	Pdhb	pyruvate dehydrogenase (lipoamide) beta	-0.13	1
+56017	Slc2a8	solute carrier family 2, (facilitated glucose transporter), member 8	-0.1	1
+236900	Pdk3	pyruvate dehydrogenase kinase, isoenzyme 3	0.09	1
+18746	Pkm	pyruvate kinase, muscle	-0.08	1
+22278	Usf1	upstream transcription factor 1	0.08	1
+72141	Adpgk	ADP-dependent glucokinase	-0.08	1
+231841	Brat1	BRCA1-associated ATM activator 1	0.06	1
+18597	Pdha1	pyruvate dehydrogenase E1 alpha 1	-0.05	1
+18706	Pik3ca	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha	-0.05	1
+16592	Fabp5	fatty acid binding protein 5, epidermal	-0.04	1
+21926	Tnf	tumor necrosis factor	-0.04	1
+235339	Dlat	dihydrolipoamide S-acetyltransferase (E2 component of pyruvate dehydrogenase complex)	0.04	1
+14381	G6pdx	glucose-6-phosphate dehydrogenase X-linked	-0.03	1
+11651	Akt1	thymoma viral proto-oncogene 1	0.01	1
+11652	Akt2	thymoma viral proto-oncogene 2	0.01	1
+100198	H6pd	hexose-6-phosphate dehydrogenase (glucose 1-dehydrogenase)	0	1
+21416	Tcf7l2	transcription factor 7 like 2, T cell specific, HMG box	0	1

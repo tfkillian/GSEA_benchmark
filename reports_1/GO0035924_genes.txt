@@ -1,0 +1,24 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+14254	Flt1	FMS-like tyrosine kinase 1	2.25	0.033
+13655	Egr3	early growth response 3	1.09	1
+14388	Gab1	growth factor receptor bound protein 2-associated protein 1	-0.49	1
+101540	Prkd2	protein kinase D2	-0.43	1
+69601	Dab2ip	disabled 2 interacting protein	-0.36	1
+22433	Xbp1	X-box binding protein 1	0.32	1
+26397	Map2k3	mitogen-activated protein kinase kinase 3	0.32	1
+16542	Kdr	kinase insert domain protein receptor	-0.27	1
+15507	Hspb1	heat shock protein 1	-0.26	1
+26416	Mapk14	mitogen-activated protein kinase 14	-0.25	1
+20698	Sphk1	sphingosine kinase 1	0.18	1
+17164	Mapkapk2	MAP kinase-activated protein kinase 2	0.17	1
+15370	Nr4a1	nuclear receptor subfamily 4, group A, member 1	-0.16	1
+18128	Notch1	notch 1	-0.15	1
+24064	Spry2	sprouty RTK signaling antagonist 2	-0.15	1
+16952	Anxa1	annexin A1	-0.13	1
+78943	Ern1	endoplasmic reticulum (ER) to nucleus signalling 1	-0.13	1
+19697	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	-0.09	1
+16413	Itgb1bp1	integrin beta 1 binding protein 1	0.06	1
+18186	Nrp1	neuropilin 1	-0.05	1
+20358	Sema6a	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6A	-0.03	1
+22339	Vegfa	vascular endothelial growth factor A	0.02	1
+11651	Akt1	thymoma viral proto-oncogene 1	0.01	1

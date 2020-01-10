@@ -1,0 +1,121 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+74559	Elovl7	ELOVL family member 7, elongation of long chain fatty acids (yeast)	0.78	0.8
+433256	Acsl5	acyl-CoA synthetase long-chain family member 5	0.76	0.98
+14104	Fasn	fatty acid synthase	1.03	1
+19225	Ptgs2	prostaglandin-endoperoxide synthase 2	0.85	1
+78070	Cpt1c	carnitine palmitoyltransferase 1c	-0.75	1
+108079	Prkaa2	protein kinase, AMP-activated, alpha 2 catalytic subunit	-0.58	1
+12896	Cpt2	carnitine palmitoyltransferase 2	-0.53	1
+264895	Acsf2	acyl-CoA synthetase family member 2	-0.52	1
+68631	Cryl1	crystallin, lambda 1	-0.49	1
+19224	Ptgs1	prostaglandin-endoperoxide synthase 1	0.47	1
+74114	Crot	carnitine O-octanoyltransferase	-0.46	1
+18627	Per2	period circadian clock 2	0.44	1
+60527	Fads3	fatty acid desaturase 3	-0.44	1
+15446	Hpgd	hydroxyprostaglandin dehydrogenase 15 (NAD)	-0.42	1
+329910	Acot11	acyl-CoA thioesterase 11	-0.41	1
+108099	Prkag2	protein kinase, AMP-activated, gamma 2 non-catalytic subunit	-0.4	1
+26378	Decr2	2-4-dienoyl-Coenzyme A reductase 2, peroxisomal	-0.4	1
+107476	Acaca	acetyl-Coenzyme A carboxylase alpha	0.39	1
+56473	Fads2	fatty acid desaturase 2	-0.39	1
+66400	Alkbh7	alkB homolog 7	-0.38	1
+235674	Acaa1b	acetyl-Coenzyme A acyltransferase 1B	0.36	1
+13076	Cyp1a1	cytochrome P450, family 1, subfamily a, polypeptide 1	-0.34	1
+64292	Ptges	prostaglandin E synthase	-0.34	1
+70025	Acot7	acyl-CoA thioesterase 7	-0.33	1
+19015	Ppard	peroxisome proliferator activator receptor delta	-0.32	1
+108097	Prkab2	protein kinase, AMP-activated, beta 2 non-catalytic subunit	-0.31	1
+11409	Acads	acyl-Coenzyme A dehydrogenase, short chain	-0.31	1
+20250	Scd2	stearoyl-Coenzyme A desaturase 2	-0.31	1
+66775	Hacd4	3-hydroxyacyl-CoA dehydratase 4	-0.31	1
+19016	Pparg	peroxisome proliferator activated receptor gamma	0.3	1
+76267	Fads1	fatty acid desaturase 1	-0.3	1
+81877	Tnxb	tenascin XB	-0.29	1
+96979	Ptges2	prostaglandin E synthase 2	-0.29	1
+15107	Hadh	hydroxyacyl-Coenzyme A dehydrogenase	-0.28	1
+56351	Ptges3	prostaglandin E synthase 3	0.28	1
+67460	Decr1	2,4-dienoyl CoA reductase 1, mitochondrial	-0.28	1
+12908	Crat	carnitine acetyltransferase	-0.27	1
+192654	Pla2g15	phospholipase A2, group XV	-0.27	1
+23887	Ggt5	gamma-glutamyltransferase 5	-0.27	1
+50790	Acsl4	acyl-CoA synthetase long-chain family member 4	0.27	1
+74147	Ehhadh	enoyl-Coenzyme A, hydratase/3-hydroxyacyl Coenzyme A dehydrogenase	0.27	1
+11364	Acadm	acyl-Coenzyme A dehydrogenase, medium chain	0.26	1
+26569	Slc27a4	solute carrier family 27 (fatty acid transporter), member 4	-0.26	1
+12686	Elovl3	elongation of very long chain fatty acids (FEN1/Elo2, SUR4/Elo3, yeast)-like 3	-0.25	1
+75778	Them4	thioesterase superfamily member 4	-0.24	1
+56690	Mlycd	malonyl-CoA decarboxylase	-0.23	1
+20249	Scd1	stearoyl-Coenzyme A desaturase 1	0.22	1
+26458	Slc27a2	solute carrier family 27 (fatty acid transporter), member 2	0.22	1
+27052	Aoah	acyloxyacyl hydrolase	-0.22	1
+57874	Hacd3	3-hydroxyacyl-CoA dehydratase 3	0.22	1
+16956	Lpl	lipoprotein lipase	-0.21	1
+19082	Prkag1	protein kinase, AMP-activated, gamma 1 non-catalytic subunit	-0.21	1
+19088	Prkar2b	protein kinase, cAMP dependent regulatory, type II beta	0.21	1
+234309	Cbr4	carbonyl reductase 4	-0.21	1
+51798	Ech1	enoyl coenzyme A hydratase 1, peroxisomal	-0.21	1
+113868	Acaa1a	acetyl-Coenzyme A acyltransferase 1A	-0.2	1
+11671	Aldh3a2	aldehyde dehydrogenase family 3, subfamily A2	-0.2	1
+11684	Alox12	arachidonate 12-lipoxygenase	-0.2	1
+20397	Sgpl1	sphingosine phosphate lyase 1	-0.2	1
+54486	Hpgds	hematopoietic prostaglandin D synthase	-0.2	1
+67452	Pnpla8	patatin-like phospholipase domain containing 8	-0.2	1
+109672	Cyb5a	cytochrome b5 type A (microsomal)	-0.19	1
+12189	Brca1	breast cancer 1, early onset	-0.19	1
+12491	Cd36	CD36 molecule	-0.19	1
+11807	Apoa2	apolipoprotein A-II	0.18	1
+15450	Lipc	lipase, hepatic	0.18	1
+16889	Lipa	lysosomal acid lipase A	-0.18	1
+407785	Ndufs6	NADH:ubiquinone oxidoreductase core subunit S6	-0.18	1
+80911	Acox3	acyl-Coenzyme A oxidase 3, pristanoyl	-0.18	1
+93747	Echs1	enoyl Coenzyme A hydratase, short chain, 1, mitochondrial	-0.18	1
+102247	Gpat4	glycerol-3-phosphate acyltransferase 4	0.17	1
+11363	Acadl	acyl-Coenzyme A dehydrogenase, long-chain	-0.17	1
+18777	Lypla1	lysophospholipase 1	-0.17	1
+257633	Acsf3	acyl-CoA synthetase family member 3	-0.17	1
+64898	Lpin2	lipin 2	-0.17	1
+111175	Pecr	peroxisomal trans-2-enoyl-CoA reductase	0.16	1
+11370	Acadvl	acyl-Coenzyme A dehydrogenase, very long chain	-0.16	1
+14712	Gnpat	glyceronephosphate O-acyltransferase	-0.16	1
+105787	Prkaa1	protein kinase, AMP-activated, alpha 1 catalytic subunit	-0.15	1
+106529	Tecr	trans-2,3-enoyl-CoA reductase	-0.15	1
+14732	Gpam	glycerol-3-phosphate acyltransferase, mitochondrial	0.15	1
+52538	Acaa2	acetyl-Coenzyme A acyltransferase 2 (mitochondrial 3-oxoacyl-Coenzyme A thiolase)	-0.15	1
+68801	Elovl5	ELOVL family member 5, elongation of long chain fatty acids (yeast)	-0.14	1
+78894	Aacs	acetoacetyl-CoA synthetase	0.14	1
+12894	Cpt1a	carnitine palmitoyltransferase 1a, liver	-0.13	1
+13244	Degs1	delta(4)-desaturase, sphingolipid 1	-0.13	1
+21391	Tbxas1	thromboxane A synthase 1, platelet	0.13	1
+23945	Mgll	monoglyceride lipase	-0.13	1
+11687	Alox15	arachidonate 15-lipoxygenase	-0.12	1
+12266	C3	complement component 3	-0.12	1
+26568	Slc27a3	solute carrier family 27 (fatty acid transporter), member 3	-0.12	1
+66469	Prxl2b	peroxiredoxin like 2B	0.12	1
+70757	Hacd2	3-hydroxyacyl-CoA dehydratase 2	-0.12	1
+26922	Mecr	mitochondrial trans-2-enoyl-CoA reductase	0.11	1
+71147	Oxsm	3-oxoacyl-ACP synthase, mitochondrial	-0.11	1
+11430	Acox1	acyl-Coenzyme A oxidase 1, palmitoyl	-0.1	1
+11770	Fabp4	fatty acid binding protein 4, adipocyte	-0.1	1
+14081	Acsl1	acyl-CoA synthetase long-chain family member 1	-0.1	1
+231326	Aasdh	aminoadipate-semialdehyde dehydrogenase	-0.1	1
+26457	Slc27a1	solute carrier family 27 (fatty acid transporter), member 1	-0.1	1
+26897	Acot1	acyl-CoA thioesterase 1	-0.1	1
+13177	Eci1	enoyl-Coenzyme A delta isomerase 1	-0.09	1
+231086	Hadhb	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), beta subunit	-0.09	1
+26394	Lypla2	lysophospholipase 2	0.09	1
+67111	Naaa	N-acylethanolamine acid amidase	-0.09	1
+67469	Abhd5	abhydrolase domain containing 5	0.09	1
+68465	Adipor2	adiponectin receptor 2	-0.09	1
+70316	Ndufab1	NADH:ubiquinone oxidoreductase subunit AB1	-0.09	1
+30963	Hacd1	3-hydroxyacyl-CoA dehydratase 1	0.08	1
+72674	Adipor1	adiponectin receptor 1	-0.08	1
+223722	Mcat	malonyl CoA:ACP acyltransferase (mitochondrial)	-0.07	1
+54325	Elovl1	elongation of very long chain fatty acids (FEN1/Elo2, SUR4/Elo3, yeast)-like 1	0.06	1
+97212	Hadha	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), alpha subunit	-0.06	1
+328035	Fads6	fatty acid desaturase domain family, member 6	0.05	1
+66885	Acadsb	acyl-Coenzyme A dehydrogenase, short/branched chain	-0.04	1
+15488	Hsd17b4	hydroxysteroid (17-beta) dehydrogenase 4	-0.03	1
+74205	Acsl3	acyl-CoA synthetase long-chain family member 3	-0.03	1
+170789	Acot8	acyl-CoA thioesterase 8	-0.02	1
+171210	Acot2	acyl-CoA thioesterase 2	0.02	1
+170439	Elovl6	ELOVL family member 6, elongation of long chain fatty acids (yeast)	-0.01	1

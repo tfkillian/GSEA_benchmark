@@ -1,0 +1,23 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+216233	Socs2	suppressor of cytokine signaling 2	2.01	0.00095
+18011	Neurl1a	neuralized E3 ubiquitin protein ligase 1A	-0.82	1
+545156	Kalrn	kalirin, RhoGEF kinase	-0.44	1
+13162	Slc6a3	solute carrier family 6 (neurotransmitter transporter, dopamine), member 3	-0.39	1
+13666	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	0.35	1
+20851	Stat5b	signal transducer and activator of transcription 5B	-0.32	1
+12443	Ccnd1	cyclin D1	-0.28	1
+18102	Nme1	NME/NM23 nucleoside diphosphate kinase 1	0.24	1
+22724	Zbtb7b	zinc finger and BTB domain containing 7B	-0.21	1
+22282	Usf2	upstream transcription factor 2	-0.19	1
+19014	Med1	mediator complex subunit 1	0.18	1
+102247	Gpat4	glycerol-3-phosphate acyltransferase 4	0.17	1
+12305	Ddr1	discoidin domain receptor family, member 1	-0.17	1
+12675	Chuk	conserved helix-loop-helix ubiquitous kinase	0.14	1
+11821	Aprt	adenine phosphoribosyl transferase	-0.11	1
+12389	Cav1	caveolin 1, caveolae protein	-0.11	1
+15251	Hif1a	hypoxia inducible factor 1, alpha subunit	0.1	1
+12583	Cdo1	cysteine dioxygenase 1, cytosolic	-0.09	1
+22436	Xdh	xanthine dehydrogenase	-0.09	1
+12912	Creb1	cAMP responsive element binding protein 1	-0.08	1
+22339	Vegfa	vascular endothelial growth factor A	0.02	1
+20850	Stat5a	signal transducer and activator of transcription 5A	0	1

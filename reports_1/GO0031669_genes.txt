@@ -1,0 +1,8 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+108079	Prkaa2	protein kinase, AMP-activated, alpha 2 catalytic subunit	-0.58	1
+56717	Mtor	mechanistic target of rapamycin kinase	0.4	1
+208643	Eif4g1	eukaryotic translation initiation factor 4, gamma 1	0.38	1
+105787	Prkaa1	protein kinase, AMP-activated, alpha 1 catalytic subunit	-0.15	1
+12514	Cd68	CD68 antigen	-0.13	1
+22241	Ulk1	unc-51 like kinase 1	-0.1	1
+74370	Rptor	regulatory associated protein of MTOR, complex 1	0.09	1

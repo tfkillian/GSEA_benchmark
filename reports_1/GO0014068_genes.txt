@@ -1,0 +1,52 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+20344	Selp	selectin, platelet	2.24	0.0035
+14254	Flt1	FMS-like tyrosine kinase 1	2.25	0.033
+21687	Tek	TEK receptor tyrosine kinase	-1.8	0.039
+14062	F2r	coagulation factor II (thrombin) receptor	0.7	1
+11600	Angpt1	angiopoietin 1	-0.61	1
+11542	Adora3	adenosine A3 receptor	0.43	1
+22215	Ube3a	ubiquitin protein ligase E3A	0.42	1
+18413	Osm	oncostatin M	0.32	1
+19015	Ppard	peroxisome proliferator activator receptor delta	-0.32	1
+16542	Kdr	kinase insert domain protein receptor	-0.27	1
+18590	Pdgfa	platelet derived growth factor, alpha	-0.27	1
+28106	Mydgf	myeloid derived growth factor	0.26	1
+18806	Pld2	phospholipase D2	-0.25	1
+12359	Cat	catalase	-0.24	1
+15170	Ptpn6	protein tyrosine phosphatase, non-receptor type 6	-0.24	1
+23900	Hcst	hematopoietic cell signal transducer	-0.23	1
+12487	Cd28	CD28 antigen	-0.2	1
+14083	Ptk2	PTK2 protein tyrosine kinase 2	-0.2	1
+18591	Pdgfb	platelet derived growth factor, B polypeptide	0.2	1
+23897	Hax1	HCLS1 associated X-1	0.2	1
+109270	Prr5	proline rich 5 (renal)	0.19	1
+17969	Ncf1	neutrophil cytosolic factor 1	-0.18	1
+19699	Reln	reelin	-0.18	1
+216439	Agap2	ArfGAP with GTPase domain, ankyrin repeat and PH domain 2	-0.18	1
+14360	Fyn	Fyn proto-oncogene	-0.17	1
+11606	Agt	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)	0.16	1
+12402	Cbl	Casitas B-lineage lymphoma	0.16	1
+16173	Il18	interleukin 18	0.16	1
+16337	Insr	insulin receptor	-0.15	1
+21808	Tgfb2	transforming growth factor, beta 2	0.15	1
+19732	Rgl2	ral guanine nucleotide dissociation stimulator-like 2	-0.14	1
+14063	F2rl1	coagulation factor II (thrombin) receptor-like 1	-0.12	1
+107449	Unc5b	unc-5 netrin receptor B	-0.11	1
+16000	Igf1	insulin-like growth factor 1	-0.11	1
+72446	Prr5l	proline rich 5 like	0.11	1
+15234	Hgf	hepatocyte growth factor	-0.08	1
+18596	Pdgfrb	platelet derived growth factor receptor, beta polypeptide	0.08	1
+211323	Nrg1	neuregulin 1	-0.08	1
+93759	Sirt1	sirtuin 1	-0.08	1
+54635	Pdgfc	platelet-derived growth factor, C polypeptide	-0.07	1
+14061	F2	coagulation factor II	-0.06	1
+14191	Fgr	FGR proto-oncogene, Src family tyrosine kinase	-0.06	1
+15163	Hcls1	hematopoietic cell specific Lyn substrate 1	0.06	1
+16001	Igf1r	insulin-like growth factor I receptor	0.06	1
+21926	Tnf	tumor necrosis factor	-0.04	1
+83490	Pik3ap1	phosphoinositide-3-kinase adaptor protein 1	-0.04	1
+17188	Maz	MYC-associated zinc finger protein (purine-binding transcription factor)	-0.03	1
+20354	Sema4d	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4D	-0.02	1
+235611	Plxnb1	plexin B1	-0.02	1
+16452	Jak2	Janus kinase 2	-0.01	1
+19401	Rara	retinoic acid receptor, alpha	-0.01	1

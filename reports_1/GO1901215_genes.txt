@@ -1,0 +1,45 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+16193	Il6	interleukin 6	1.54	0.63
+12490	Cd34	CD34 antigen	1.14	0.65
+20848	Stat3	signal transducer and activator of transcription 3	0.76	0.93
+319801	Tigar	Trp53 induced glycolysis regulatory phosphatase	0.66	1
+56233	Hdac7	histone deacetylase 7	-0.35	1
+57781	Cd200r1	CD200 receptor 1	0.35	1
+14600	Ghr	growth hormone receptor	0.31	1
+15499	Hsf1	heat shock factor 1	0.31	1
+70729	Nos1ap	nitric oxide synthase 1 (neuronal) adaptor protein	-0.3	1
+16438	Itpr1	inositol 1,4,5-trisphosphate receptor 1	0.29	1
+68943	Pink1	PTEN induced putative kinase 1	-0.26	1
+93695	Gpnmb	glycoprotein (transmembrane) nmb	-0.21	1
+17242	Mdk	midkine	-0.2	1
+66725	Lrrk2	leucine-rich repeat kinase 2	-0.2	1
+50873	Prkn	parkin RBR E3 ubiquitin protein ligase	-0.19	1
+19060	Ppp5c	protein phosphatase 5, catalytic subunit	0.18	1
+69754	Fbxo7	F-box protein 7	-0.18	1
+12402	Cbl	Casitas B-lineage lymphoma	0.16	1
+57320	Park7	Parkinson disease (autosomal recessive, early onset) 7	-0.16	1
+75608	Chmp4b	charged multivesicular body protein 4B	0.16	1
+12568	Cdk5	cyclin-dependent kinase 5	-0.15	1
+11816	Apoe	apolipoprotein E	-0.14	1
+21938	Tnfrsf1b	tumor necrosis factor receptor superfamily, member 1b	-0.14	1
+16000	Igf1	insulin-like growth factor 1	-0.11	1
+19696	Rel	reticuloendotheliosis oncogene	-0.11	1
+20317	Serpinf1	serine (or cysteine) peptidase inhibitor, clade F, member 1	0.11	1
+20660	Sorl1	sortilin-related receptor, LDLR class A repeats-containing	-0.11	1
+18007	Neo1	neogenin	-0.1	1
+94245	Dtnbp1	dystrobrevin binding protein 1	-0.1	1
+319757	Smo	smoothened, frizzled class receptor	0.09	1
+12912	Creb1	cAMP responsive element binding protein 1	-0.08	1
+17470	Cd200	CD200 antigen	-0.08	1
+68815	Btbd10	BTB (POZ) domain containing 10	-0.08	1
+93759	Sirt1	sirtuin 1	-0.08	1
+19179	Psmc1	protease (prosome, macropain) 26S subunit, ATPase 1	0.07	1
+12387	Ctnnb1	catenin (cadherin associated protein), beta 1	-0.06	1
+17250	Abcc1	ATP-binding cassette, sub-family C (CFTR/MRP), member 1	0.06	1
+12977	Csf1	colony stimulating factor 1 (macrophage)	-0.05	1
+14466	Gba	glucosidase, beta, acid	0.04	1
+11546	Parp2	poly (ADP-ribose) polymerase family, member 2	-0.02	1
+22339	Vegfa	vascular endothelial growth factor A	0.02	1
+216157	Tmem259	transmembrane protein 259	-0.01	1
+56637	Gsk3b	glycogen synthase kinase 3 beta	0	1
+65114	Vps35	VPS35 retromer complex component	0	1

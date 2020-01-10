@@ -1,0 +1,8 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+216233	Socs2	suppressor of cytokine signaling 2	2.01	0.00095
+20848	Stat3	signal transducer and activator of transcription 3	0.76	0.93
+14600	Ghr	growth hormone receptor	0.31	1
+18708	Pik3r1	phosphoinositide-3-kinase regulatory subunit 1	0.26	1
+14083	Ptk2	PTK2 protein tyrosine kinase 2	-0.2	1
+19303	Pxn	paxillin	-0.02	1
+16452	Jak2	Janus kinase 2	-0.01	1

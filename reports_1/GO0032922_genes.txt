@@ -1,0 +1,55 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+13653	Egr1	early growth response 1	2.2	0.046
+18432	Mybbp1a	MYB binding protein (P160) 1a	1	0.44
+18628	Per3	period circadian clock 3	-0.83	0.55
+14583	Gfpt1	glutamine fructose-6-phosphate transaminase 1	0.6	1
+27374	Prmt5	protein arginine N-methyltransferase 5	0.57	1
+268903	Nrip1	nuclear receptor interacting protein 1	0.52	1
+18143	Npas2	neuronal PAS domain protein 2	0.51	1
+21969	Top1	topoisomerase (DNA) I	0.45	1
+18627	Per2	period circadian clock 2	0.44	1
+107515	Lgr4	leucine-rich repeat-containing G protein-coupled receptor 4	-0.42	1
+20893	Bhlhe40	basic helix-loop-helix family, member e40	0.41	1
+12916	Crem	cAMP responsive element modulator	-0.35	1
+19377	Rai1	retinoic acid induced 1	0.34	1
+19653	Rbm4	RNA binding motif protein 4	0.34	1
+19883	Rora	RAR-related orphan receptor alpha	-0.34	1
+12952	Cry1	cryptochrome 1 (photolyase-like)	0.33	1
+27373	Csnk1e	casein kinase 1, epsilon	-0.3	1
+77035	Kdm8	lysine (K)-specific demethylase 8	0.28	1
+59026	Huwe1	HECT, UBA and WWE domain containing 1	0.27	1
+12457	Noct	nocturnin	0.23	1
+20185	Ncor1	nuclear receptor co-repressor 1	-0.22	1
+15182	Hdac2	histone deacetylase 2	0.21	1
+17978	Ncoa2	nuclear receptor coactivator 2	-0.18	1
+94275	Maged1	melanoma antigen, family D, 1	-0.18	1
+11622	Ahr	aryl-hydrocarbon receptor	0.17	1
+59027	Nampt	nicotinamide phosphoribosyltransferase	0.17	1
+214162	Kmt2a	lysine (K)-specific methyltransferase 2A	-0.15	1
+51810	Hnrnpu	heterogeneous nuclear ribonucleoprotein U	0.15	1
+18854	Pml	promyelocytic leukemia	0.14	1
+108155	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	-0.11	1
+104318	Csnk1d	casein kinase 1, delta	-0.1	1
+15183	Hdac3	histone deacetylase 3	0.09	1
+15902	Id2	inhibitor of DNA binding 2	0.09	1
+19046	Ppp1cb	protein phosphatase 1 catalytic subunit beta	-0.09	1
+225876	Kdm2a	lysine (K)-specific demethylase 2A	-0.09	1
+229599	Ciart	circadian associated repressor of transcription	-0.09	1
+11865	Arntl	aryl hydrocarbon receptor nuclear translocator-like	-0.08	1
+19045	Ppp1ca	protein phosphatase 1 catalytic subunit alpha	-0.08	1
+19698	Relb	avian reticuloendotheliosis viral (v-rel) oncogene related B	-0.08	1
+433759	Hdac1	histone deacetylase 1	-0.08	1
+79362	Bhlhe41	basic helix-loop-helix family, member e41	-0.08	1
+93759	Sirt1	sirtuin 1	-0.08	1
+66704	Rbm4b	RNA binding motif protein 4B	0.07	1
+11906	Zfhx3	zinc finger homeobox 3	-0.06	1
+53376	Usp2	ubiquitin specific peptidase 2	-0.06	1
+11911	Atf4	activating transcription factor 4	0.05	1
+12753	Clock	circadian locomotor output cycles kaput	-0.04	1
+217166	Nr1d1	nuclear receptor subfamily 1, group D, member 1	0.04	1
+116870	Mta1	metastasis associated 1	-0.03	1
+12953	Cry2	cryptochrome 2 (photolyase-like)	0.03	1
+105689	Mycbp2	MYC binding protein 2, E3 ubiquitin protein ligase	0.01	1
+18626	Per1	period circadian clock 1	0.01	1
+214899	Kdm5a	lysine (K)-specific demethylase 5A	-0.01	1
+19047	Ppp1cc	protein phosphatase 1 catalytic subunit gamma	0	1

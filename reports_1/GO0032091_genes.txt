@@ -1,0 +1,60 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+18715	Pim2	proviral integration site 2	2.66	0.0011
+22761	Zfpm1	zinc finger protein, multitype 1	-0.89	0.85
+17869	Myc	myelocytomatosis oncogene	0.9	1
+244667	Disc1	disrupted in schizophrenia 1	0.55	1
+21665	Tdg	thymine DNA glycosylase	0.35	1
+23988	Pin1	protein (peptidyl-prolyl cis/trans isomerase) NIMA-interacting 1	0.33	1
+12578	Cdkn2a	cyclin dependent kinase inhibitor 2A	-0.32	1
+22038	Plscr1	phospholipid scramblase 1	0.32	1
+56812	Dnajb2	DnaJ heat shock protein family (Hsp40) member B2	-0.31	1
+67087	Ctnnbip1	catenin beta interacting protein 1	-0.31	1
+19165	Psen2	presenilin 2	-0.3	1
+27373	Csnk1e	casein kinase 1, epsilon	-0.3	1
+20877	Aurkb	aurora kinase B	-0.25	1
+69028	Mitd1	MIT, microtubule interacting and transport, domain containing 1	0.24	1
+320209	Ddx11	DEAD/H (Asp-Glu-Ala-Asp/His) box helicase 11	0.23	1
+59035	Carm1	coactivator-associated arginine methyltransferase 1	0.23	1
+226352	Epb41l5	erythrocyte membrane protein band 4.1 like 5	-0.22	1
+64143	Ralb	v-ral simian leukemia viral oncogene B	0.22	1
+12028	Bax	BCL2-associated X protein	-0.21	1
+14797	Tle5	TLE family member 5, transcriptional modulator	-0.21	1
+15901	Id1	inhibitor of DNA binding 1, HLH protein	0.21	1
+54723	Tfip11	tuftelin interacting protein 11	0.21	1
+66849	Ppp1r2	protein phosphatase 1, regulatory inhibitor subunit 2	-0.21	1
+11461	Actb	actin, beta	-0.2	1
+18591	Pdgfb	platelet derived growth factor, B polypeptide	0.2	1
+217356	Tmc8	transmembrane channel-like gene family 8	-0.2	1
+66725	Lrrk2	leucine-rich repeat kinase 2	-0.2	1
+20568	Slpi	secretory leukocyte peptidase inhibitor	-0.19	1
+237107	Gnl3l	guanine nucleotide binding protein-like 3 (nucleolar)-like	0.18	1
+56273	Pex14	peroxisomal biogenesis factor 14	0.18	1
+99982	Kdm1a	lysine (K)-specific demethylase 1A	0.17	1
+57320	Park7	Parkinson disease (autosomal recessive, early onset) 7	-0.16	1
+170822	Usp33	ubiquitin specific peptidase 33	-0.15	1
+99412	Golga2	golgi autoantigen, golgin subfamily a, 2	-0.15	1
+110213	Tmbim6	transmembrane BAX inhibitor motif containing 6	-0.14	1
+98053	Gtf2f1	general transcription factor IIF, polypeptide 1	0.12	1
+11538	Adnp	activity-dependent neuroprotective protein	0.11	1
+12389	Cav1	caveolin 1, caveolae protein	-0.11	1
+16976	Lrpap1	low density lipoprotein receptor-related protein associated protein 1	-0.11	1
+20660	Sorl1	sortilin-related receptor, LDLR class A repeats-containing	-0.11	1
+213539	Bag2	BCL2-associated athanogene 2	0.11	1
+56291	Styx	serine/threonine/tyrosine interaction protein	0.11	1
+94245	Dtnbp1	dystrobrevin binding protein 1	-0.1	1
+17257	Mecp2	methyl CpG binding protein 2	0.08	1
+13132	Dab2	disabled 2, mitogen-responsive phosphoprotein	-0.07	1
+19877	Rock1	Rho-associated coiled-coil containing protein kinase 1	0.07	1
+26419	Mapk8	mitogen-activated protein kinase 8	-0.07	1
+102122	Fam192a	family with sequence similarity 192, member A	0.06	1
+16413	Itgb1bp1	integrin beta 1 binding protein 1	0.06	1
+52163	Camk1	calcium/calmodulin-dependent protein kinase I	-0.06	1
+68188	Sympk	symplekin	-0.05	1
+64138	Ctsz	cathepsin Z	-0.04	1
+13542	Dvl1	dishevelled segment polarity protein 1	0.02	1
+11651	Akt1	thymoma viral proto-oncogene 1	0.01	1
+20878	Aurka	aurora kinase A	0.01	1
+75826	Senp2	SUMO/sentrin specific peptidase 2	0.01	1
+15387	Hnrnpk	heterogeneous nuclear ribonucleoprotein K	0	1
+56424	Stub1	STIP1 homology and U-Box containing protein 1	0	1
+56637	Gsk3b	glycogen synthase kinase 3 beta	0	1

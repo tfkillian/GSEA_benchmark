@@ -1,0 +1,43 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+20848	Stat3	signal transducer and activator of transcription 3	0.76	0.93
+15944	Irgm1	immunity-related GTPase family M member 1	0.96	0.98
+16145	Igtp	interferon gamma induced GTPase	0.88	1
+54396	Irgm2	immunity-related GTPase family M member 2	0.68	1
+15953	Ifi47	interferon gamma inducible protein 47	0.62	1
+20847	Stat2	signal transducer and activator of transcription 2	0.5	1
+20311	Cxcl5	chemokine (C-X-C motif) ligand 5	-0.4	1
+16365	Acod1	aconitate decarboxylase 1	-0.38	1
+330122	Cxcl3	chemokine (C-X-C motif) ligand 3	-0.37	1
+21803	Tgfb1	transforming growth factor, beta 1	0.34	1
+20851	Stat5b	signal transducer and activator of transcription 5B	-0.32	1
+21354	Tap1	transporter 1, ATP-binding cassette, sub-family B (MDR/TAP)	0.32	1
+14825	Cxcl1	chemokine (C-X-C motif) ligand 1	-0.31	1
+15499	Hsf1	heat shock factor 1	0.31	1
+257632	Nod2	nucleotide-binding oligomerization domain containing 2	-0.27	1
+20846	Stat1	signal transducer and activator of transcription 1	0.26	1
+20310	Cxcl2	chemokine (C-X-C motif) ligand 2	-0.24	1
+21937	Tnfrsf1a	tumor necrosis factor receptor superfamily, member 1a	0.24	1
+12796	Camp	cathelicidin antimicrobial peptide	-0.21	1
+56744	Pf4	platelet factor 4	-0.17	1
+142980	Tlr3	toll-like receptor 3	-0.15	1
+18054	Ngp	neutrophilic granule protein	-0.15	1
+13010	Cst3	cystatin C	-0.14	1
+13058	Cybb	cytochrome b-245, beta polypeptide	-0.14	1
+14130	Fcgr2b	Fc receptor, IgG, low affinity IIb	0.14	1
+15945	Cxcl10	chemokine (C-X-C motif) ligand 10	-0.14	1
+24088	Tlr2	toll-like receptor 2	-0.12	1
+16985	Lsp1	lymphocyte specific 1	-0.11	1
+21897	Tlr1	toll-like receptor 1	-0.11	1
+432555	Gm5431	predicted gene 5431	0.11	1
+19697	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	-0.09	1
+107607	Nod1	nucleotide-binding oligomerization domain containing 1	0.06	1
+12774	Ccr5	chemokine (C-C motif) receptor 5	-0.06	1
+21356	Tapbp	TAP binding protein	0.06	1
+17523	Mpo	myeloperoxidase	-0.05	1
+20849	Stat4	signal transducer and activator of transcription 4	0.04	1
+21926	Tnf	tumor necrosis factor	-0.04	1
+52065	Mfhas1	malignant fibrous histiocytoma amplified sequence 1	-0.04	1
+13861	Epx	eosinophil peroxidase	-0.01	1
+16149	Cd74	CD74 antigen (invariant polypeptide of major histocompatibility complex, class II antigen-associated)	-0.01	1
+20850	Stat5a	signal transducer and activator of transcription 5A	0	1
+20852	Stat6	signal transducer and activator of transcription 6	0	1

@@ -1,0 +1,33 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+21687	Tek	TEK receptor tyrosine kinase	-1.8	0.039
+11852	Rhob	ras homolog family member B	-0.56	0.59
+12317	Calr	calreticulin	0.55	0.88
+11541	Adora2b	adenosine A2b receptor	0.72	1
+78560	Adgra2	adhesion G protein-coupled receptor A2	0.66	1
+21825	Thbs1	thrombospondin 1	0.62	1
+11600	Angpt1	angiopoietin 1	-0.61	1
+71093	Atoh8	atonal bHLH transcription factor 8	-0.45	1
+101540	Prkd2	protein kinase D2	-0.43	1
+320924	Ccbe1	collagen and calcium binding EGF domains 1	-0.28	1
+16542	Kdr	kinase insert domain protein receptor	-0.27	1
+19229	Ptk2b	PTK2 protein tyrosine kinase 2 beta	0.27	1
+70097	Sash1	SAM and SH3 domain containing 1	-0.18	1
+230738	Zc3h12a	zinc finger CCCH type containing 12A	-0.17	1
+11606	Agt	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)	0.16	1
+20692	Sparc	secreted acidic cysteine rich glycoprotein	0.15	1
+14751	Gpi1	glucose phosphate isomerase 1	-0.14	1
+18750	Prkca	protein kinase C, alpha	-0.14	1
+16416	Itgb3	integrin beta 3	0.1	1
+68992	Zfp580	zinc finger protein 580	-0.1	1
+11745	Anxa3	annexin A3	-0.09	1
+12168	Bmpr2	bone morphogenetic protein receptor, type II (serine/threonine kinase)	-0.09	1
+14824	Grn	granulin	-0.09	1
+23871	Ets1	E26 avian leukemia oncogene 1, 5' domain	0.07	1
+11350	Abl1	c-abl oncogene 1, non-receptor tyrosine kinase	-0.06	1
+16413	Itgb1bp1	integrin beta 1 binding protein 1	0.06	1
+18186	Nrp1	neuropilin 1	-0.05	1
+192197	Bcas3	breast carcinoma amplified sequence 3	-0.05	1
+69683	Emc10	ER membrane protein complex subunit 10	-0.05	1
+19878	Rock2	Rho-associated coiled-coil containing protein kinase 2	-0.04	1
+18570	Pdcd6	programmed cell death 6	0.02	1
+22339	Vegfa	vascular endothelial growth factor A	0.02	1

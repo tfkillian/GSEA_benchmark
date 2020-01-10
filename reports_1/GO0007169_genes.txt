@@ -1,0 +1,42 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+14254	Flt1	FMS-like tyrosine kinase 1	2.25	0.033
+21687	Tek	TEK receptor tyrosine kinase	-1.8	0.039
+13838	Epha4	Eph receptor A4	2.4	0.054
+20779	Src	Rous sarcoma oncogene	-0.9	0.75
+56792	Stap1	signal transducing adaptor family member 1	0.74	1
+11600	Angpt1	angiopoietin 1	-0.61	1
+20187	Ryk	receptor-like tyrosine kinase	0.6	1
+13867	Erbb3	erb-b2 receptor tyrosine kinase 3	-0.46	1
+71943	Tom1l1	target of myb1-like 1 (chicken)	-0.44	1
+13448	Dok1	docking protein 1	-0.29	1
+13835	Epha1	Eph receptor A1	-0.29	1
+16542	Kdr	kinase insert domain protein receptor	-0.27	1
+21846	Tie1	tyrosine kinase with immunoglobulin-like and EGF-like domains 1	-0.26	1
+121021	Cspg4	chondroitin sulfate proteoglycan 4	-0.23	1
+13449	Dok2	docking protein 2	0.22	1
+17060	Blnk	B cell linker	-0.2	1
+17096	Lyn	LYN proto-oncogene, Src family tyrosine kinase	-0.2	1
+13846	Ephb4	Eph receptor B4	-0.19	1
+16590	Kit	KIT proto-oncogene receptor tyrosine kinase	-0.19	1
+52906	Ahi1	Abelson helper integration site 1	-0.19	1
+327826	Frs2	fibroblast growth factor receptor substrate 2	-0.18	1
+12305	Ddr1	discoidin domain receptor family, member 1	-0.17	1
+14360	Fyn	Fyn proto-oncogene	-0.17	1
+19281	Ptprt	protein tyrosine phosphatase, receptor type, T	-0.17	1
+17289	Mertk	MER proto-oncogene tyrosine kinase	-0.16	1
+11601	Angpt2	angiopoietin 2	0.15	1
+16337	Insr	insulin receptor	-0.15	1
+231876	Lmtk2	lemur tyrosine kinase 2	-0.13	1
+15162	Hck	hemopoietic cell kinase	-0.12	1
+12978	Csf1r	colony stimulating factor 1 receptor	-0.1	1
+18596	Pdgfrb	platelet derived growth factor receptor, beta polypeptide	0.08	1
+22612	Yes1	YES proto-oncogene 1, Src family tyrosine kinase	-0.08	1
+26362	Axl	AXL receptor tyrosine kinase	-0.07	1
+14191	Fgr	FGR proto-oncogene, Src family tyrosine kinase	-0.06	1
+16001	Igf1r	insulin-like growth factor I receptor	0.06	1
+12977	Csf1	colony stimulating factor 1 (macrophage)	-0.05	1
+16822	Lcp2	lymphocyte cytosolic protein 2	-0.05	1
+17295	Met	met proto-oncogene	-0.05	1
+14182	Fgfr1	fibroblast growth factor receptor 1	0.03	1
+13649	Egfr	epidermal growth factor receptor	0.02	1
+16797	Lat	linker for activation of T cells	0.01	1

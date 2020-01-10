@@ -1,0 +1,35 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+224129	Adcy5	adenylate cyclase 5	-1.97	0.0012
+19218	Ptger3	prostaglandin E receptor 3 (subtype EP3)	1.09	1
+21390	Tbxa2r	thromboxane A2 receptor	-0.77	1
+11541	Adora2b	adenosine A2b receptor	0.72	1
+11512	Adcy6	adenylate cyclase 6	-0.68	1
+11540	Adora2a	adenosine A2a receptor	-0.45	1
+19217	Ptger2	prostaglandin E receptor 2 (subtype EP2)	-0.41	1
+330814	Adgrl1	adhesion G protein-coupled receptor L1	-0.39	1
+14766	Adgrg1	adhesion G protein-coupled receptor G1	-0.38	1
+26364	Adgre5	adhesion G protein-coupled receptor E5	-0.34	1
+11515	Adcy9	adenylate cyclase 9	0.33	1
+56089	Ramp3	receptor (calcitonin) activity modifying protein 3	-0.3	1
+19222	Ptgir	prostaglandin I receptor (IP)	-0.28	1
+51801	Ramp1	receptor (calcitonin) activity modifying protein 1	-0.24	1
+12310	Calca	calcitonin/calcitonin-related polypeptide, alpha	0.22	1
+14683	Gnas	GNAS (guanine nucleotide binding protein, alpha stimulating) complex locus	-0.2	1
+52614	Adgre4	adhesion G protein-coupled receptor E4	-0.18	1
+11555	Adrb2	adrenergic receptor, beta 2	-0.17	1
+56744	Pf4	platelet factor 4	-0.17	1
+54672	Adgrg3	adhesion G protein-coupled receptor G3	-0.16	1
+15945	Cxcl10	chemokine (C-X-C motif) ligand 10	-0.14	1
+14678	Gnai2	guanine nucleotide binding protein (G protein), alpha inhibiting 2	-0.13	1
+11513	Adcy7	adenylate cyclase 7	0.12	1
+13733	Adgre1	adhesion G protein-coupled receptor E1	-0.11	1
+13611	S1pr4	sphingosine-1-phosphate receptor 4	-0.09	1
+14674	Gna13	guanine nucleotide binding protein, alpha 13	-0.08	1
+14680	Gnal	guanine nucleotide binding protein, alpha stimulating, olfactory type	0.06	1
+14744	Gpr65	G-protein coupled receptor 65	0.06	1
+54598	Calcrl	calcitonin receptor-like	-0.06	1
+104111	Adcy3	adenylate cyclase 3	0.04	1
+14682	Gnaq	guanine nucleotide binding protein, alpha q polypeptide	-0.04	1
+11303	Abca1	ATP-binding cassette, sub-family A (ABC1), member 1	-0.02	1
+19219	Ptger4	prostaglandin E receptor 4 (subtype EP4)	-0.02	1
+99633	Adgrl2	adhesion G protein-coupled receptor L2	0.01	1

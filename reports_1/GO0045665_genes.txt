@@ -1,0 +1,44 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+16176	Il1b	interleukin 1 beta	1.41	0.48
+14357	Dtx1	deltex 1, E3 ubiquitin ligase	1.92	0.63
+12317	Calr	calreticulin	0.55	0.88
+11785	Apbb1	amyloid beta (A4) precursor protein-binding, family B, member 1	-0.69	1
+69064	Fuom	fucose mutarotase	-0.47	1
+18514	Pbx1	pre B cell leukemia homeobox 1	0.43	1
+13684	Eif4e	eukaryotic translation initiation factor 4E	0.4	1
+56484	Foxo3	forkhead box O3	-0.39	1
+212547	Nepro	nucleolus and neural progenitor protein	0.36	1
+12316	Aspm	abnormal spindle microtubule assembly	-0.31	1
+27354	Nbn	nibrin	0.31	1
+66867	Hmg20a	high mobility group 20A	-0.31	1
+69743	Casz1	castor zinc finger 1	-0.23	1
+15901	Id1	inhibitor of DNA binding 1, HLH protein	0.21	1
+19205	Ptbp1	polypyrimidine tract binding protein 1	0.2	1
+28000	Prpf19	pre-mRNA processing factor 19	0.2	1
+68585	Rtn4	reticulon 4	0.2	1
+12704	Cit	citron	-0.19	1
+15205	Hes1	hes family bHLH transcription factor 1	-0.18	1
+19014	Med1	mediator complex subunit 1	0.18	1
+227292	Ctdsp1	CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase 1	-0.18	1
+18128	Notch1	notch 1	-0.15	1
+18131	Notch3	notch 3	0.15	1
+214444	Cdk5rap2	CDK5 regulatory subunit associated protein 2	-0.14	1
+110351	Rap1gap	Rap1 GTPase-activating protein	-0.13	1
+12484	Cd24a	CD24a antigen	-0.13	1
+19716	Bex1	brain expressed X-linked 1	-0.12	1
+12389	Cav1	caveolin 1, caveolae protein	-0.11	1
+11848	Rhoa	ras homolog family member A	-0.1	1
+74203	Eif4enif1	eukaryotic translation initiation factor 4E nuclear import factor 1	-0.1	1
+15902	Id2	inhibitor of DNA binding 2	0.09	1
+27103	Eif2ak4	eukaryotic translation initiation factor 2 alpha kinase 4	0.09	1
+17268	Meis1	Meis homeobox 1	-0.08	1
+13209	Ddx6	DEAD (Asp-Glu-Ala-Asp) box polypeptide 6	0.07	1
+14265	Fmr1	fragile X mental retardation 1	0.06	1
+11820	App	amyloid beta (A4) precursor protein	-0.05	1
+16449	Jag1	jagged 1	-0.04	1
+19712	Rest	RE1-silencing transcription factor	-0.04	1
+67207	Lsm1	LSM1 homolog, mRNA degradation associated	-0.04	1
+22129	Ttc3	tetratricopeptide repeat domain 3	-0.03	1
+16412	Itgb1	integrin beta 1 (fibronectin receptor beta)	0.02	1
+225164	Mib1	mindbomb E3 ubiquitin protein ligase 1	0.02	1
+387609	Zhx2	zinc fingers and homeoboxes 2	-0.02	1

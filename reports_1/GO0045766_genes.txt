@@ -1,0 +1,99 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+16175	Il1a	interleukin 1 alpha	3.08	0.00095
+14254	Flt1	FMS-like tyrosine kinase 1	2.25	0.033
+21687	Tek	TEK receptor tyrosine kinase	-1.8	0.039
+16176	Il1b	interleukin 1 beta	1.41	0.48
+11852	Rhob	ras homolog family member B	-0.56	0.59
+12490	Cd34	CD34 antigen	1.14	0.65
+20848	Stat3	signal transducer and activator of transcription 3	0.76	0.93
+15258	Hipk2	homeodomain interacting protein kinase 2	1.13	1
+18787	Serpine1	serine (or cysteine) peptidase inhibitor, clade E, member 1	0.78	1
+21390	Tbxa2r	thromboxane A2 receptor	-0.77	1
+21825	Thbs1	thrombospondin 1	0.62	1
+18132	Notch4	notch 4	-0.58	1
+11826	Aqp1	aquaporin 1	-0.57	1
+15277	Hk2	hexokinase 2	0.53	1
+14388	Gab1	growth factor receptor bound protein 2-associated protein 1	-0.49	1
+80898	Erap1	endoplasmic reticulum aminopeptidase 1	0.48	1
+22341	Vegfc	vascular endothelial growth factor C	0.46	1
+101540	Prkd2	protein kinase D2	-0.43	1
+68833	Pdcl3	phosducin-like 3	-0.4	1
+20312	Cx3cl1	chemokine (C-X3-C motif) ligand 1	-0.38	1
+23797	Akt3	thymoma viral proto-oncogene 3	-0.36	1
+20130	Rras	related RAS viral (r-ras) oncogene	-0.35	1
+21939	Cd40	CD40 antigen	-0.35	1
+11518	Add1	adducin 1 (alpha)	-0.32	1
+22433	Xbp1	X-box binding protein 1	0.32	1
+13835	Epha1	Eph receptor A1	-0.29	1
+20866	Stim1	stromal interaction molecule 1	-0.28	1
+320924	Ccbe1	collagen and calcium binding EGF domains 1	-0.28	1
+16542	Kdr	kinase insert domain protein receptor	-0.27	1
+19229	Ptk2b	PTK2 protein tyrosine kinase 2 beta	0.27	1
+243912	Hspb6	heat shock protein, alpha-crystallin-related, B6	-0.27	1
+15507	Hspb1	heat shock protein 1	-0.26	1
+21846	Tie1	tyrosine kinase with immunoglobulin-like and EGF-like domains 1	-0.26	1
+28106	Mydgf	myeloid derived growth factor	0.26	1
+21937	Tnfrsf1a	tumor necrosis factor receptor superfamily, member 1a	0.24	1
+12394	Runx1	runt related transcription factor 1	-0.23	1
+70086	Cysltr2	cysteinyl leukotriene receptor 2	0.23	1
+109901	Cela1	chymotrypsin-like elastase family, member 1	-0.21	1
+12796	Camp	cathelicidin antimicrobial peptide	-0.21	1
+13051	Cx3cr1	chemokine (C-X3-C motif) receptor 1	-0.21	1
+16480	Jup	junction plakoglobin	-0.21	1
+16854	Lgals3	lectin, galactose binding, soluble 3	-0.21	1
+18803	Plcg1	phospholipase C, gamma 1	-0.2	1
+68585	Rtn4	reticulon 4	0.2	1
+12189	Brca1	breast cancer 1, early onset	-0.19	1
+12654	Chil1	chitinase-like 1	-0.19	1
+14066	F3	coagulation factor III	-0.18	1
+20698	Sphk1	sphingosine kinase 1	0.18	1
+70097	Sash1	SAM and SH3 domain containing 1	-0.18	1
+230738	Zc3h12a	zinc finger CCCH type containing 12A	-0.17	1
+66549	Aggf1	angiogenic factor with G patch and FHA domains 1	0.17	1
+12273	C5ar1	complement component 5a receptor 1	-0.16	1
+13601	Ecm1	extracellular matrix protein 1	0.16	1
+21813	Tgfbr2	transforming growth factor, beta receptor II	-0.16	1
+11601	Angpt2	angiopoietin 2	0.15	1
+13036	Ctsh	cathepsin H	-0.15	1
+142980	Tlr3	toll-like receptor 3	-0.15	1
+15364	Hmga2	high mobility group AT-hook 2	-0.15	1
+69219	Ddah1	dimethylarginine dimethylaminohydrolase 1	-0.15	1
+76905	Lrg1	leucine-rich alpha-2-glycoprotein 1	0.15	1
+13058	Cybb	cytochrome b-245, beta polypeptide	-0.14	1
+18750	Prkca	protein kinase C, alpha	-0.14	1
+15586	Hyal1	hyaluronoglucosaminidase 1	-0.13	1
+16414	Itgb2	integrin beta 2	-0.13	1
+17395	Mmp9	matrix metallopeptidase 9	-0.13	1
+12266	C3	complement component 3	-0.12	1
+12765	Cxcr2	chemokine (C-X-C motif) receptor 2	-0.12	1
+16411	Itgax	integrin alpha X	-0.11	1
+15251	Hif1a	hypoxia inducible factor 1, alpha subunit	0.1	1
+15368	Hmox1	heme oxygenase 1	-0.1	1
+16416	Itgb3	integrin beta 3	0.1	1
+67154	Mtdh	metadherin	-0.1	1
+11745	Anxa3	annexin A3	-0.09	1
+14824	Grn	granulin	-0.09	1
+13805	Eng	endoglin	-0.08	1
+15234	Hgf	hepatocyte growth factor	-0.08	1
+93759	Sirt1	sirtuin 1	-0.08	1
+104709	Pik3r6	phosphoinositide-3-kinase regulatory subunit 5	-0.07	1
+12226	Btg1	BTG anti-proliferation factor 1	0.07	1
+18176	Nras	neuroblastoma ras oncogene	0.07	1
+23871	Ets1	E26 avian leukemia oncogene 1, 5' domain	0.07	1
+12267	C3ar1	complement component 3a receptor 1	-0.06	1
+14461	Gata2	GATA binding protein 2	0.06	1
+18751	Prkcb	protein kinase C, beta	-0.06	1
+239528	Ago2	argonaute RISC catalytic subunit 2	0.06	1
+70584	Pak4	p21 (RAC1) activated kinase 4	-0.06	1
+18186	Nrp1	neuropilin 1	-0.05	1
+69683	Emc10	ER membrane protein complex subunit 10	-0.05	1
+18024	Nfe2l2	nuclear factor, erythroid derived 2, like 2	0.04	1
+22340	Vegfb	vascular endothelial growth factor B	0.04	1
+18607	Pdpk1	3-phosphoinositide dependent protein kinase 1	-0.03	1
+11482	Acvrl1	activin A receptor, type II-like 1	0.02	1
+16412	Itgb1	integrin beta 1 (fibronectin receptor beta)	0.02	1
+18570	Pdcd6	programmed cell death 6	0.02	1
+19303	Pxn	paxillin	-0.02	1
+20683	Sp1	trans-acting transcription factor 1	0.02	1
+22339	Vegfa	vascular endothelial growth factor A	0.02	1
+58861	Cysltr1	cysteinyl leukotriene receptor 1	0	1

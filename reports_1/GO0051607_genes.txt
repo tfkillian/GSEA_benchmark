@@ -1,0 +1,126 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+67065	Polr3d	polymerase (RNA) III (DNA directed) polypeptide D	1.13	0.4
+78929	Polr3h	polymerase (RNA) III (DNA directed) polypeptide H	0.95	0.57
+16193	Il6	interleukin 6	1.54	0.63
+56200	Ddx21	DEAD (Asp-Glu-Ala-Asp) box polypeptide 21	1.08	0.75
+26939	Polr3e	polymerase (RNA) III (DNA directed) polypeptide E	0.53	0.78
+20128	Trim30a	tripartite motif-containing 30A	0.63	1
+112419	Ifit1bl2	interferon induced protein with tetratricopeptide repeats 1B like 2	-0.62	1
+209200	Dtx3l	deltex 3-like, E3 ubiquitin ligase	0.53	1
+20847	Stat2	signal transducer and activator of transcription 2	0.5	1
+230073	Ddx58	DEAD (Asp-Glu-Ala-Asp) box polypeptide 58	0.48	1
+80285	Parp9	poly (ADP-ribose) polymerase family, member 9	0.45	1
+106759	Ticam1	toll-like receptor adaptor molecule 1	0.4	1
+71586	Ifih1	interferon induced with helicase C domain 1	0.4	1
+214763	Cgas	cyclic GMP-AMP synthase	0.37	1
+319278	Shfl	shiftless antiviral inhibitor of ribosomal frameshifting	0.37	1
+104721	Ddx1	DEAD (Asp-Glu-Ala-Asp) box polypeptide 1	0.35	1
+15587	Hyal2	hyaluronoglucosaminidase 2	-0.35	1
+16362	Irf1	interferon regulatory factor 1	0.35	1
+21939	Cd40	CD40 antigen	-0.35	1
+66141	Ifitm3	interferon induced transmembrane protein 3	0.35	1
+80287	Apobec3	apolipoprotein B mRNA editing enzyme, catalytic polypeptide 3	0.34	1
+22038	Plscr1	phospholipid scramblase 1	0.32	1
+70450	Unc13d	unc-13 homolog D	-0.31	1
+67005	Polr3k	polymerase (RNA) III (DNA directed) polypeptide K	0.3	1
+231093	Agbl5	ATP/GTP binding protein-like 5	-0.29	1
+246730	Oas1a	2'-5' oligoadenylate synthetase 1A	0.29	1
+26943	Serinc3	serine incorporator 3	-0.29	1
+27041	G3bp1	GTPase activating protein (SH3 domain) binding protein 1	0.29	1
+228607	Mavs	mitochondrial antiviral signaling protein	-0.28	1
+20846	Stat1	signal transducer and activator of transcription 1	0.26	1
+74747	Ddit4	DNA-damage-inducible transcript 4	-0.26	1
+12177	Bnip3l	BCL2/adenovirus E1B interacting protein 3-like	-0.25	1
+217069	Trim25	tripartite motif-containing 25	0.25	1
+27406	Abcf3	ATP-binding cassette, sub-family F (GCN20), member 3	0.25	1
+56417	Adar	adenosine deaminase, RNA-specific	0.24	1
+19106	Eif2ak2	eukaryotic translation initiation factor 2-alpha kinase 2	0.23	1
+384309	Trim56	tripartite motif-containing 56	0.22	1
+66874	Ncbp3	nuclear cap binding subunit 3	-0.22	1
+16201	Ilf3	interleukin enhancer binding factor 3	0.21	1
+66878	Riok3	RIO kinase 3	0.21	1
+13052	Cxadr	coxsackie virus and adenovirus receptor	-0.2	1
+234311	Ddx60	DEAD (Asp-Glu-Ala-Asp) box polypeptide 60	0.19	1
+70428	Polr3b	polymerase (RNA) III (DNA directed) polypeptide B	0.19	1
+72536	Tagap	T cell activation Rho GTPase activating protein	-0.19	1
+14349	Fv1	Friend virus susceptibility 1	0.18	1
+17101	Lyst	lysosomal trafficking regulator	-0.18	1
+216799	Nlrp3	NLR family, pyrin domain containing 3	-0.18	1
+23962	Oasl2	2'-5' oligoadenylate synthetase-like 2	0.18	1
+276950	Slfn8	schlafen 8	0.18	1
+27998	Exosc5	exosome component 5	0.18	1
+23961	Oas1b	2'-5' oligoadenylate synthetase 1B	-0.17	1
+107569	Nt5c3	5'-nucleotidase, cytosolic III	0.16	1
+19264	Ptprc	protein tyrosine phosphatase, receptor type, C	-0.16	1
+67070	Lsm14a	LSM14A mRNA processing body assembly factor	-0.16	1
+142980	Tlr3	toll-like receptor 3	-0.15	1
+14732	Gpam	glycerol-3-phosphate acyltransferase, mitochondrial	0.15	1
+12675	Chuk	conserved helix-loop-helix ubiquitous kinase	0.14	1
+12909	Crcp	calcitonin gene-related peptide-receptor component protein	0.14	1
+15945	Cxcl10	chemokine (C-X-C motif) ligand 10	-0.14	1
+170743	Tlr7	toll-like receptor 7	-0.14	1
+18854	Pml	promyelocytic leukemia	0.14	1
+213002	Ifitm6	interferon induced transmembrane protein 6	-0.14	1
+237886	Slfn9	schlafen 9	-0.14	1
+54131	Irf3	interferon regulatory factor 3	-0.14	1
+56045	Samhd1	SAM domain and HD domain, 1	0.14	1
+66824	Pycard	PYD and CARD domain containing	-0.14	1
+70408	Polr3f	polymerase (RNA) III (DNA directed) polypeptide F	0.14	1
+94094	Trim34a	tripartite motif-containing 34A	0.14	1
+109075	Exosc4	exosome component 4	0.13	1
+23960	Oas1g	2'-5' oligoadenylate synthetase 1G	0.13	1
+242700	Ifnlr1	interferon lambda receptor 1	-0.13	1
+27056	Irf5	interferon regulatory factor 5	-0.13	1
+58203	Zbp1	Z-DNA binding protein 1	0.13	1
+66505	Zmynd11	zinc finger, MYND domain containing 11	-0.13	1
+67040	Ddx17	DEAD (Asp-Glu-Ala-Asp) box polypeptide 17	0.13	1
+67917	Zcchc3	zinc finger, CCHC domain containing 3	0.13	1
+14063	F2rl1	coagulation factor II (thrombin) receptor-like 1	-0.12	1
+15979	Ifngr1	interferon gamma receptor 1	-0.12	1
+192119	Dicer1	dicer 1, ribonuclease type III	0.12	1
+56208	Becn1	beclin 1, autophagy related	-0.12	1
+15975	Ifnar1	interferon (alpha and beta) receptor 1	-0.11	1
+16411	Itgax	integrin alpha X	-0.11	1
+18521	Pcbp2	poly(rC) binding protein 2	0.11	1
+53859	Map3k14	mitogen-activated protein kinase kinase kinase 14	-0.11	1
+54445	Unc93b1	unc-93 homolog B1, TLR signaling regulator	-0.11	1
+67486	Polr3g	polymerase (RNA) III (DNA directed) polypeptide G	-0.11	1
+72512	Tmem173	transmembrane protein 173	-0.11	1
+72935	Ddx41	DEAD (Asp-Glu-Ala-Asp) box polypeptide 41	-0.11	1
+100689	Spon2	spondin 2, extracellular matrix protein	-0.1	1
+14082	Fadd	Fas (TNFRSF6)-associated via death domain	-0.1	1
+15980	Ifngr2	interferon gamma receptor 2	-0.1	1
+16155	Il10rb	interleukin 10 receptor, beta	-0.1	1
+18983	Cnot7	CCR4-NOT transcription complex, subunit 7	0.1	1
+225471	Ticam2	toll-like receptor adaptor molecule 2	-0.1	1
+24014	Rnasel	ribonuclease L (2', 5'-oligoisoadenylate synthetase-dependent)	0.1	1
+54633	Pqbp1	polyglutamine binding protein 1	0.1	1
+74244	Atg7	autophagy related 7	-0.1	1
+11810	Apobec1	apolipoprotein B mRNA editing enzyme, catalytic polypeptide 1	-0.09	1
+170744	Tlr8	toll-like receptor 8	-0.09	1
+246727	Oas3	2'-5' oligoadenylate synthetase 3	0.09	1
+27103	Eif2ak4	eukaryotic translation initiation factor 2 alpha kinase 4	0.09	1
+67775	Rtp4	receptor transporter protein 4	0.09	1
+80861	Dhx58	DEXH (Asp-Glu-X-His) box polypeptide 58	0.09	1
+12043	Bcl2	B cell leukemia/lymphoma 2	-0.08	1
+246728	Oas2	2'-5' oligoadenylate synthetase 2	0.08	1
+16363	Irf2	interferon regulatory factor 2	0.07	1
+76681	Trim12a	tripartite motif-containing 12A	-0.07	1
+27401	Skp2	S-phase kinase-associated protein 2 (p45)	-0.06	1
+332579	Card9	caspase recruitment domain family, member 9	-0.06	1
+68713	Ifitm1	interferon induced transmembrane protein 1	0.06	1
+72162	Dhx36	DEAH (Asp-Glu-Ala-His) box polypeptide 36	0.06	1
+224840	Treml4	triggering receptor expressed on myeloid cells-like 4	-0.04	1
+57444	Isg20	interferon-stimulated protein	0.04	1
+16396	Itch	itchy, E3 ubiquitin protein ligase	-0.03	1
+56480	Tbk1	TANK-binding kinase 1	0.03	1
+81897	Tlr9	toll-like receptor 9	0.03	1
+94091	Trim11	tripartite motif-containing 11	0.03	1
+235626	Setd2	SET domain containing 2	-0.02	1
+78781	Zc3hav1	zinc finger CCCH type, antiviral 1	0.02	1
+74414	Polr3c	polymerase (RNA) III (DNA directed) polypeptide C	0.01	1
+80876	Ifitm2	interferon induced transmembrane protein 2	-0.01	1
+114643	Oas1c	2'-5' oligoadenylate synthetase 1C	0	1
+12524	Cd86	CD86 antigen	0	1
+15976	Ifnar2	interferon (alpha and beta) receptor 2	0	1
+218442	Serinc5	serine incorporator 5	0	1

@@ -1,0 +1,25 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+51789	Tnk2	tyrosine kinase, non-receptor, 2	-0.95	0.13
+20779	Src	Rous sarcoma oncogene	-0.9	0.75
+21682	Tec	tec protein tyrosine kinase	0.47	1
+16542	Kdr	kinase insert domain protein receptor	-0.27	1
+19229	Ptk2b	PTK2 protein tyrosine kinase 2 beta	0.27	1
+20491	Sla	src-like adaptor	-0.25	1
+12229	Btk	Bruton agammaglobulinemia tyrosine kinase	0.22	1
+14083	Ptk2	PTK2 protein tyrosine kinase 2	-0.2	1
+17096	Lyn	LYN proto-oncogene, Src family tyrosine kinase	-0.2	1
+26417	Mapk3	mitogen-activated protein kinase 3	-0.19	1
+11302	Aatk	apoptosis-associated tyrosine kinase	-0.17	1
+12169	Bmx	BMX non-receptor tyrosine kinase	-0.17	1
+12305	Ddr1	discoidin domain receptor family, member 1	-0.17	1
+14360	Fyn	Fyn proto-oncogene	-0.17	1
+16337	Insr	insulin receptor	-0.15	1
+11352	Abl2	v-abl Abelson murine leukemia viral oncogene 2 (arg, Abelson-related gene)	0.13	1
+15162	Hck	hemopoietic cell kinase	-0.12	1
+22612	Yes1	YES proto-oncogene 1, Src family tyrosine kinase	-0.08	1
+11350	Abl1	c-abl oncogene 1, non-receptor tyrosine kinase	-0.06	1
+14191	Fgr	FGR proto-oncogene, Src family tyrosine kinase	-0.06	1
+16001	Igf1r	insulin-like growth factor I receptor	0.06	1
+16428	Itk	IL2 inducible T cell kinase	0.06	1
+13649	Egfr	epidermal growth factor receptor	0.02	1
+13548	Dyrk1a	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1a	0	1

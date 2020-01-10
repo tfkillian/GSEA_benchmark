@@ -1,0 +1,25 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+16193	Il6	interleukin 6	1.54	0.63
+108689	Stn1	STN1, CST complex subunit	-0.46	1
+18148	Npm1	nucleophosmin 1	0.46	1
+12301	Cacybp	calcyclin binding protein	0.32	1
+68964	Ctc1	CTS telomere maintenance complex component 1	-0.23	1
+12540	Cdc42	cell division cycle 42	-0.22	1
+13211	Dhx9	DEAH (Asp-Glu-Ala-His) box polypeptide 9	0.21	1
+26398	Map2k4	mitogen-activated protein kinase kinase 4	0.21	1
+19353	Rac1	Rac family small GTPase 1	-0.2	1
+21927	Tnfaip1	tumor necrosis factor, alpha-induced protein 1 (endothelial)	-0.17	1
+237877	Atad5	ATPase family, AAA domain containing 5	-0.16	1
+18538	Pcna	proliferating cell nuclear antigen	-0.15	1
+13010	Cst3	cystatin C	-0.14	1
+233877	Kctd13	potassium channel tetramerisation domain containing 13	-0.12	1
+15461	Hras	Harvey rat sarcoma virus oncogene	-0.07	1
+26419	Mapk8	mitogen-activated protein kinase 8	-0.07	1
+11908	Atf1	activating transcription factor 1	-0.06	1
+16476	Jun	jun proto-oncogene	-0.06	1
+17295	Met	met proto-oncogene	-0.05	1
+12534	Cdk1	cyclin-dependent kinase 1	-0.04	1
+14084	Faf1	Fas-associated factor 1	-0.04	1
+13649	Egfr	epidermal growth factor receptor	0.02	1
+327762	Dna2	DNA replication helicase/nuclease 2	0.01	1
+67177	Cdt1	chromatin licensing and DNA replication factor 1	-0.01	1

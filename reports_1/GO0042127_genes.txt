@@ -1,0 +1,142 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+51789	Tnk2	tyrosine kinase, non-receptor, 2	-0.95	0.13
+17874	Myd88	myeloid differentiation primary response gene 88	0.64	0.56
+16193	Il6	interleukin 6	1.54	0.63
+20848	Stat3	signal transducer and activator of transcription 3	0.76	0.93
+58250	Chst11	carbohydrate sulfotransferase 11	0.56	0.97
+386655	Eid2	EP300 interacting inhibitor of differentiation 2	0.87	1
+19225	Ptgs2	prostaglandin-endoperoxide synthase 2	0.85	1
+18787	Serpine1	serine (or cysteine) peptidase inhibitor, clade E, member 1	0.78	1
+72469	Plcd3	phospholipase C, delta 3	-0.77	1
+110784	Nr3c2	nuclear receptor subfamily 3, group C, member 2	-0.71	1
+17988	Ndrg1	N-myc downstream regulated gene 1	-0.67	1
+12571	Cdk6	cyclin-dependent kinase 6	0.66	1
+16190	Il4ra	interleukin 4 receptor, alpha	0.62	1
+16706	Ksr1	kinase suppressor of ras 1	-0.62	1
+18783	Pla2g4a	phospholipase A2, group IVA (cytosolic, calcium-dependent)	0.6	1
+21753	Tes	testis derived transcript	0.58	1
+20847	Stat2	signal transducer and activator of transcription 2	0.5	1
+26570	Slc7a11	solute carrier family 7 (cationic amino acid transporter, y+ system), member 11	0.49	1
+30877	Gnl3	guanine nucleotide binding protein-like 3 (nucleolar)	0.49	1
+19224	Ptgs1	prostaglandin-endoperoxide synthase 1	0.47	1
+13867	Erbb3	erb-b2 receptor tyrosine kinase 3	-0.46	1
+18514	Pbx1	pre B cell leukemia homeobox 1	0.43	1
+108686	Ccdc88a	coiled coil domain containing 88A	-0.42	1
+217124	Ppp1r9b	protein phosphatase 1, regulatory subunit 9B	0.42	1
+19217	Ptger2	prostaglandin E receptor 2 (subtype EP2)	-0.41	1
+112407	Egln3	egl-9 family hypoxia-inducible factor 3	-0.38	1
+15441	Hp1bp3	heterochromatin protein 1, binding protein 3	-0.35	1
+20775	Sqle	squalene epoxidase	0.35	1
+66953	Cdca7	cell division cycle associated 7	0.35	1
+14235	Foxm1	forkhead box M1	-0.34	1
+21803	Tgfb1	transforming growth factor, beta 1	0.34	1
+23988	Pin1	protein (peptidyl-prolyl cis/trans isomerase) NIMA-interacting 1	0.33	1
+12122	Bid	BH3 interacting domain death agonist	-0.32	1
+19015	Ppard	peroxisome proliferator activator receptor delta	-0.32	1
+20851	Stat5b	signal transducer and activator of transcription 5B	-0.32	1
+104394	E2f4	E2F transcription factor 4	0.31	1
+14056	Ezh2	enhancer of zeste 2 polycomb repressive complex 2 subunit	-0.31	1
+68240	Rpa3	replication protein A3	-0.29	1
+12798	Cnn2	calponin 2	-0.28	1
+17179	Matk	megakaryocyte-associated tyrosine kinase	-0.27	1
+19229	Ptk2b	PTK2 protein tyrosine kinase 2 beta	0.27	1
+67014	Riox2	ribosomal oxygenase 2	0.27	1
+12520	Cd81	CD81 antigen	-0.26	1
+20846	Stat1	signal transducer and activator of transcription 1	0.26	1
+12576	Cdkn1b	cyclin-dependent kinase inhibitor 1B	-0.25	1
+17134	Mafg	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein G (avian)	-0.25	1
+20491	Sla	src-like adaptor	-0.25	1
+26379	Esrra	estrogen related receptor, alpha	-0.25	1
+13433	Dnmt1	DNA methyltransferase (cytosine-5) 1	-0.24	1
+16450	Jag2	jagged 2	-0.24	1
+18792	Plau	plasminogen activator, urokinase	-0.24	1
+74347	Meak7	MTOR associated protein , eak-7 homolog	-0.24	1
+98496	Pid1	phosphotyrosine interaction domain containing 1	-0.23	1
+13360	Dhcr7	7-dehydrocholesterol reductase	-0.22	1
+109901	Cela1	chymotrypsin-like elastase family, member 1	-0.21	1
+15939	Ier5	immediate early response 5	0.21	1
+16480	Jup	junction plakoglobin	-0.21	1
+14083	Ptk2	PTK2 protein tyrosine kinase 2	-0.2	1
+21349	Tal1	T cell acute lymphocytic leukemia 1	0.2	1
+21950	Tnfsf9	tumor necrosis factor (ligand) superfamily, member 9	0.2	1
+26450	Rbbp9	retinoblastoma binding protein 9, serine hydrolase	-0.2	1
+12211	Birc6	baculoviral IAP repeat-containing 6	0.19	1
+216858	Kctd11	potassium channel tetramerisation domain containing 11	0.19	1
+56458	Foxo1	forkhead box O1	-0.19	1
+70294	Rnf126	ring finger protein 126	0.19	1
+14102	Fas	Fas (TNF receptor superfamily member 6)	-0.17	1
+18764	Pkd2	polycystin 2, transient receptor potential cation channel	0.17	1
+56744	Pf4	platelet factor 4	-0.17	1
+16468	Jarid2	jumonji, AT rich interactive domain 2	0.16	1
+17128	Smad4	SMAD family member 4	-0.16	1
+17342	Mitf	melanogenesis associated transcription factor	0.16	1
+18035	Nfkbia	nuclear factor of kappa light polypeptide gene enhancer in B cells inhibitor, alpha	-0.16	1
+21813	Tgfbr2	transforming growth factor, beta receptor II	-0.16	1
+67030	Fancl	Fanconi anemia, complementation group L	-0.16	1
+18128	Notch1	notch 1	-0.15	1
+20692	Sparc	secreted acidic cysteine rich glycoprotein	0.15	1
+21808	Tgfb2	transforming growth factor, beta 2	0.15	1
+24064	Spry2	sprouty RTK signaling antagonist 2	-0.15	1
+56338	Txnip	thioredoxin interacting protein	-0.15	1
+14815	Nr3c1	nuclear receptor subfamily 3, group C, member 1	-0.14	1
+15945	Cxcl10	chemokine (C-X-C motif) ligand 10	-0.14	1
+20195	S100a11	S100 calcium binding protein A11	-0.14	1
+20229	Sat1	spermidine/spermine N1-acetyl transferase 1	-0.14	1
+11352	Abl2	v-abl Abelson murine leukemia viral oncogene 2 (arg, Abelson-related gene)	0.13	1
+15242	Hhex	hematopoietically expressed homeobox	0.13	1
+16952	Anxa1	annexin A1	-0.13	1
+21942	Tnfrsf9	tumor necrosis factor receptor superfamily, member 9	0.13	1
+56469	Pias1	protein inhibitor of activated STAT 1	-0.13	1
+12913	Creb3	cAMP responsive element binding protein 3	-0.12	1
+13858	Eps15	epidermal growth factor receptor pathway substrate 15	-0.12	1
+23991	Cib1	calcium and integrin binding 1 (calmyrin)	-0.12	1
+12567	Cdk4	cyclin-dependent kinase 4	0.11	1
+14159	Fes	feline sarcoma oncogene	-0.11	1
+16000	Igf1	insulin-like growth factor 1	-0.11	1
+18015	Nf1	neurofibromin 1	0.11	1
+22601	Yap1	yes-associated protein 1	-0.11	1
+12053	Bcl6	B cell leukemia/lymphoma 6	-0.1	1
+14087	Fanca	Fanconi anemia, complementation group A	-0.1	1
+15251	Hif1a	hypoxia inducible factor 1, alpha subunit	0.1	1
+16776	Lama5	laminin, alpha 5	0.1	1
+11810	Apobec1	apolipoprotein B mRNA editing enzyme, catalytic polypeptide 1	-0.09	1
+12168	Bmpr2	bone morphogenetic protein receptor, type II (serine/threonine kinase)	-0.09	1
+20416	Shc1	src homology 2 domain-containing transforming protein C1	-0.09	1
+109880	Braf	Braf transforming gene	-0.08	1
+12142	Prdm1	PR domain containing 1, with ZNF domain	-0.08	1
+22059	Trp53	transformation related protein 53	0.08	1
+231807	Map11	microtubule associated protein 11	-0.08	1
+93759	Sirt1	sirtuin 1	-0.08	1
+12606	Cebpa	CCAAT/enhancer binding protein (C/EBP), alpha	-0.07	1
+16974	Lrp6	low density lipoprotein receptor-related protein 6	0.07	1
+19206	Ptch1	patched 1	0.07	1
+105352	Dusp22	dual specificity phosphatase 22	0.06	1
+11350	Abl1	c-abl oncogene 1, non-receptor tyrosine kinase	-0.06	1
+12387	Ctnnb1	catenin (cadherin associated protein), beta 1	-0.06	1
+12445	Ccnd3	cyclin D3	0.06	1
+21414	Tcf7	transcription factor 7, T cell specific	-0.06	1
+12385	Ctnna1	catenin (cadherin associated protein), alpha 1	-0.05	1
+12649	Chek1	checkpoint kinase 1	-0.05	1
+19290	Pura	purine rich element binding protein A	0.05	1
+19664	Rbpj	recombination signal binding protein for immunoglobulin kappa J region	0.05	1
+14158	Fer	fer (fms/fps related) protein kinase	0.04	1
+16449	Jag1	jagged 1	-0.04	1
+17191	Mbd2	methyl-CpG binding domain protein 2	0.04	1
+18016	Nf2	neurofibromin 2	0.04	1
+20849	Stat4	signal transducer and activator of transcription 4	0.04	1
+21926	Tnf	tumor necrosis factor	-0.04	1
+23922	Jtb	jumping translocation breakpoint	0.04	1
+406217	Bex4	brain expressed X-linked 4	0.04	1
+14182	Fgfr1	fibroblast growth factor receptor 1	0.03	1
+16600	Klf4	Kruppel-like factor 4 (gut)	-0.03	1
+13649	Egfr	epidermal growth factor receptor	0.02	1
+14595	B4galt1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	0.02	1
+71839	Osgin1	oxidative stress induced growth inhibitor 1	-0.02	1
+100710	Pds5b	PDS5 cohesin associated factor B	-0.01	1
+64010	Sav1	salvador family WW domain containing 1	-0.01	1
+76089	Rapgef2	Rap guanine nucleotide exchange factor (GEF) 2	-0.01	1
+106021	Topors	topoisomerase I binding, arginine/serine-rich	0	1
+12759	Clu	clusterin	0	1
+20850	Stat5a	signal transducer and activator of transcription 5A	0	1
+20852	Stat6	signal transducer and activator of transcription 6	0	1
+23837	Cfdp1	craniofacial development protein 1	0	1

@@ -1,0 +1,54 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+18715	Pim2	proviral integration site 2	2.66	0.0011
+320595	Phf8	PHD finger protein 8	1.43	0.45
+12795	Plk3	polo like kinase 3	0.78	0.64
+12444	Ccnd2	cyclin D2	1.12	0.9
+63955	Cables1	CDK5 and Abl enzyme substrate 1	0.65	1
+12580	Cdkn2c	cyclin dependent kinase inhibitor 2C	-0.56	1
+100088	Rcc1	regulator of chromosome condensation 1	0.53	1
+18018	Nfatc1	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 1	-0.45	1
+106795	Tcf19	transcription factor 19	-0.4	1
+13684	Eif4e	eukaryotic translation initiation factor 4E	0.4	1
+404710	Iqgap3	IQ motif containing GTPase activating protein 3	-0.35	1
+12578	Cdkn2a	cyclin dependent kinase inhibitor 2A	-0.32	1
+12530	Cdc25a	cell division cycle 25A	0.31	1
+11479	Acvr1b	activin A receptor, type 1B	0.28	1
+12443	Ccnd1	cyclin D1	-0.28	1
+19645	Rb1	RB transcriptional corepressor 1	-0.28	1
+50523	Lats2	large tumor suppressor 2	-0.27	1
+13559	E2f5	E2F transcription factor 5	0.26	1
+12576	Cdkn1b	cyclin-dependent kinase inhibitor 1B	-0.25	1
+17863	Myb	myeloblastosis oncogene	0.24	1
+72508	Rps6kb1	ribosomal protein S6 kinase, polypeptide 1	0.22	1
+66214	Rgcc	regulator of cell cycle	-0.2	1
+18973	Pole	polymerase (DNA directed), epsilon	-0.19	1
+225182	Rbbp8	retinoblastoma binding protein 8, endonuclease	-0.17	1
+54394	Crlf3	cytokine receptor-like factor 3	-0.17	1
+56696	Gpr132	G protein-coupled receptor 132	-0.17	1
+12448	Ccne2	cyclin E2	-0.15	1
+17420	Mnat1	menage a trois 1	-0.14	1
+12322	Camk2a	calcium/calmodulin-dependent protein kinase II alpha	-0.13	1
+16798	Lats1	large tumor suppressor	0.13	1
+56469	Pias1	protein inhibitor of activated STAT 1	-0.13	1
+12566	Cdk2	cyclin-dependent kinase 2	-0.12	1
+12567	Cdk4	cyclin-dependent kinase 4	0.11	1
+24075	Taf10	TATA-box binding protein associated factor 10	-0.11	1
+319651	Usp37	ubiquitin specific peptidase 37	0.11	1
+13685	Eif4ebp1	eukaryotic translation initiation factor 4E binding protein 1	0.1	1
+102423	Hinfp	histone H4 transcription factor	-0.09	1
+108058	Camk2d	calcium/calmodulin-dependent protein kinase II, delta	-0.08	1
+16323	Inhba	inhibin beta-A	-0.08	1
+67628	Anp32b	acidic (leucine-rich) nuclear phosphoprotein 32 family, member B	0.08	1
+78832	Cacul1	CDK2 associated, cullin domain 1	0.08	1
+12325	Camk2g	calcium/calmodulin-dependent protein kinase II gamma	0.07	1
+11477	Acvr1	activin A receptor, type 1	-0.06	1
+12581	Cdkn2d	cyclin dependent kinase inhibitor 2D	0.06	1
+20104	Rps6	ribosomal protein S6	-0.06	1
+27401	Skp2	S-phase kinase-associated protein 2 (p45)	-0.06	1
+69581	Rhou	ras homolog family member U	-0.05	1
+12575	Cdkn1a	cyclin-dependent kinase inhibitor 1A (P21)	0.03	1
+16412	Itgb1	integrin beta 1 (fibronectin receptor beta)	0.02	1
+19055	Ppp3ca	protein phosphatase 3, catalytic subunit, alpha isoform	-0.02	1
+12447	Ccne1	cyclin E1	-0.01	1
+20620	Plk2	polo like kinase 2	-0.01	1
+50927	Nasp	nuclear autoantigenic sperm protein (histone-binding)	0.01	1

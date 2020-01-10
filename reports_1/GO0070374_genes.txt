@@ -1,0 +1,130 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+16175	Il1a	interleukin 1 alpha	3.08	0.00095
+14254	Flt1	FMS-like tyrosine kinase 1	2.25	0.033
+21687	Tek	TEK receptor tyrosine kinase	-1.8	0.039
+15357	Hmgcr	3-hydroxy-3-methylglutaryl-Coenzyme A reductase	0.56	0.47
+16176	Il1b	interleukin 1 beta	1.41	0.48
+16193	Il6	interleukin 6	1.54	0.63
+66129	Prxl2c	peroxiredoxin like 2C	-0.69	0.69
+20779	Src	Rous sarcoma oncogene	-0.9	0.75
+85305	Kars	lysyl-tRNA synthetase	0.52	0.92
+14062	F2r	coagulation factor II (thrombin) receptor	0.7	1
+13857	Epor	erythropoietin receptor	-0.66	1
+11600	Angpt1	angiopoietin 1	-0.61	1
+20297	Ccl20	chemokine (C-C motif) ligand 20	-0.57	1
+14538	Gcnt2	glucosaminyl (N-acetyl) transferase 2, I-branching enzyme	0.52	1
+15558	Htr2a	5-hydroxytryptamine (serotonin) receptor 2A	0.52	1
+18441	P2ry1	purinergic receptor P2Y, G-protein coupled 1	0.49	1
+27218	Slamf1	signaling lymphocytic activation molecule family member 1	0.48	1
+76954	St5	suppression of tumorigenicity 5	0.47	1
+101540	Prkd2	protein kinase D2	-0.43	1
+11475	Acta2	actin, alpha 2, smooth muscle, aorta	0.42	1
+217378	Dnajc27	DnaJ heat shock protein family (Hsp40) member C27	0.42	1
+234593	Ndrg4	N-myc downstream regulated gene 4	-0.42	1
+19260	Ptpn22	protein tyrosine phosphatase, non-receptor type 22 (lymphoid)	-0.41	1
+12778	Ackr3	atypical chemokine receptor 3	-0.39	1
+18673	Phb	prohibitin	0.39	1
+20312	Cx3cl1	chemokine (C-X3-C motif) ligand 1	-0.38	1
+26404	Map3k12	mitogen-activated protein kinase kinase kinase 12	-0.37	1
+117149	Tirap	toll-interleukin 1 receptor (TIR) domain-containing adaptor protein	0.36	1
+107746	Rapgef1	Rap guanine nucleotide exchange factor (GEF) 1	0.34	1
+11596	Ager	advanced glycosylation end product-specific receptor	-0.34	1
+21803	Tgfb1	transforming growth factor, beta 1	0.34	1
+109689	Arrb1	arrestin, beta 1	-0.33	1
+20361	Sema7a	sema domain, immunoglobulin domain (Ig), and GPI membrane anchor, (semaphorin) 7A	0.33	1
+56089	Ramp3	receptor (calcitonin) activity modifying protein 3	-0.3	1
+14456	Gas6	growth arrest specific 6	-0.27	1
+16542	Kdr	kinase insert domain protein receptor	-0.27	1
+18590	Pdgfa	platelet derived growth factor, alpha	-0.27	1
+19229	Ptk2b	PTK2 protein tyrosine kinase 2 beta	0.27	1
+257632	Nod2	nucleotide-binding oligomerization domain containing 2	-0.27	1
+19247	Ptpn11	protein tyrosine phosphatase, non-receptor type 11	-0.26	1
+27403	Abca7	ATP-binding cassette, sub-family A (ABC1), member 7	-0.24	1
+70086	Cysltr2	cysteinyl leukotriene receptor 2	0.23	1
+216869	Arrb2	arrestin, beta 2	-0.22	1
+83433	Trem2	triggering receptor expressed on myeloid cells 2	-0.22	1
+12034	Phb2	prohibitin 2	0.21	1
+93695	Gpnmb	glycoprotein (transmembrane) nmb	-0.21	1
+16971	Lrp1	low density lipoprotein receptor-related protein 1	-0.2	1
+18591	Pdgfb	platelet derived growth factor, B polypeptide	0.2	1
+114249	Npnt	nephronectin	-0.19	1
+12491	Cd36	CD36 molecule	-0.19	1
+12654	Chil1	chitinase-like 1	-0.19	1
+16590	Kit	KIT proto-oncogene receptor tyrosine kinase	-0.19	1
+18129	Notch2	notch 2	0.19	1
+26417	Mapk3	mitogen-activated protein kinase 3	-0.19	1
+215449	Rap1b	RAS related protein 1b	0.18	1
+321019	Gpr183	G protein-coupled receptor 183	-0.18	1
+18105	Nqo2	N-ribosyldihydronicotinamide quinone reductase 2	0.17	1
+12273	C5ar1	complement component 5a receptor 1	-0.16	1
+14289	Fpr2	formyl peptide receptor 2	-0.16	1
+15289	Hmgb1	high mobility group box 1	-0.16	1
+19264	Ptprc	protein tyrosine phosphatase, receptor type, C	-0.16	1
+20303	Ccl4	chemokine (C-C motif) ligand 4	0.16	1
+18128	Notch1	notch 1	-0.15	1
+24064	Spry2	sprouty RTK signaling antagonist 2	-0.15	1
+384009	Glipr2	GLI pathogenesis-related 2	-0.15	1
+11816	Apoe	apolipoprotein E	-0.14	1
+18750	Prkca	protein kinase C, alpha	-0.14	1
+26395	Map2k1	mitogen-activated protein kinase kinase 1	-0.14	1
+381126	Garem1	GRB2 associated regulator of MAPK1 subtype 1	0.14	1
+50754	Fbxw7	F-box and WD-40 domain protein 7	0.14	1
+66824	Pycard	PYD and CARD domain containing	-0.14	1
+109905	Rap1a	RAS-related protein 1a	-0.13	1
+11352	Abl2	v-abl Abelson murine leukemia viral oncogene 2 (arg, Abelson-related gene)	0.13	1
+14161	Fga	fibrinogen alpha chain	0.13	1
+14678	Gnai2	guanine nucleotide binding protein (G protein), alpha inhibiting 2	-0.13	1
+213452	Dstyk	dual serine/threonine and tyrosine protein kinase	-0.13	1
+11687	Alox15	arachidonate 15-lipoxygenase	-0.12	1
+12266	C3	complement component 3	-0.12	1
+14063	F2rl1	coagulation factor II (thrombin) receptor-like 1	-0.12	1
+233571	P2ry6	pyrimidinergic receptor P2Y, G-protein coupled, 6	-0.12	1
+23991	Cib1	calcium and integrin binding 1 (calmyrin)	-0.12	1
+24088	Tlr2	toll-like receptor 2	-0.12	1
+12505	Cd44	CD44 antigen	0.11	1
+15894	Icam1	intercellular adhesion molecule 1	0.11	1
+20302	Ccl3	chemokine (C-C motif) ligand 3	-0.11	1
+21898	Tlr4	toll-like receptor 4	-0.11	1
+83397	Akap12	A kinase (PRKA) anchor protein (gravin) 12	0.11	1
+12978	Csf1r	colony stimulating factor 1 receptor	-0.1	1
+16416	Itgb3	integrin beta 3	0.1	1
+20296	Ccl2	chemokine (C-C motif) ligand 2	0.1	1
+99571	Fgg	fibrinogen gamma chain	0.1	1
+20416	Shc1	src homology 2 domain-containing transforming protein C1	-0.09	1
+108058	Camk2d	calcium/calmodulin-dependent protein kinase II, delta	-0.08	1
+109880	Braf	Braf transforming gene	-0.08	1
+18596	Pdgfrb	platelet derived growth factor receptor, beta polypeptide	0.08	1
+15461	Hras	Harvey rat sarcoma virus oncogene	-0.07	1
+19211	Pten	phosphatase and tensin homolog	-0.07	1
+54411	Atp6ap1	ATPase, H+ transporting, lysosomal accessory protein 1	-0.07	1
+54635	Pdgfc	platelet-derived growth factor, C polypeptide	-0.07	1
+107607	Nod1	nucleotide-binding oligomerization domain containing 1	0.06	1
+11350	Abl1	c-abl oncogene 1, non-receptor tyrosine kinase	-0.06	1
+12929	Crkl	v-crk avian sarcoma virus CT10 oncogene homolog-like	-0.06	1
+13202	Ddt	D-dopachrome tautomerase	-0.06	1
+16476	Jun	jun proto-oncogene	-0.06	1
+11820	App	amyloid beta (A4) precursor protein	-0.05	1
+12504	Cd4	CD4 antigen	-0.05	1
+171285	Havcr2	hepatitis A virus cellular receptor 2	0.05	1
+18186	Nrp1	neuropilin 1	-0.05	1
+26400	Map2k7	mitogen-activated protein kinase kinase 7	-0.05	1
+12633	Cflar	CASP8 and FADD-like apoptosis regulator	0.04	1
+14219	Ccn2	cellular communication network factor 2	-0.04	1
+20300	Ccl25	chemokine (C-C motif) ligand 25	-0.04	1
+20305	Ccl6	chemokine (C-C motif) ligand 6	0.04	1
+22340	Vegfb	vascular endothelial growth factor B	0.04	1
+319430	C5ar2	complement component 5a receptor 2	0.04	1
+52065	Mfhas1	malignant fibrous histiocytoma amplified sequence 1	-0.04	1
+12768	Ccr1	chemokine (C-C motif) receptor 1	-0.03	1
+13649	Egfr	epidermal growth factor receptor	0.02	1
+18816	Serpinf2	serine (or cysteine) peptidase inhibitor, clade F, member 2	-0.02	1
+22339	Vegfa	vascular endothelial growth factor A	0.02	1
+110135	Fgb	fibrinogen beta chain	0.01	1
+16149	Cd74	CD74 antigen (invariant polypeptide of major histocompatibility complex, class II antigen-associated)	-0.01	1
+192656	Ripk2	receptor (TNFRSF)-interacting serine-threonine kinase 2	0.01	1
+19401	Rara	retinoic acid receptor, alpha	-0.01	1
+20299	Ccl22	chemokine (C-C motif) ligand 22	0.01	1
+20308	Ccl9	chemokine (C-C motif) ligand 9	0.01	1
+76089	Rapgef2	Rap guanine nucleotide exchange factor (GEF) 2	-0.01	1
+11491	Adam17	a disintegrin and metallopeptidase domain 17	0	1
+18584	Pde8a	phosphodiesterase 8A	0	1

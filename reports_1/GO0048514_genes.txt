@@ -1,0 +1,26 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+14254	Flt1	FMS-like tyrosine kinase 1	2.25	0.033
+14609	Gja1	gap junction protein, alpha 1	0.9	1
+16404	Itga7	integrin alpha 7	0.71	1
+21825	Thbs1	thrombospondin 1	0.62	1
+11819	Nr2f2	nuclear receptor subfamily 2, group F, member 2	-0.49	1
+16948	Lox	lysyl oxidase	0.33	1
+27494	Amot	angiomotin	-0.27	1
+239719	Mrtfb	myocardin related transcription factor B	-0.24	1
+12558	Cdh2	cadherin 2	0.23	1
+13642	Efnb2	ephrin B2	-0.21	1
+18591	Pdgfb	platelet derived growth factor, B polypeptide	0.2	1
+218397	Rasa1	RAS p21 protein activator 1	0.18	1
+230126	Shb	src homology 2 domain-containing transforming protein B	0.18	1
+11622	Ahr	aryl-hydrocarbon receptor	0.17	1
+11601	Angpt2	angiopoietin 2	0.15	1
+12826	Col4a1	collagen, type IV, alpha 1	0.12	1
+20662	Sos1	SOS Ras/Rac guanine nucleotide exchange factor 1	0.12	1
+15251	Hif1a	hypoxia inducible factor 1, alpha subunit	0.1	1
+17268	Meis1	Meis homeobox 1	-0.08	1
+17999	Nedd4	neural precursor cell expressed, developmentally down-regulated 4	0.06	1
+20963	Syk	spleen tyrosine kinase	0.04	1
+14182	Fgfr1	fibroblast growth factor receptor 1	0.03	1
+11482	Acvrl1	activin A receptor, type II-like 1	0.02	1
+18816	Serpinf2	serine (or cysteine) peptidase inhibitor, clade F, member 2	-0.02	1
+22339	Vegfa	vascular endothelial growth factor A	0.02	1

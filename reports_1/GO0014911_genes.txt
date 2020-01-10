@@ -1,0 +1,31 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+13653	Egr1	early growth response 1	2.2	0.046
+20779	Src	Rous sarcoma oncogene	-0.9	0.75
+16195	Il6st	interleukin 6 signal transducer	0.76	0.86
+17869	Myc	myelocytomatosis oncogene	0.9	1
+16398	Itga2	integrin alpha 2	-0.43	1
+208727	Hdac4	histone deacetylase 4	0.35	1
+54601	Foxo4	forkhead box O4	-0.35	1
+11596	Ager	advanced glycosylation end product-specific receptor	-0.34	1
+214968	Sema6d	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6D	-0.34	1
+15117	Has2	hyaluronan synthase 2	-0.33	1
+18792	Plau	plasminogen activator, urokinase	-0.24	1
+72508	Rps6kb1	ribosomal protein S6 kinase, polypeptide 1	0.22	1
+14083	Ptk2	PTK2 protein tyrosine kinase 2	-0.2	1
+18591	Pdgfb	platelet derived growth factor, B polypeptide	0.2	1
+14066	F3	coagulation factor III	-0.18	1
+16173	Il18	interleukin 18	0.16	1
+76709	Arpc2	actin related protein 2/3 complex, subunit 2	-0.14	1
+14161	Fga	fibrinogen alpha chain	0.13	1
+19241	Tmsb4x	thymosin, beta 4, X chromosome	-0.13	1
+12928	Crk	v-crk avian sarcoma virus CT10 oncogene homolog	-0.12	1
+233571	P2ry6	pyrimidinergic receptor P2Y, G-protein coupled, 6	-0.12	1
+16000	Igf1	insulin-like growth factor 1	-0.11	1
+16416	Itgb3	integrin beta 3	0.1	1
+108058	Camk2d	calcium/calmodulin-dependent protein kinase II, delta	-0.08	1
+12043	Bcl2	B cell leukemia/lymphoma 2	-0.08	1
+18596	Pdgfrb	platelet derived growth factor receptor, beta polypeptide	0.08	1
+22370	Vtn	vitronectin	0.06	1
+271457	Rab5a	RAB5A, member RAS oncogene family	0.05	1
+18442	P2ry2	purinergic receptor P2Y, G-protein coupled 2	0.03	1
+19219	Ptger4	prostaglandin E receptor 4 (subtype EP4)	-0.02	1

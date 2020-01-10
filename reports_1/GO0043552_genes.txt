@@ -1,0 +1,19 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+14254	Flt1	FMS-like tyrosine kinase 1	2.25	0.033
+21687	Tek	TEK receptor tyrosine kinase	-1.8	0.039
+20779	Src	Rous sarcoma oncogene	-0.9	0.75
+21803	Tgfb1	transforming growth factor, beta 1	0.34	1
+19229	Ptk2b	PTK2 protein tyrosine kinase 2 beta	0.27	1
+257632	Nod2	nucleotide-binding oligomerization domain containing 2	-0.27	1
+12540	Cdc42	cell division cycle 42	-0.22	1
+100504663	Atg14	autophagy related 14	-0.21	1
+17096	Lyn	LYN proto-oncogene, Src family tyrosine kinase	-0.2	1
+18591	Pdgfb	platelet derived growth factor, B polypeptide	0.2	1
+19353	Rac1	Rac family small GTPase 1	-0.2	1
+57257	Vav3	vav 3 oncogene	-0.13	1
+75669	Pik3r4	phosphoinositide-3-kinase regulatory subunit 4	-0.13	1
+18596	Pdgfrb	platelet derived growth factor receptor, beta polypeptide	0.08	1
+14191	Fgr	FGR proto-oncogene, Src family tyrosine kinase	-0.06	1
+228361	Ambra1	autophagy/beclin 1 regulator 1	0.06	1
+22325	Vav2	vav 2 oncogene	-0.05	1
+54673	Sh3glb1	SH3-domain GRB2-like B1 (endophilin)	0.01	1

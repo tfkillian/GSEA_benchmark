@@ -1,0 +1,35 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+20848	Stat3	signal transducer and activator of transcription 3	0.76	0.93
+83669	Wdr6	WD repeat domain 6	-0.6	1
+107045	Lars	leucyl-tRNA synthetase	0.53	1
+19260	Ptpn22	protein tyrosine phosphatase, non-receptor type 22 (lymphoid)	-0.41	1
+56717	Mtor	mechanistic target of rapamycin kinase	0.4	1
+208643	Eif4g1	eukaryotic translation initiation factor 4, gamma 1	0.38	1
+68837	Foxk2	forkhead box K2	0.28	1
+54197	Rnf5	ring finger protein 5	-0.25	1
+79554	Cptp	ceramide-1-phosphate transfer protein	0.23	1
+83433	Trem2	triggering receptor expressed on myeloid cells 2	-0.22	1
+230674	Kdm4a	lysine (K)-specific demethylase 4A	-0.21	1
+235439	Herc1	HECT and RLD domain containing E3 ubiquitin protein ligase family member 1	-0.21	1
+13690	Eif4g2	eukaryotic translation initiation factor 4, gamma 2	0.2	1
+14083	Ptk2	PTK2 protein tyrosine kinase 2	-0.2	1
+100502698	Rubcn	RUN domain and cysteine-rich domain containing, Beclin 1-interacting protein	-0.19	1
+68441	Rraga	Ras-related GTP binding A	0.19	1
+56312	Nupr1	nuclear protein transcription regulator 1	-0.17	1
+59027	Nampt	nicotinamide phosphoribosyltransferase	0.17	1
+68767	Washc1	WASH complex subunit 1	-0.17	1
+100855	Tbc1d14	TBC1 domain family, member 14	-0.16	1
+171543	Bmf	BCL2 modifying factor	-0.15	1
+223453	Dap	death-associated protein	-0.15	1
+64383	Sirt2	sirtuin 2	-0.15	1
+99412	Golga2	golgi autoantigen, golgin subfamily a, 2	-0.15	1
+72739	Zkscan3	zinc finger with KRAB and SCAN domains 3	-0.14	1
+56208	Becn1	beclin 1, autophagy related	-0.12	1
+21929	Tnfaip3	tumor necrosis factor, alpha-induced protein 3	-0.11	1
+12043	Bcl2	B cell leukemia/lymphoma 2	-0.08	1
+16154	Il10ra	interleukin 10 receptor, alpha	-0.08	1
+210376	Mtmr9	myotubularin related protein 9	0.08	1
+17210	Mcl1	myeloid cell leukemia sequence 1	0.07	1
+17425	Foxk1	forkhead box K1	-0.05	1
+224023	Klhl22	kelch-like 22	-0.04	1
+11651	Akt1	thymoma viral proto-oncogene 1	0.01	1

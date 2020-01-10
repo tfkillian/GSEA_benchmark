@@ -1,0 +1,104 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+13653	Egr1	early growth response 1	2.2	0.046
+56200	Ddx21	DEAD (Asp-Glu-Ala-Asp) box polypeptide 21	1.08	0.75
+72504	Taf4b	TATA-box binding protein associated factor 4b	1.03	0.9
+20848	Stat3	signal transducer and activator of transcription 3	0.76	0.93
+68705	Gtf2f2	general transcription factor IIF, polypeptide 2	0.52	0.98
+13710	Elf3	E74-like factor 3	-0.97	1
+17869	Myc	myelocytomatosis oncogene	0.9	1
+64685	Nmi	N-myc (and STAT) interactor	0.49	1
+66491	Polr2l	polymerase (RNA) II (DNA directed) polypeptide L	0.46	1
+57080	Gtf2ird1	general transcription factor II I repeat domain-containing 1	-0.45	1
+21833	Thra	thyroid hormone receptor alpha	-0.43	1
+18030	Nfil3	nuclear factor, interleukin 3, regulated	0.39	1
+216154	Med16	mediator complex subunit 16	-0.36	1
+30939	Pttg1	pituitary tumor-transforming gene 1	-0.36	1
+14235	Foxm1	forkhead box M1	-0.34	1
+16477	Junb	jun B proto-oncogene	0.34	1
+109689	Arrb1	arrestin, beta 1	-0.33	1
+20851	Stat5b	signal transducer and activator of transcription 5B	-0.32	1
+22433	Xbp1	X-box binding protein 1	0.32	1
+14884	Gtf2h1	general transcription factor II H, polypeptide 1	0.3	1
+269610	Chd5	chromodomain helicase DNA binding protein 5	-0.29	1
+225895	Taf6l	TATA-box binding protein associated factor 6 like	-0.28	1
+245841	Polr2h	polymerase (RNA) II (DNA directed) polypeptide H	0.28	1
+14284	Fosl2	fos-like antigen 2	0.25	1
+21423	Tcf3	transcription factor 3	-0.24	1
+330959	Snapc5	small nuclear RNA activating complex, polypeptide 5	-0.24	1
+54006	Deaf1	DEAF1, transcription factor	-0.24	1
+74197	Gtf2e1	general transcription factor II E, polypeptide 1 (alpha subunit)	0.24	1
+76044	Ncapg2	non-SMC condensin II complex, subunit G2	-0.24	1
+83602	Gtf2a1	general transcription factor II A, 1	-0.23	1
+216869	Arrb2	arrestin, beta 2	-0.22	1
+231329	Polr2b	polymerase (RNA) II (DNA directed) polypeptide B	0.22	1
+101471	Phrf1	PHD and ring finger domains 1	0.21	1
+16825	Ldb1	LIM domain binding 1	-0.21	1
+20022	Polr2j	polymerase (RNA) II (DNA directed) polypeptide J	-0.21	1
+209357	Gtf2h3	general transcription factor IIH, polypeptide 3	0.21	1
+233890	Zfp768	zinc finger protein 768	-0.21	1
+13871	Ercc2	excision repair cross-complementing rodent repair deficiency, complementation group 2	0.2	1
+21349	Tal1	T cell acute lymphocytic leukemia 1	0.2	1
+99730	Taf13	TATA-box binding protein associated factor 13	-0.2	1
+14886	Gtf2i	general transcription factor II I	-0.19	1
+22282	Usf2	upstream transcription factor 2	-0.19	1
+67710	Polr2g	polymerase (RNA) II (DNA directed) polypeptide G	-0.19	1
+12572	Cdk7	cyclin-dependent kinase 7	0.18	1
+19014	Med1	mediator complex subunit 1	0.18	1
+226075	Glis3	GLIS family zinc finger 3	0.18	1
+50794	Klf13	Kruppel-like factor 13	-0.18	1
+11622	Ahr	aryl-hydrocarbon receptor	0.17	1
+19655	Rbmx	RNA binding motif protein, X chromosome	0.17	1
+108098	Med21	mediator complex subunit 21	-0.16	1
+13543	Dvl2	dishevelled segment polarity protein 2	-0.16	1
+23989	Med24	mediator complex subunit 24	-0.16	1
+66671	Ccnh	cyclin H	0.16	1
+76199	Med13l	mediator complex subunit 13-like	0.16	1
+17127	Smad3	SMAD family member 3	-0.14	1
+17420	Mnat1	menage a trois 1	-0.14	1
+53417	Hif3a	hypoxia inducible factor 3, alpha subunit	-0.13	1
+106583	Scaf8	SR-related CTD-associated factor 8	0.12	1
+108143	Taf9	TATA-box binding protein associated factor 9	0.12	1
+24074	Taf7	TATA-box binding protein associated factor 7	0.12	1
+20807	Srf	serum response factor	-0.11	1
+23894	Gtf2h2	general transcription factor II H, polypeptide 2	0.11	1
+14460	Gata1	GATA binding protein 1	-0.1	1
+15251	Hif1a	hypoxia inducible factor 1, alpha subunit	0.1	1
+12168	Bmpr2	bone morphogenetic protein receptor, type II (serine/threonine kinase)	-0.09	1
+14281	Fos	FBJ osteosarcoma oncogene	-0.09	1
+209361	Taf3	TATA-box binding protein associated factor 3	0.09	1
+212391	Lcor	ligand dependent nuclear receptor corepressor	0.09	1
+228980	Taf4	TATA-box binding protein associated factor 4	-0.09	1
+12912	Creb1	cAMP responsive element binding protein 1	-0.08	1
+21374	Tbp	TATA box binding protein	0.08	1
+22278	Usf1	upstream transcription factor 1	0.08	1
+237336	Tbpl1	TATA box binding protein-like 1	-0.08	1
+13872	Ercc3	excision repair cross-complementing rodent repair deficiency, complementation group 3	0.07	1
+209707	Lcorl	ligand dependent nuclear receptor corepressor-like	-0.07	1
+233208	Scaf1	SR-related CTD-associated factor 1	-0.07	1
+23871	Ets1	E26 avian leukemia oncogene 1, 5' domain	0.07	1
+72843	Prdm4	PR domain containing 4	0.07	1
+16476	Jun	jun proto-oncogene	-0.06	1
+21343	Taf6	TATA-box binding protein associated factor 6	-0.06	1
+235459	Gtf2a2	general transcription factor II A, 2	-0.06	1
+68925	Rpap1	RNA polymerase II associated protein 1	-0.06	1
+229906	Gtf2b	general transcription factor IIB	0.05	1
+17749	Polr2k	polymerase (RNA) II (DNA directed) polypeptide K	-0.04	1
+230753	Thrap3	thyroid hormone receptor associated protein 3	-0.04	1
+66420	Polr2e	polymerase (RNA) II (DNA directed) polypeptide E	-0.04	1
+67381	Med4	mediator complex subunit 4	-0.04	1
+69920	Polr2i	polymerase (RNA) II (DNA directed) polypeptide I	-0.04	1
+14885	Gtf2h4	general transcription factor II H, polypeptide 4	0.03	1
+16600	Klf4	Kruppel-like factor 4 (gut)	-0.03	1
+20020	Polr2a	polymerase (RNA) II (DNA directed) polypeptide A	-0.03	1
+20021	Polr2c	polymerase (RNA) II (DNA directed) polypeptide C	0.03	1
+407786	Taf9b	TATA-box binding protein associated factor 9B	0.03	1
+54446	Nfat5	nuclear factor of activated T cells 5	-0.03	1
+13542	Dvl1	dishevelled segment polarity protein 1	0.02	1
+13716	Ell	elongation factor RNA polymerase II	-0.02	1
+16911	Lmo4	LIM domain only 4	-0.02	1
+68153	Gtf2e2	general transcription factor II E, polypeptide 2 (beta subunit)	-0.02	1
+69241	Polr2d	polymerase (RNA) II (DNA directed) polypeptide D	0.02	1
+66467	Gtf2h5	general transcription factor IIH, polypeptide 5	-0.01	1
+69833	Polr2f	polymerase (RNA) II (DNA directed) polypeptide F	-0.01	1
+16478	Jund	jun D proto-oncogene	0	1
+20850	Stat5a	signal transducer and activator of transcription 5A	0	1

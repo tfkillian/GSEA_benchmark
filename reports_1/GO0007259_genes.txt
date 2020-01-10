@@ -1,0 +1,20 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+12702	Socs3	suppressor of cytokine signaling 3	2	0.62
+20848	Stat3	signal transducer and activator of transcription 3	0.76	0.93
+18763	Pkd1	polycystin 1, transient receptor poteintial channel interacting	-0.53	1
+20847	Stat2	signal transducer and activator of transcription 2	0.5	1
+11596	Ager	advanced glycosylation end product-specific receptor	-0.34	1
+12703	Socs1	suppressor of cytokine signaling 1	0.33	1
+16169	Il15ra	interleukin 15 receptor, alpha chain	0.32	1
+20851	Stat5b	signal transducer and activator of transcription 5B	-0.32	1
+14600	Ghr	growth hormone receptor	0.31	1
+20846	Stat1	signal transducer and activator of transcription 1	0.26	1
+18764	Pkd2	polycystin 2, transient receptor potential cation channel	0.17	1
+56468	Socs5	suppressor of cytokine signaling 5	0.17	1
+59004	Pias4	protein inhibitor of activated STAT 4	-0.16	1
+56469	Pias1	protein inhibitor of activated STAT 1	-0.13	1
+22083	Ctr9	CTR9 homolog, Paf1/RNA polymerase II complex component	-0.05	1
+20849	Stat4	signal transducer and activator of transcription 4	0.04	1
+16452	Jak2	Janus kinase 2	-0.01	1
+20850	Stat5a	signal transducer and activator of transcription 5A	0	1
+20852	Stat6	signal transducer and activator of transcription 6	0	1

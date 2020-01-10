@@ -1,0 +1,18 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+13838	Epha4	Eph receptor A4	2.4	0.054
+13641	Efnb1	ephrin B1	-1.03	0.44
+13637	Efna2	ephrin A2	-0.34	1
+17974	Nck2	non-catalytic region of tyrosine kinase adaptor protein 2	0.33	1
+21844	Tiam1	T cell lymphoma invasion and metastasis 1	0.27	1
+19247	Ptpn11	protein tyrosine phosphatase, non-receptor type 11	-0.26	1
+268996	Ss18	SS18, nBAF chromatin remodeling complex subunit	0.25	1
+13642	Efnb2	ephrin B2	-0.21	1
+14083	Ptk2	PTK2 protein tyrosine kinase 2	-0.2	1
+217692	Sipa1l1	signal-induced proliferation-associated 1 like 1	0.2	1
+13846	Ephb4	Eph receptor B4	-0.19	1
+12928	Crk	v-crk avian sarcoma virus CT10 oncogene homolog	-0.12	1
+13643	Efnb3	ephrin B3	-0.06	1
+12569	Cdk5r1	cyclin-dependent kinase 5, regulatory subunit 1 (p35)	-0.05	1
+17973	Nck1	non-catalytic region of tyrosine kinase adaptor protein 1	-0.01	1
+216963	Git1	GIT ArfGAP 1	0.01	1
+224650	Anks1	ankyrin repeat and SAM domain containing 1	0.01	1

@@ -1,0 +1,22 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+20779	Src	Rous sarcoma oncogene	-0.9	0.75
+18712	Pim1	proviral integration site 1	1.09	0.88
+12444	Ccnd2	cyclin D2	1.12	0.9
+18763	Pkd1	polycystin 1, transient receptor poteintial channel interacting	-0.53	1
+12443	Ccnd1	cyclin D1	-0.28	1
+12576	Cdkn1b	cyclin-dependent kinase inhibitor 1B	-0.25	1
+20460	Stil	Scl/Tal1 interrupting locus	-0.24	1
+23834	Cdc6	cell division cycle 6	0.21	1
+18591	Pdgfb	platelet derived growth factor, B polypeptide	0.2	1
+66214	Rgcc	regulator of cell cycle	-0.2	1
+100732	Mapre3	microtubule-associated protein, RP/EB family, member 3	0.18	1
+18764	Pkd2	polycystin 2, transient receptor potential cation channel	0.17	1
+17420	Mnat1	menage a trois 1	-0.14	1
+67974	Ccny	cyclin Y	-0.12	1
+227210	Ccnyl1	cyclin Y-like 1	0.11	1
+53380	Psmd10	proteasome (prosome, macropain) 26S subunit, non-ATPase, 10	-0.08	1
+12445	Ccnd3	cyclin D3	0.06	1
+56742	Psrc1	proline/serine-rich coiled-coil 1	-0.03	1
+13649	Egfr	epidermal growth factor receptor	0.02	1
+11651	Akt1	thymoma viral proto-oncogene 1	0.01	1
+11491	Adam17	a disintegrin and metallopeptidase domain 17	0	1

@@ -1,0 +1,56 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+12304	Pdia4	protein disulfide isomerase associated 4	1.2	0.046
+71853	Pdia6	protein disulfide isomerase associated 6	0.75	0.39
+16193	Il6	interleukin 6	1.54	0.63
+50493	Txnrd1	thioredoxin reductase 1	0.7	0.71
+105245	Txndc5	thioredoxin domain containing 5	0.73	1
+72599	Pdia5	protein disulfide isomerase associated 5	0.57	1
+106200	Txndc11	thioredoxin domain containing 11	0.54	1
+18230	Nxn	nucleoredoxin	0.48	1
+109815	Selenos	selenoprotein S	0.43	1
+227638	Qsox2	quiescin Q6 sulfhydryl oxidase 2	0.38	1
+14827	Pdia3	protein disulfide isomerase associated 3	0.34	1
+56551	Txn2	thioredoxin 2	0.34	1
+96979	Ptges2	prostaglandin E synthase 2	-0.29	1
+18453	P4hb	prolyl 4-hydroxylase, beta polypeptide	0.28	1
+14782	Gsr	glutathione reductase	0.25	1
+232223	Txnrd3	thioredoxin reductase 3	0.25	1
+14629	Gclc	glutamate-cysteine ligase, catalytic subunit	0.24	1
+76299	Erp44	endoplasmic reticulum protein 44	0.23	1
+67475	Ero1lb	ERO1-like beta (S. cerevisiae)	0.22	1
+69367	Glrx2	glutaredoxin 2 (thioltransferase)	-0.21	1
+54683	Prdx5	peroxiredoxin 5	-0.2	1
+79264	Krit1	KRIT1, ankyrin repeat containing	-0.19	1
+98258	Txndc9	thioredoxin domain containing 9	0.18	1
+11792	Apex1	apurinic/apyrimidinic endonuclease 1	0.17	1
+52837	Tmx4	thioredoxin-related transmembrane protein 4	-0.17	1
+13382	Dld	dihydrolipoamide dehydrogenase	0.16	1
+14775	Gpx1	glutathione peroxidase 1	-0.16	1
+93692	Glrx	glutaredoxin	-0.16	1
+13198	Ddit3	DNA-damage inducible transcript 3	-0.15	1
+66866	Nhlrc2	NHL repeat containing 2	0.15	1
+22166	Txn1	thioredoxin 1	-0.14	1
+104009	Qsox1	quiescin Q6 sulfhydryl oxidase 1	-0.13	1
+26462	Txnrd2	thioredoxin reductase 2	-0.13	1
+70561	Txndc16	thioredoxin domain containing 16	-0.13	1
+66861	Dnajc10	DnaJ heat shock protein family (Hsp40) member C10	-0.12	1
+112406	Egln2	egl-9 family hypoxia-inducible factor 2	-0.1	1
+214063	Dnajc16	DnaJ heat shock protein family (Hsp40) member C16	0.1	1
+66073	Txndc12	thioredoxin domain containing 12 (endoplasmic reticulum)	-0.1	1
+69672	Txndc15	thioredoxin domain containing 15	-0.1	1
+21672	Prdx2	peroxiredoxin 2	-0.09	1
+30926	Glrx3	glutaredoxin 3	0.09	1
+50527	Ero1l	ERO1-like (S. cerevisiae)	-0.09	1
+52892	Sco1	SCO1 cytochrome c oxidase assembly protein	0.09	1
+18477	Prdx1	peroxiredoxin 1	-0.08	1
+73723	Sh3bgrl3	SH3 domain binding glutamic acid-rich protein-like 3	-0.08	1
+11758	Prdx6	peroxiredoxin 6	-0.07	1
+67988	Tmx3	thioredoxin-related transmembrane protein 3	-0.07	1
+18024	Nfe2l2	nuclear factor, erythroid derived 2, like 2	0.04	1
+72736	Tmx1	thioredoxin-related transmembrane protein 1	-0.04	1
+66958	Tmx2	thioredoxin-related transmembrane protein 2	-0.03	1
+69227	Selenot	selenoprotein T	0.02	1
+73046	Glrx5	glutaredoxin 5	0.02	1
+11757	Prdx3	peroxiredoxin 3	-0.01	1
+53381	Prdx4	peroxiredoxin 4	-0.01	1
+53382	Txnl1	thioredoxin-like 1	0	1

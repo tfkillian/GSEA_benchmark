@@ -1,0 +1,206 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+11841	Arf2	ADP-ribosylation factor 2	0.88	0.29
+18195	Nsf	N-ethylmaleimide sensitive fusion protein	0.96	0.3
+217517	Stxbp6	syntaxin binding protein 6 (amisyn)	1.09	0.98
+80976	Syt13	synaptotagmin XIII	0.69	1
+72772	Rint1	RAD50 interactor 1	0.58	1
+13852	Stx2	syntaxin 2	-0.55	1
+66964	Golt1b	golgi transport 1B	0.55	1
+74325	Cltb	clathrin, light polypeptide (Lcb)	0.55	1
+15481	Hspa8	heat shock protein 8	0.49	1
+270192	Rab6b	RAB6B, member RAS oncogene family	-0.48	1
+70361	Lman1	lectin, mannose-binding, 1	0.48	1
+27054	Sec23b	SEC23 homolog B, COPII coat complex component	0.45	1
+216705	Clint1	clathrin interactor 1	0.44	1
+71648	Optn	optineurin	-0.44	1
+16559	Kif17	kinesin family member 17	-0.43	1
+20743	Sptbn2	spectrin beta, non-erythrocytic 2	-0.42	1
+193813	Mcfd2	multiple coagulation factor deficiency 2	0.4	1
+11861	Arl4a	ADP-ribosylation factor-like 4A	-0.38	1
+215445	Rab11fip3	RAB11 family interacting protein 3 (class II)	-0.38	1
+56041	Uso1	USO1 vesicle docking factor	0.38	1
+22317	Vamp1	vesicle-associated membrane protein 1	-0.37	1
+233405	Vps33b	vacuolar protein sorting 33B	-0.37	1
+77371	Sec24a	Sec24 related gene family, member A (S. cerevisiae)	0.37	1
+75423	Arl5a	ADP-ribosylation factor-like 5A	0.36	1
+12794	Cnih2	cornichon family AMPA receptor auxiliary protein 2	-0.34	1
+20912	Stxbp3	syntaxin binding protein 3	-0.34	1
+226422	Rab29	RAB29, member RAS oncogene family	-0.34	1
+240667	Sec31b	Sec31 homolog B (S. cerevisiae)	0.34	1
+252903	Ap1s3	adaptor-related protein complex AP-1, sigma 3	0.34	1
+225651	Mppe1	metallophosphoesterase 1	-0.33	1
+216131	Trappc10	trafficking protein particle complex 10	-0.32	1
+269589	Sytl1	synaptotagmin-like 1	-0.31	1
+50907	Preb	prolactin regulatory element binding	0.31	1
+53620	Vamp5	vesicle-associated membrane protein 5	-0.31	1
+76338	Rab2b	RAB2B, member RAS oncogene family	0.31	1
+11764	Ap1b1	adaptor protein complex AP-1, beta 1 subunit	-0.3	1
+11772	Ap2a2	adaptor-related protein complex 2, alpha 2 subunit	-0.3	1
+66352	Blzf1	basic leucine zipper nuclear factor 1	0.3	1
+12033	Bcap29	B cell receptor associated protein 29	0.29	1
+67458	Ergic1	endoplasmic reticulum-golgi intermediate compartment (ERGIC) 1	0.28	1
+67767	Jagn1	jagunal homolog 1	0.28	1
+212986	Scfd2	Sec1 family domain containing 2	0.27	1
+104303	Arl1	ADP-ribosylation factor-like 1	0.26	1
+16562	Kif1c	kinesin family member 1C	-0.26	1
+17828	Bloc1s5	biogenesis of lysosomal organelles complex-1, subunit 5, muted	-0.26	1
+22320	Vamp8	vesicle-associated membrane protein 8	-0.26	1
+74732	Stx11	syntaxin 11	-0.26	1
+15512	Hspa2	heat shock protein 2	-0.25	1
+20168	Rtn3	reticulon 3	-0.24	1
+217151	Arl5c	ADP-ribosylation factor-like 5C	-0.24	1
+227753	Gsn	gelsolin	-0.24	1
+229521	Syt11	synaptotagmin XI	0.24	1
+54161	Copg1	coatomer protein complex, subunit gamma 1	0.24	1
+66913	Kdelr2	KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 2	0.24	1
+74766	Yipf2	Yip1 domain family, member 2	-0.24	1
+20911	Stxbp2	syntaxin binding protein 2	-0.23	1
+67489	Ap4b1	adaptor-related protein complex AP-4, beta 1	-0.23	1
+227648	Sec16a	SEC16 homolog A, endoplasmic reticulum export factor	0.22	1
+228960	Stx16	syntaxin 16	-0.22	1
+54189	Rabep1	rabaptin, RAB GTPase binding effector protein 1	0.22	1
+56494	Gosr2	golgi SNAP receptor complex member 2	0.22	1
+68137	Kdelr1	KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 1	-0.22	1
+108735	Sft2d2	SFT2 domain containing 2	-0.21	1
+19325	Rab10	RAB10, member RAS oncogene family	0.21	1
+213827	Arcn1	archain 1	0.21	1
+219144	Arl11	ADP-ribosylation factor-like 11	-0.21	1
+108012	Ap1s2	adaptor-related protein complex 1, sigma 2 subunit	-0.2	1
+218035	Vps41	VPS41 HOPS complex subunit	-0.2	1
+67023	Use1	unconventional SNARE in the ER 1 homolog (S. cerevisiae)	-0.2	1
+11781	Ap4m1	adaptor-related protein complex AP-4, mu 1	-0.19	1
+11843	Arf4	ADP-ribosylation factor 4	0.19	1
+20224	Sar1a	secretion associated Ras related GTPase 1A	0.19	1
+22318	Vamp2	vesicle-associated membrane protein 2	-0.19	1
+228998	Arfgap1	ADP-ribosylation factor GTPase activating protein 1	0.19	1
+27096	Trappc3	trafficking protein particle complex 3	-0.19	1
+381356	Cacfd1	calcium channel flower domain containing 1	0.19	1
+52906	Ahi1	Abelson helper integration site 1	-0.19	1
+54160	Copg2	coatomer protein complex, subunit gamma 2	-0.19	1
+64933	Ap3m2	adaptor-related protein complex 3, mu 2 subunit	-0.19	1
+67727	Stx17	syntaxin 17	0.19	1
+72433	Rab38	RAB38, member RAS oncogene family	0.19	1
+50797	Copb2	coatomer protein complex, subunit beta 2 (beta prime)	0.18	1
+69162	Sec31a	Sec31 homolog A (S. cerevisiae)	0.18	1
+73296	Rhobtb3	Rho-related BTB domain containing 3	-0.18	1
+74105	Gga2	golgi associated, gamma adaptin ear containing, ARF binding protein 2	-0.18	1
+16561	Kif1b	kinesin family member 1B	-0.17	1
+16572	Kif5a	kinesin family member 5A	-0.17	1
+215474	Sec22c	SEC22 homolog C, vesicle trafficking protein	-0.17	1
+217449	Trappc12	trafficking protein particle complex 12	-0.17	1
+240756	Klhl12	kelch-like 12	-0.17	1
+58244	Stx6	syntaxin 6	0.17	1
+12662	Chm	choroidermia (RAB escort protein 1)	-0.16	1
+20333	Sec22b	SEC22 homolog B, vesicle trafficking protein	0.16	1
+20334	Sec23a	SEC23 homolog A, COPII coat complex component	-0.16	1
+27061	Bcap31	B cell receptor associated protein 31	-0.16	1
+320982	Arl4c	ADP-ribosylation factor-like 4C	-0.16	1
+67091	Trappc6a	trafficking protein particle complex 6A	-0.16	1
+67180	Yipf5	Yip1 domain family, member 5	0.16	1
+75620	Kxd1	KxDL motif containing 1	-0.16	1
+232910	Ap2s1	adaptor-related protein complex 2, sigma 1 subunit	0.15	1
+116733	Vps4a	vacuolar protein sorting 4A	-0.14	1
+14567	Gdi1	guanosine diphosphate (GDP) dissociation inhibitor 1	-0.14	1
+20908	Stx3	syntaxin 3	-0.14	1
+22319	Vamp3	vesicle-associated membrane protein 3	-0.14	1
+59005	Trappc2l	trafficking protein particle complex 2-like	-0.14	1
+67456	Ergic2	ERGIC and golgi 2	0.14	1
+71732	Vps11	VPS11, CORVET/HOPS core subunit	-0.14	1
+76983	Scfd1	Sec1 family domain containing 1	0.14	1
+106039	Gga1	golgi associated, gamma adaptin ear containing, ARF binding protein 1	-0.13	1
+11842	Arf3	ADP-ribosylation factor 3	0.13	1
+55946	Ap3m1	adaptor-related protein complex 3, mu 1 subunit	0.13	1
+67581	Tbc1d23	TBC1 domain family, member 23	-0.13	1
+73122	Tgfbrap1	transforming growth factor, beta receptor associated protein 1	-0.13	1
+11774	Ap3b1	adaptor-related protein complex 3, beta 1 subunit	-0.12	1
+12793	Cnih1	cornichon family AMPA receptor auxiliary protein 1	-0.12	1
+234852	Chmp1a	charged multivesicular body protein 1A	-0.12	1
+319740	Zfyve27	zinc finger, FYVE domain containing 27	-0.12	1
+53330	Vamp4	vesicle-associated membrane protein 4	-0.12	1
+53331	Stx7	syntaxin 7	0.12	1
+68090	Yif1a	Yip1 interacting factor homolog A (S. cerevisiae)	0.12	1
+11767	Ap1m1	adaptor-related protein complex AP-1, mu subunit 1	-0.11	1
+11844	Arf5	ADP-ribosylation factor 5	-0.11	1
+11891	Rab27a	RAB27A, member RAS oncogene family	-0.11	1
+12663	Chml	choroideremia-like	-0.11	1
+20910	Stxbp1	syntaxin binding protein 1	0.11	1
+320714	Trappc11	trafficking protein particle complex 11	0.11	1
+53869	Rab11a	RAB11A, member RAS oncogene family	-0.11	1
+68581	Tmed10	transmembrane p24 trafficking protein 10	0.11	1
+70349	Copb1	coatomer protein complex, subunit beta 1	0.11	1
+12757	Clta	clathrin, light polypeptide (Lca)	-0.1	1
+20909	Stx4a	syntaxin 4A (placental)	-0.1	1
+245828	Trappc1	trafficking protein particle complex 1	-0.1	1
+317717	Sec22a	SEC22 homolog A, vesicle trafficking protein	-0.1	1
+59021	Rab2a	RAB2A, member RAS oncogene family	-0.1	1
+67300	Cltc	clathrin, heavy polypeptide (Hc)	0.1	1
+67844	Rab32	RAB32, member RAS oncogene family	-0.1	1
+75869	Arl5b	ADP-ribosylation factor-like 5B	0.1	1
+110379	Sec13	SEC13 homolog, nuclear pore and COPII coat complex component	0.09	1
+11766	Ap1g2	adaptor protein complex AP-1, gamma 2 subunit	-0.09	1
+260302	Gga3	golgi associated, gamma adaptin ear containing, ARF binding protein 3	0.09	1
+67158	Sft2d3	SFT2 domain containing 3	0.09	1
+99371	Arfgef2	ADP-ribosylation factor guanine nucleotide-exchange factor 2 (brefeldin A-inhibited)	-0.09	1
+12847	Copa	coatomer protein complex subunit alpha	0.08	1
+17918	Myo5a	myosin VA	-0.08	1
+231874	Ccz1	CCZ1 vacuolar protein trafficking and biogenesis associated	0.08	1
+26554	Cul3	cullin 3	0.08	1
+59042	Cope	coatomer protein complex, subunit epsilon	-0.08	1
+60409	Trappc4	trafficking protein particle complex 4	0.08	1
+78891	Scyl1	SCY1-like 1 (S. cerevisiae)	-0.08	1
+12068	Bet1	Bet1 golgi vesicular membrane trafficking protein	0.07	1
+14569	Gdi2	guanosine diphosphate (GDP) dissociation inhibitor 2	-0.07	1
+20619	Snap23	synaptosomal-associated protein 23	-0.07	1
+56389	Stx5a	syntaxin 5A	-0.07	1
+66251	Arfgap3	ADP-ribosylation factor GTPase activating protein 3	-0.07	1
+108123	Napg	N-ethylmaleimide sensitive fusion protein attachment protein gamma	-0.06	1
+108124	Napa	N-ethylmaleimide sensitive fusion protein attachment protein alpha	0.06	1
+11845	Arf6	ADP-ribosylation factor 6	0.06	1
+22365	Vps45	vacuolar protein sorting 45	-0.06	1
+71116	Stx18	syntaxin 18	0.06	1
+71770	Ap2b1	adaptor-related protein complex 2, beta 1 subunit	-0.06	1
+77573	Vps33a	VPS33A CORVET/HOPS core subunit	0.06	1
+78808	Stxbp5	syntaxin binding protein 5 (tomosyn)	-0.06	1
+11769	Ap1s1	adaptor protein complex AP-1, sigma 1	-0.05	1
+11776	Ap3d1	adaptor-related protein complex 3, delta 1 subunit	-0.05	1
+11782	Ap4s1	adaptor-related protein complex AP-4, sigma 1	-0.05	1
+19346	Rab6a	RAB6A, member RAS oncogene family	-0.05	1
+20955	Vamp7	vesicle-associated membrane protein 7	0.05	1
+224630	Bnip1	BCL2/adenovirus E1B interacting protein 1	-0.05	1
+228545	Vps18	VPS18 CORVET/HOPS core subunit	0.05	1
+56418	Ykt6	YKT6 v-SNARE homolog (S. cerevisiae)	-0.05	1
+66366	Ergic3	ERGIC and golgi 3	-0.05	1
+66397	Sar1b	secretion associated Ras related GTPase 1B	-0.05	1
+11765	Ap1g1	adaptor protein complex AP-1, gamma 1 subunit	0.04	1
+11777	Ap3s1	adaptor-related protein complex 3, sigma 1 subunit	-0.04	1
+230584	Yipf1	Yip1 domain family, member 1	-0.04	1
+53334	Gosr1	golgi SNAP receptor complex member 1	0.04	1
+55943	Stx8	syntaxin 8	-0.04	1
+56358	Copz2	coatomer protein complex, subunit zeta 2	-0.04	1
+68166	Spire1	spire type actin nucleation factor 1	0.04	1
+70834	Spag9	sperm associated antigen 9	-0.04	1
+11773	Ap2m1	adaptor-related protein complex 2, mu 1 subunit	0.03	1
+30957	Mapk8ip3	mitogen-activated protein kinase 8 interacting protein 3	0.03	1
+53611	Vti1a	vesicle transport through interaction with t-SNAREs 1A	0.03	1
+56447	Copz1	coatomer protein complex, subunit zeta 1	0.03	1
+77038	Arfgap2	ADP-ribosylation factor GTPase activating protein 2	-0.03	1
+81003	Trim23	tripartite motif-containing 23	0.03	1
+81909	Zfpl1	zinc finger like protein 1	0.03	1
+11771	Ap2a1	adaptor-related protein complex 2, alpha 1 subunit	0.02	1
+11778	Ap3s2	adaptor-related protein complex 3, sigma 2 subunit	0.02	1
+11840	Arf1	ADP-ribosylation factor 1	-0.02	1
+233489	Picalm	phosphatidylinositol binding clathrin assembly protein	0.02	1
+26951	Zw10	zw10 kinetochore protein	-0.02	1
+56297	Arl6	ADP-ribosylation factor-like 6	-0.02	1
+66482	Exoc2	exocyst complex component 2	-0.02	1
+98417	Cnih4	cornichon family AMPA receptor auxiliary protein 4	-0.02	1
+100226	Stx12	syntaxin 12	0.01	1
+210789	Tbc1d4	TBC1 domain family, member 4	-0.01	1
+338366	Mia3	melanoma inhibitory activity 3	-0.01	1
+53612	Vti1b	vesicle transport through interaction with t-SNAREs 1B	-0.01	1
+66682	Trappc5	trafficking protein particle complex 5	0.01	1
+67510	Tvp23b	trans-golgi network vesicle protein 23B	0.01	1
+108011	Ap4e1	adaptor-related protein complex AP-4, epsilon 1	0	1
+19324	Rab1a	RAB1A, member RAS oncogene family	0	1
+211673	Arfgef1	ADP-ribosylation factor guanine nucleotide-exchange factor 1(brefeldin A-inhibited)	0	1
+269338	Vps39	VPS39 HOPS complex subunit	0	1

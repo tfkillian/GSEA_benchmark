@@ -1,0 +1,449 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+56397	Morf4l2	mortality factor 4 like 2	0.38	0.53
+12795	Plk3	polo like kinase 3	0.78	0.64
+22594	Xrcc1	X-ray repair complementing defective repair in Chinese hamster cells 1	-0.31	0.74
+226409	Zranb3	zinc finger, RAN-binding domain containing 3	-0.49	0.9
+77987	Ascc3	activating signal cointegrator 1 complex subunit 3	0.53	0.91
+15258	Hipk2	homeodomain interacting protein kinase 2	1.13	1
+230379	Acer2	alkaline ceramidase 2	0.93	1
+17869	Myc	myelocytomatosis oncogene	0.9	1
+14049	Eya2	EYA transcriptional coactivator and phosphatase 2	-0.87	1
+22224	Usp10	ubiquitin specific peptidase 10	0.79	1
+11785	Apbb1	amyloid beta (A4) precursor protein-binding, family B, member 1	-0.69	1
+319801	Tigar	Trp53 induced glycolysis regulatory phosphatase	0.66	1
+104271	Tex15	testis expressed gene 15	-0.64	1
+56505	Ruvbl1	RuvB-like protein 1	0.63	1
+193838	Eme2	essential meiotic structure-specific endonuclease subunit 2	0.61	1
+72899	Macrod2	MACRO domain containing 2	-0.61	1
+17687	Msh5	mutS homolog 5	0.58	1
+66098	Chchd6	coiled-coil-helix-coiled-coil-helix domain containing 6	-0.58	1
+68048	Aen	apoptosis enhancing nuclease	0.58	1
+12051	Bcl3	B cell leukemia/lymphoma 3	0.57	1
+268465	Eme1	essential meiotic structure-specific endonuclease 1	-0.55	1
+71991	Ercc8	excision repaiross-complementing rodent repair deficiency, complementation group 8	0.55	1
+19366	Rad54l	RAD54 like (S. cerevisiae)	-0.53	1
+208836	Fanci	Fanconi anemia, complementation group I	-0.53	1
+209200	Dtx3l	deltex 3-like, E3 ubiquitin ligase	0.53	1
+67236	Cinp	cyclin-dependent kinase 2 interacting protein	0.53	1
+68114	Pwwp3a	PWWP domain containing 3A, DNA repair factor	-0.52	1
+18143	Npas2	neuronal PAS domain protein 2	0.51	1
+16882	Lig3	ligase III, DNA, ATP-dependent	0.5	1
+77622	Apex2	apurinic/apyrimidinic endonuclease 2	0.5	1
+72749	Tonsl	tonsoku-like, DNA repair protein	-0.48	1
+22256	Ung	uracil DNA glycosylase	0.46	1
+66634	Mcm8	minichromosome maintenance 8 homologous recombination repair factor	-0.45	1
+80285	Parp9	poly (ADP-ribose) polymerase family, member 9	0.45	1
+20913	Stxbp4	syntaxin binding protein 4	-0.44	1
+209334	Gen1	GEN1, Holliday junction 5' flap endonuclease	-0.44	1
+235610	Atrip	ATR interacting protein	0.44	1
+70603	Mutyh	mutY DNA glycosylase	0.44	1
+218793	Ube2e2	ubiquitin-conjugating enzyme E2E 2	-0.42	1
+69747	Zswim7	zinc finger SWIM-type containing 7	0.42	1
+74112	Usp16	ubiquitin specific peptidase 16	0.42	1
+78903	Wrnip1	Werner helicase interacting protein 1	0.42	1
+16881	Lig1	ligase I, DNA, ATP-dependent	-0.41	1
+19362	Rad51ap1	RAD51 associated protein 1	-0.41	1
+56371	Fzr1	fizzy and cell division cycle 20 related 1	-0.41	1
+74522	Morc2a	microrchidia 2A	0.41	1
+330177	Taok3	TAO kinase 3	-0.4	1
+104806	Fancm	Fanconi anemia, complementation group M	-0.39	1
+12144	Blm	Bloom syndrome, RecQ like helicase	-0.39	1
+208084	Pif1	PIF1 5'-to-3' DNA helicase	-0.39	1
+319955	Ercc6	excision repair cross-complementing rodent repair deficiency, complementation group 6	0.39	1
+112407	Egln3	egl-9 family hypoxia-inducible factor 3	-0.38	1
+18019	Nfatc2	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 2	-0.38	1
+66400	Alkbh7	alkB homolog 7	-0.38	1
+214763	Cgas	cyclic GMP-AMP synthase	0.37	1
+67884	Cfap410	cilia and flagella associated protein 410	-0.37	1
+72391	Cdkn3	cyclin-dependent kinase inhibitor 3	-0.37	1
+75317	Parpbp	PARP1 binding protein	-0.37	1
+30939	Pttg1	pituitary tumor-transforming gene 1	-0.36	1
+69090	Ascc1	activating signal cointegrator 1 complex subunit 1	-0.36	1
+101831	Faap24	Fanconi anemia core complex associated protein 24	0.35	1
+20174	Ruvbl2	RuvB-like protein 2	0.35	1
+21665	Tdg	thymine DNA glycosylase	0.35	1
+234258	Neil3	nei like 3 (E. coli)	-0.35	1
+26447	Poli	polymerase (DNA directed), iota	0.35	1
+68275	Rpa1	replication protein A1	-0.35	1
+72103	Aplf	aprataxin and PNKP like factor	-0.35	1
+13990	Smarcad1	SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1	0.34	1
+14235	Foxm1	forkhead box M1	-0.34	1
+12371	Casp9	caspase 9	-0.33	1
+18972	Pold2	polymerase (DNA directed), delta 2, regulatory subunit	0.33	1
+245007	Zbtb38	zinc finger and BTB domain containing 38	-0.33	1
+67667	Alkbh8	alkB homolog 8, tRNA methyltransferase	0.32	1
+93757	Immp2l	IMP2 inner mitochondrial membrane peptidase-like (S. cerevisiae)	-0.32	1
+15499	Hsf1	heat shock factor 1	0.31	1
+170770	Bbc3	BCL2 binding component 3	-0.31	1
+19356	Rad17	RAD17 checkpoint clamp loader component	0.31	1
+27354	Nbn	nibrin	0.31	1
+50762	Fbxo6	F-box protein 6	-0.31	1
+51869	Rif1	replication timing regulatory factor 1	0.31	1
+56626	Poll	polymerase (DNA directed), lambda	-0.31	1
+59029	Psmd14	proteasome (prosome, macropain) 26S subunit, non-ATPase, 14	0.31	1
+75764	Slx1b	SLX1 structure-specific endonuclease subunit homolog B (S. cerevisiae)	-0.31	1
+14884	Gtf2h1	general transcription factor II H, polypeptide 1	0.3	1
+17685	Msh2	mutS homolog 2	-0.3	1
+68145	Etaa1	Ewing tumor-associated antigen 1	-0.3	1
+105377	Slf1	SMC5-SMC6 complex localization factor 1	0.29	1
+12021	Bard1	BRCA1 associated RING domain 1	-0.29	1
+13197	Gadd45a	growth arrest and DNA-damage-inducible 45 alpha	-0.29	1
+211651	Fancd2	Fanconi anemia, complementation group D2	-0.29	1
+22427	Wrn	Werner syndrome RecQ like helicase	-0.29	1
+232210	Hmces	5-hydroxymethylcytosine (hmC) binding, ES cell specific	-0.29	1
+237911	Brip1	BRCA1 interacting protein C-terminal helicase 1	-0.29	1
+54125	Polm	polymerase (DNA directed), mu	-0.29	1
+68240	Rpa3	replication protein A3	-0.29	1
+12443	Ccnd1	cyclin D1	-0.28	1
+19359	Rad23b	RAD23 homolog B, nucleotide excision repair protein	0.28	1
+21652	Phf1	PHD finger protein 1	-0.28	1
+22201	Uba1	ubiquitin-like modifier activating enzyme 1	0.28	1
+68251	Babam1	BRISC and BRCA1 A complex member 1	-0.28	1
+110749	Chaf1b	chromatin assembly factor 1, subunit B (p60)	-0.27	1
+17314	Mgmt	O-6-methylguanine-DNA methyltransferase	-0.27	1
+17686	Msh3	mutS homolog 3	-0.27	1
+382985	Rrm2b	ribonucleotide reductase M2 B (TP53 inducible)	-0.27	1
+50883	Chek2	checkpoint kinase 2	-0.27	1
+59026	Huwe1	HECT, UBA and WWE domain containing 1	0.27	1
+67196	Ube2t	ubiquitin-conjugating enzyme E2T	-0.27	1
+68026	Pclaf	PCNA clamp associated factor	-0.27	1
+99890	Prmt6	protein arginine N-methyltransferase 6	0.27	1
+14375	Xrcc6	X-ray repair complementing defective repair in Chinese hamster cells 6	0.26	1
+228012	Tlk1	tousled-like kinase 1	-0.26	1
+12227	Btg2	BTG anti-proliferation factor 2	-0.25	1
+26416	Mapk14	mitogen-activated protein kinase 14	-0.25	1
+52679	E2f7	E2F transcription factor 7	0.25	1
+69745	Pold4	polymerase (DNA-directed), delta 4	-0.25	1
+217716	Mlh3	mutL homolog 3	-0.24	1
+69928	Cenps	centromere protein S	-0.24	1
+70020	Ino80b	INO80 complex subunit B	-0.24	1
+70790	Ubr5	ubiquitin protein ligase E3 component n-recognin 5	0.24	1
+14088	Fancc	Fanconi anemia, complementation group C	0.23	1
+20892	Cenpx	centromere protein X	-0.23	1
+218294	Cdc14b	CDC14 cell division cycle 14B	-0.23	1
+23808	Ash2l	ASH2 like histone lysine methyltransferase complex subunit	0.23	1
+26430	Parg	poly (ADP-ribose) glycohydrolase	0.23	1
+320209	Ddx11	DEAD/H (Asp-Glu-Ala-Asp/His) box helicase 11	0.23	1
+56456	Actl6a	actin-like 6A	0.23	1
+60534	Fancg	Fanconi anemia, complementation group G	-0.23	1
+66209	Inip	INTS3 and NABP interacting protein	0.23	1
+68964	Ctc1	CTS telomere maintenance complex component 1	-0.23	1
+114741	Supt16	SPT16, facilitates chromatin remodeling subunit	0.22	1
+14048	Eya1	EYA transcriptional coactivator and phosphatase 1	-0.22	1
+170787	Hdac10	histone deacetylase 10	-0.22	1
+19355	Rad1	RAD1 checkpoint DNA exonuclease	0.22	1
+408022	Primpol	primase and polymerase (DNA-directed)	-0.22	1
+50505	Ercc4	excision repair cross-complementing rodent repair deficiency, complementation group 4	0.22	1
+53314	Batf	basic leucine zipper transcription factor, ATF-like	0.22	1
+56207	Uchl5	ubiquitin carboxyl-terminal esterase L5	0.22	1
+67788	Sfr1	SWI5 dependent recombination repair 1	-0.22	1
+69596	Ap5s1	adaptor-related protein 5 complex, sigma 1 subunit	-0.22	1
+71514	Sfpq	splicing factor proline/glutamine rich (polypyrimidine tract binding protein associated)	0.22	1
+94232	Ubqln4	ubiquilin 4	0.22	1
+106821	Oard1	O-acyl-ADP-ribose deacylase 1	-0.21	1
+12028	Bax	BCL2-associated X protein	-0.21	1
+12419	Cbx5	chromobox 5	-0.21	1
+16969	Zbtb7a	zinc finger and BTB domain containing 7a	-0.21	1
+19090	Prkdc	protein kinase, DNA activated, catalytic polypeptide	-0.21	1
+209357	Gtf2h3	general transcription factor IIH, polypeptide 3	0.21	1
+212377	Mms22l	MMS22-like, DNA repair protein	-0.21	1
+219022	Ttc5	tetratricopeptide repeat domain 5	-0.21	1
+219158	Ccar2	cell cycle activator and apoptosis regulator 2	-0.21	1
+22210	Ube2b	ubiquitin-conjugating enzyme E2B	-0.21	1
+230848	Zbtb40	zinc finger and BTB domain containing 40	0.21	1
+235587	Parp3	poly (ADP-ribose) polymerase family, member 3	0.21	1
+252870	Usp7	ubiquitin specific peptidase 7	0.21	1
+381921	Taok2	TAO kinase 2	-0.21	1
+52864	Slx4	SLX4 structure-specific endonuclease subunit homolog (S. cerevisiae)	0.21	1
+623474	Rad54b	RAD54 homolog B (S. cerevisiae)	-0.21	1
+70681	Abraxas1	BRCA1 A complex subunit	-0.21	1
+71885	Faap100	Fanconi anemia core complex associated protein 100	-0.21	1
+13871	Ercc2	excision repair cross-complementing rodent repair deficiency, complementation group 2	0.2	1
+15574	Hus1	HUS1 checkpoint clamp component	0.2	1
+17096	Lyn	LYN proto-oncogene, Src family tyrosine kinase	-0.2	1
+21973	Top2a	topoisomerase (DNA) II alpha	-0.2	1
+224008	Spidr	scaffolding protein involved in DNA repair	-0.2	1
+28000	Prpf19	pre-mRNA processing factor 19	0.2	1
+71711	Mus81	MUS81 structure-specific endonuclease subunit	-0.2	1
+117599	Helb	helicase (DNA) B	-0.19	1
+12189	Brca1	breast cancer 1, early onset	-0.19	1
+18973	Pole	polymerase (DNA directed), epsilon	-0.19	1
+19357	Rad21	RAD21 cohesin complex component	-0.19	1
+19361	Rad51	RAD51 recombinase	-0.19	1
+19647	Rbbp6	retinoblastoma binding protein 6, ubiquitin ligase	0.19	1
+226026	Smc5	structural maintenance of chromosomes 5	-0.19	1
+235134	Nfrkb	nuclear factor related to kappa B binding protein	0.19	1
+244059	Chd2	chromodomain helicase DNA binding protein 2	-0.19	1
+26417	Mapk3	mitogen-activated protein kinase 3	-0.19	1
+269582	Clspn	claspin	-0.19	1
+54380	Smarcal1	SWI/SNF related matrix associated, actin dependent regulator of chromatin, subfamily a-like 1	-0.19	1
+56458	Foxo1	forkhead box O1	-0.19	1
+67711	Nsmce1	NSE1 homolog, SMC5-SMC6 complex component	-0.19	1
+68077	Nop53	NOP53 ribosome biogenesis factor	-0.19	1
+70925	Cdkn2aip	CDKN2A interacting protein	-0.19	1
+71567	Mcm9	minichromosome maintenance 9 homologous recombination repair factor	-0.19	1
+74168	Zdhhc16	zinc finger, DHHC domain containing 16	0.19	1
+12572	Cdk7	cyclin-dependent kinase 7	0.18	1
+18971	Pold1	polymerase (DNA directed), delta 1, catalytic subunit	-0.18	1
+26909	Exo1	exonuclease 1	0.18	1
+382639	Zbtb42	zinc finger and BTB domain containing 42	-0.18	1
+50755	Fbh1	F-box DNA helicase 1	-0.18	1
+74153	Uba7	ubiquitin-like modifier activating enzyme 7	0.18	1
+80905	Polh	polymerase (DNA directed), eta (RAD 30 related)	0.18	1
+114714	Rad51c	RAD51 paralog C	-0.17	1
+11792	Apex1	apurinic/apyrimidinic endonuclease 1	0.17	1
+17164	Mapkapk2	MAP kinase-activated protein kinase 2	0.17	1
+17220	Mcm7	minichromosome maintenance complex component 7	-0.17	1
+18004	Nek1	NIMA (never in mitosis gene a)-related expressed kinase 1	-0.17	1
+18207	Nthl1	nth (endonuclease III)-like 1 (E.coli)	-0.17	1
+18479	Pak1	p21 (RAC1) activated kinase 1	-0.17	1
+18970	Polb	polymerase (DNA directed), beta	-0.17	1
+225182	Rbbp8	retinoblastoma binding protein 8, endonuclease	-0.17	1
+230738	Zc3h12a	zinc finger CCCH type containing 12A	-0.17	1
+24061	Smc1a	structural maintenance of chromosomes 1A	0.17	1
+319583	Lig4	ligase IV, DNA, ATP-dependent	0.17	1
+56335	Mettl3	methyltransferase like 3	0.17	1
+57748	Jmy	junction-mediating and regulatory protein	-0.17	1
+69113	Alkbh3	alkB homolog 3, alpha-ketoglutarate-dependent dioxygenase	0.17	1
+71890	Mad2l2	MAD2 mitotic arrest deficient-like 2	0.17	1
+75387	Sirt4	sirtuin 4	-0.17	1
+75580	Zbtb4	zinc finger and BTB domain containing 4	-0.17	1
+78610	Uvrag	UV radiation resistance associated gene	-0.17	1
+17350	Mlh1	mutL homolog 1	0.16	1
+191578	Helq	helicase, POLQ-like	-0.16	1
+22209	Ube2a	ubiquitin-conjugating enzyme E2A	-0.16	1
+22591	Xpc	xeroderma pigmentosum, complementation group C	-0.16	1
+230484	Usp1	ubiquitin specific peptidase 1	0.16	1
+233545	Emsy	EMSY, BRCA2-interacting transcriptional repressor	0.16	1
+237877	Atad5	ATPase family, AAA domain containing 5	-0.16	1
+27223	Trp53bp1	transformation related protein 53 binding protein 1	0.16	1
+57320	Park7	Parkinson disease (autosomal recessive, early onset) 7	-0.16	1
+67030	Fancl	Fanconi anemia, complementation group L	-0.16	1
+75570	Nhej1	non-homologous end joining factor 1	0.16	1
+93765	Ube2n	ubiquitin-conjugating enzyme E2N	0.16	1
+12190	Brca2	breast cancer 2, early onset	-0.15	1
+18538	Pcna	proliferating cell nuclear antigen	-0.15	1
+211978	Zfyve26	zinc finger, FYVE domain containing 26	-0.15	1
+26413	Mapk1	mitogen-activated protein kinase 1	-0.15	1
+51812	Mcrs1	microspherule protein 1	-0.15	1
+57913	Pidd1	p53 induced death domain protein 1	-0.15	1
+58186	Rad18	RAD18 E3 ubiquitin protein ligase	-0.15	1
+59047	Pnkp	polynucleotide kinase 3'- phosphatase	-0.15	1
+665775	Bod1l	biorientation of chromosomes in cell division 1-like	-0.15	1
+67513	Faap20	Fanconi anemia core complex associated protein 20	-0.15	1
+68501	Nsmce2	NSE2/MMS21 homolog, SMC5-SMC6 complex SUMO ligase	-0.15	1
+72440	Rhno1	RAD9-HUS1-RAD1 interacting nuclear orphan 1	-0.15	1
+11920	Atm	ataxia telangiectasia mutated	0.14	1
+17283	Men1	multiple endocrine neoplasia 1	-0.14	1
+22034	Traf6	TNF receptor-associated factor 6	0.14	1
+227195	Ino80d	INO80 complex subunit D	-0.14	1
+268395	Mpg	N-methylpurine-DNA glycosylase	-0.14	1
+50754	Fbxw7	F-box and WD-40 domain protein 7	0.14	1
+56045	Samhd1	SAM domain and HD domain, 1	0.14	1
+66962	Swsap1	SWIM type zinc finger 7 associated protein 1	0.14	1
+68142	Ino80	INO80 complex subunit	0.14	1
+108138	Xrcc4	X-ray repair complementing defective repair in Chinese hamster cells 4	-0.13	1
+18861	Pms2	PMS1 homolog2, mismatch repair system component	0.13	1
+19364	Rad51d	RAD51 paralog D	-0.13	1
+19714	Rev3l	REV3 like, DNA directed polymerase zeta catalytic subunit	-0.13	1
+216965	Taok1	TAO kinase 1	-0.13	1
+218973	Wdhd1	WD repeat and HMG-box DNA binding protein 1	-0.13	1
+225280	Ino80c	INO80 complex subunit C	-0.13	1
+226151	Slf2	SMC5-SMC6 complex localization factor 2	0.13	1
+230709	Zmpste24	zinc metallopeptidase, STE24	0.13	1
+234736	Rfwd3	ring finger and WD repeat domain 3	0.13	1
+235323	Usp28	ubiquitin specific peptidase 28	0.13	1
+244666	Sprtn	SprT-like N-terminal domain	0.13	1
+268882	Fbxo45	F-box protein 45	0.13	1
+30928	Zbtb18	zinc finger and BTB domain containing 18	-0.13	1
+57257	Vav3	vav 3 oncogene	-0.13	1
+73172	Exo5	exonuclease 5	-0.13	1
+77976	Nuak1	NUAK family, SNF1-like kinase, 1	-0.13	1
+12566	Cdk2	cyclin-dependent kinase 2	-0.12	1
+17193	Mbd4	methyl-CpG binding domain protein 4	-0.12	1
+17535	Mre11a	MRE11A homolog A, double strand break repair nuclease	0.12	1
+18294	Ogg1	8-oxoguanine DNA-glycosylase 1	-0.12	1
+21353	Tank	TRAF family member-associated Nf-kappa B activator	0.12	1
+22596	Xrcc5	X-ray repair complementing defective repair in Chinese hamster cells 5	-0.12	1
+23991	Cib1	calcium and integrin binding 1 (calmyrin)	-0.12	1
+268281	Shprh	SNF2 histone linker PHD RING helicase	0.12	1
+27050	Rps3	ribosomal protein S3	-0.12	1
+329679	Fnip2	folliculin interacting protein 2	-0.12	1
+58180	Hic2	hypermethylated in cancer 2	0.12	1
+59126	Nek6	NIMA (never in mitosis gene a)-related expressed kinase 6	0.12	1
+71101	Uvssa	UV stimulated scaffold protein A	-0.12	1
+14051	Eya4	EYA transcriptional coactivator and phosphatase 4	-0.11	1
+15204	Herc2	HECT and RLD domain containing E3 ubiquitin protein ligase 2	-0.11	1
+16151	Ikbkg	inhibitor of kappaB kinase gamma	-0.11	1
+170472	Recql5	RecQ protein-like 5	0.11	1
+20937	Suv39h1	suppressor of variegation 3-9 1	0.11	1
+22601	Yap1	yes-associated protein 1	-0.11	1
+23894	Gtf2h2	general transcription factor II H, polypeptide 2	0.11	1
+268564	Zbtb1	zinc finger and BTB domain containing 1	-0.11	1
+27221	Chaf1a	chromatin assembly factor 1, subunit A (p150)	-0.11	1
+66799	Ube2w	ubiquitin-conjugating enzyme E2W (putative)	-0.11	1
+67439	Xab2	XPA binding protein 2	0.11	1
+68058	Chd1l	chromodomain helicase DNA binding protein 1-like	0.11	1
+71175	Nipbl	NIPBL cohesin loading factor	-0.11	1
+74335	Xrcc3	X-ray repair complementing defective repair in Chinese hamster cells 3	-0.11	1
+93836	Rnf111	ring finger 111	-0.11	1
+107986	Ddb2	damage specific DNA binding protein 2	-0.1	1
+12053	Bcl6	B cell leukemia/lymphoma 6	-0.1	1
+14050	Eya3	EYA transcriptional coactivator and phosphatase 3	0.1	1
+14087	Fanca	Fanconi anemia, complementation group A	-0.1	1
+140917	Dclre1b	DNA cross-link repair 1B	-0.1	1
+17688	Msh6	mutS homolog 6	-0.1	1
+22401	Zmat3	zinc finger matrin type 3	0.1	1
+234776	Atmin	ATM interactor	0.1	1
+23955	Nek4	NIMA (never in mitosis gene a)-related expressed kinase 4	-0.1	1
+269523	Vcp	valosin containing protein	0.1	1
+27015	Polk	polymerase (DNA directed), kappa	0.1	1
+29813	Zfp385a	zinc finger protein 385A	-0.1	1
+55947	Dclre1a	DNA cross-link repair 1A	0.1	1
+66131	Tipin	timeless interacting protein	-0.1	1
+70024	Mcm10	minichromosome maintenance 10 replication initiation factor	-0.1	1
+75452	Ascc2	activating signal cointegrator 1 complex subunit 2	-0.1	1
+78412	Cyren	cell cycle regulator of NHEJ	-0.1	1
+99375	Cul4a	cullin 4A	-0.1	1
+109275	Actr5	ARP5 actin-related protein 5	0.09	1
+19358	Rad23a	RAD23 homolog A, nucleotide excision repair protein	-0.09	1
+19367	Rad9a	RAD9 checkpoint clamp component A	-0.09	1
+19891	Rpa2	replication protein A2	-0.09	1
+20869	Stk11	serine/threonine kinase 11	0.09	1
+227622	Paxx	non-homologous end joining factor	-0.09	1
+233826	Palb2	partner and localizer of BRCA2	-0.09	1
+330554	Fan1	FANCD2/FANCI-associated nuclease 1	-0.09	1
+56438	Rbx1	ring-box 1	-0.09	1
+66105	Ube2d3	ubiquitin-conjugating enzyme E2D 3	0.09	1
+71702	Cdc5l	cell division cycle 5-like (S. pombe)	-0.09	1
+72931	Swi5	SWI5 recombination repair homolog (yeast)	-0.09	1
+76251	Ercc6l2	excision repair cross-complementing rodent repair deficiency, complementation group 6 like 2	0.09	1
+77011	Ticrr	TOPBP1-interacting checkpoint and replication regulator	-0.09	1
+100206	Adprhl2	ADP-ribosylhydrolase like 2	0.08	1
+107951	Cdk9	cyclin-dependent kinase 9 (CDC2-related kinase)	-0.08	1
+12043	Bcl2	B cell leukemia/lymphoma 2	-0.08	1
+13870	Ercc1	excision repair cross-complementing rodent repair deficiency, complementation group 1	-0.08	1
+14897	Trip12	thyroid hormone receptor interactor 12	0.08	1
+21761	Morf4l1	mortality factor 4 like 1	-0.08	1
+22059	Trp53	transformation related protein 53	0.08	1
+231642	Alkbh2	alkB homolog 2, alpha-ketoglutarate-dependent dioxygenase	0.08	1
+231855	Ap5z1	adaptor-related protein complex 5, zeta 1 subunit	-0.08	1
+237211	Fancb	Fanconi anemia, complementation group B	0.08	1
+76454	Fbxo31	F-box protein 31	0.08	1
+93759	Sirt1	sirtuin 1	-0.08	1
+107260	Otub1	OTU domain, ubiquitin aldehyde binding 1	0.07	1
+12417	Cbx3	chromobox 3	-0.07	1
+13872	Ercc3	excision repair cross-complementing rodent repair deficiency, complementation group 3	0.07	1
+15270	H2afx	H2A histone family, member X	-0.07	1
+20184	Uimc1	ubiquitin interaction motif containing 1	-0.07	1
+213464	Rbbp5	retinoblastoma binding protein 5, histone lysine methyltransferase complex subunit	0.07	1
+22590	Xpa	xeroderma pigmentosum, complementation group A	-0.07	1
+233789	Smg1	SMG1 homolog, phosphatidylinositol 3-kinase-related kinase (C. elegans)	0.07	1
+240087	Mdc1	mediator of DNA damage checkpoint 1	0.07	1
+269254	Setx	senataxin	0.07	1
+56249	Actr8	ARP8 actin-related protein 8	-0.07	1
+59001	Pole3	polymerase (DNA directed), epsilon 3 (p17 subunit)	0.07	1
+67241	Smc6	structural maintenance of chromosomes 6	-0.07	1
+69917	Nabp2	nucleic acid binding protein 2	-0.07	1
+77782	Polq	polymerase (DNA directed), theta	0.07	1
+103554	Psme4	proteasome (prosome, macropain) activator subunit 4	0.06	1
+107976	Babam2	BRISC and BRCA1 A complex member 2	-0.06	1
+11350	Abl1	c-abl oncogene 1, non-receptor tyrosine kinase	-0.06	1
+11789	Apc	APC, WNT signaling pathway regulator	0.06	1
+14265	Fmr1	fragile X mental retardation 1	0.06	1
+19360	Rad50	RAD50 double strand break repair protein	0.06	1
+21853	Timeless	timeless circadian clock 1	-0.06	1
+227867	Epc2	enhancer of polycomb homolog 2	-0.06	1
+231841	Brat1	BRCA1-associated ATM activator 1	0.06	1
+73251	Setd7	SET domain containing (lysine methyltransferase) 7	0.06	1
+74996	Usp47	ubiquitin specific peptidase 47	-0.06	1
+77065	Ints7	integrator complex subunit 7	-0.06	1
+12412	Cbx1	chromobox 1	0.05	1
+12454	Ccnk	cyclin K	0.05	1
+12649	Chek1	checkpoint kinase 1	-0.05	1
+18140	Uhrf1	ubiquitin-like, containing PHD and RING finger domains, 1	-0.05	1
+20393	Sgk1	serum/glucocorticoid regulated kinase 1	-0.05	1
+22385	Baz1b	bromodomain adjacent to zinc finger domain, 1B	-0.05	1
+22589	Atrx	ATRX, chromatin remodeler	-0.05	1
+234396	Ankle1	ankyrin repeat and LEM domain containing 1	0.05	1
+56210	Rev1	REV1, DNA directed polymerase	0.05	1
+57434	Xrcc2	X-ray repair complementing defective repair in Chinese hamster cells 2	0.05	1
+72774	Neil1	nei endonuclease VIII-like 1 (E. coli)	-0.05	1
+74041	Ddias	DNA damage-induced apoptosis suppressor	-0.05	1
+109019	Nabp1	nucleic acid binding protein 1	0.04	1
+11909	Atf2	activating transcription factor 2	-0.04	1
+12753	Clock	circadian locomotor output cycles kaput	-0.04	1
+16588	Kin	Kin17 DNA and RNA binding protein	-0.04	1
+19365	Rad52	RAD52 homolog, DNA repair protein	0.04	1
+210766	Brcc3	BRCA1/BRCA2-containing complex, subunit 3	0.04	1
+214552	Cep164	centrosomal protein 164	0.04	1
+217684	Susd6	sushi domain containing 6	0.04	1
+227525	Dclre1c	DNA cross-link repair 1C	0.04	1
+24086	Tlk2	tousled-like kinase 2 (Arabidopsis)	0.04	1
+269400	Rtel1	regulator of telomere elongation helicase 1	0.04	1
+56406	Ncoa6	nuclear receptor coactivator 6	-0.04	1
+71726	Smug1	single-strand selective monofunctional uracil DNA glycosylase	0.04	1
+72199	Mms19	MMS19 cytosolic iron-sulfur assembly component	0.04	1
+72612	Hpf1	histone PARylation factor 1	-0.04	1
+100040608	Fancf	Fanconi anemia, complementation group F	0.03	1
+107227	Macrod1	MACRO domain containing 1	-0.03	1
+108937	Rnf169	ring finger protein 169	0.03	1
+12575	Cdkn1a	cyclin-dependent kinase inhibitor 1A (P21)	0.03	1
+14885	Gtf2h4	general transcription factor II H, polypeptide 4	0.03	1
+19164	Psen1	presenilin 1	0.03	1
+19363	Rad51b	RAD51 paralog B	-0.03	1
+20833	Ssrp1	structure specific recognition protein 1	-0.03	1
+235441	Usp3	ubiquitin specific peptidase 3	0.03	1
+270210	Zfp651	zinc finger protein 651	-0.03	1
+53610	Nono	non-POU-domain-containing, octamer binding protein	-0.03	1
+66165	Bccip	BRCA2 and CDKN1A interacting protein	0.03	1
+66647	Nsmce3	NSE3 homolog, SMC5-SMC6 complex component	-0.03	1
+68995	Mcts1	malignant T cell amplified sequence 1	-0.03	1
+70238	Rnf168	ring finger protein 168	-0.03	1
+72584	Cul4b	cullin 4B	-0.03	1
+74355	Smchd1	SMC hinge domain containing 1	0.03	1
+74528	Mgme1	mitochondrial genome maintenance exonuclease 1	-0.03	1
+75291	Zbtb3	zinc finger and BTB domain containing 3	0.03	1
+75698	Shld2	shieldin complex subunit 2	0.03	1
+11545	Parp1	poly (ADP-ribose) polymerase family, member 1	-0.02	1
+11546	Parp2	poly (ADP-ribose) polymerase family, member 2	-0.02	1
+13194	Ddb1	damage specific DNA binding protein 1	0.02	1
+216853	Wrap53	WD repeat containing, antisense to Trp53	-0.02	1
+22592	Ercc5	excision repair cross-complementing rodent repair deficiency, complementation group 5	-0.02	1
+229543	Ints3	integrator complex subunit 3	-0.02	1
+235559	Topbp1	topoisomerase (DNA) II binding protein 1	-0.02	1
+235626	Setd2	SET domain containing 2	-0.02	1
+245000	Atr	ataxia telangiectasia and Rad3 related	0.02	1
+270627	Taf1	TATA-box binding protein associated factor 1	0.02	1
+56196	Tdp2	tyrosyl-DNA phosphodiesterase 2	-0.02	1
+56289	Rassf1	Ras association (RalGDS/AF-6) domain family member 1	-0.02	1
+58230	Rnf8	ring finger protein 8	0.02	1
+67561	Wdr48	WD repeat domain 48	0.02	1
+68067	Mrnip	MRN complex interacting protein	-0.02	1
+73747	Shld1	shieldin complex subunit 1	0.02	1
+11651	Akt1	thymoma viral proto-oncogene 1	0.01	1
+12367	Casp3	caspase 3	0.01	1
+13006	Smc3	structural maintenance of chromosomes 3	-0.01	1
+14156	Fen1	flap structure specific endonuclease 1	0.01	1
+14194	Fh1	fumarate hydratase 1	0.01	1
+225131	Wac	WW domain containing adaptor with coiled-coil	-0.01	1
+230119	Zbtb5	zinc finger and BTB domain containing 5	0.01	1
+327762	Dna2	DNA replication helicase/nuclease 2	0.01	1
+55982	Paxip1	PAX interacting (with transcription-activation domain) protein 1	0.01	1
+56489	Ikbke	inhibitor of kappaB kinase epsilon	-0.01	1
+58801	Pmaip1	phorbol-12-myristate-13-acetate-induced protein 1	0.01	1
+66408	Aptx	aprataxin	-0.01	1
+66467	Gtf2h5	general transcription factor IIH, polypeptide 5	-0.01	1
+67967	Pold3	polymerase (DNA-directed), delta 3, accessory subunit	-0.01	1
+69714	Tfpt	TCF3 (E2A) fusion partner	-0.01	1
+73419	Armt1	acidic residue methyltransferase 1	-0.01	1
+106021	Topors	topoisomerase I binding, arginine/serine-rich	0	1
+14670	Gnl1	guanine nucleotide binding protein-like 1	0	1
+22632	Yy1	YY1 transcription factor	0	1
+241627	Wdr76	WD repeat domain 76	0	1
+26370	Cetn2	centrin 2	0	1
+28135	Cep63	centrosomal protein 63	0	1
+56424	Stub1	STIP1 homology and U-Box containing protein 1	0	1
+56515	Rnf138	ring finger protein 138	0	1
+69885	Aunip	aurora kinase A and ninein interacting protein	0	1
+76843	Dtl	denticleless E3 ubiquitin protein ligase	0	1

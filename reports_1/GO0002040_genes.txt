@@ -1,0 +1,24 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+14254	Flt1	FMS-like tyrosine kinase 1	2.25	0.033
+21687	Tek	TEK receptor tyrosine kinase	-1.8	0.039
+67122	Nrarp	Notch-regulated ankyrin repeat protein	-0.77	1
+78560	Adgra2	adhesion G protein-coupled receptor A2	0.66	1
+21825	Thbs1	thrombospondin 1	0.62	1
+11600	Angpt1	angiopoietin 1	-0.61	1
+672511	Rnf213	ring finger protein 213	0.59	1
+22341	Vegfc	vascular endothelial growth factor C	0.46	1
+20349	Sema3e	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3E	0.34	1
+16542	Kdr	kinase insert domain protein receptor	-0.27	1
+19229	Ptk2b	PTK2 protein tyrosine kinase 2 beta	0.27	1
+52679	E2f7	E2F transcription factor 7	0.25	1
+108961	E2f8	E2F transcription factor 8	0.24	1
+12540	Cdc42	cell division cycle 42	-0.22	1
+107817	Jmjd6	jumonji domain containing 6	0.16	1
+94352	Loxl2	lysyl oxidase-like 2	0.16	1
+18128	Notch1	notch 1	-0.15	1
+432940	Otulin	OTU deubiquitinase with linear linkage specificity	0.09	1
+57342	Parva	parvin, alpha	0.09	1
+18186	Nrp1	neuropilin 1	-0.05	1
+22340	Vegfb	vascular endothelial growth factor B	0.04	1
+22339	Vegfa	vascular endothelial growth factor A	0.02	1
+53614	Reck	reversion-inducing-cysteine-rich protein with kazal motifs	0.02	1

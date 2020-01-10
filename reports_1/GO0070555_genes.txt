@@ -1,0 +1,20 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+16176	Il1b	interleukin 1 beta	1.41	0.48
+17874	Myd88	myeloid differentiation primary response gene 88	0.64	0.56
+20779	Src	Rous sarcoma oncogene	-0.9	0.75
+208727	Hdac4	histone deacetylase 4	0.35	1
+240255	Ythdc2	YTH domain containing 2	0.3	1
+108960	Irak2	interleukin-1 receptor-associated kinase 2	-0.23	1
+18518	Igbp1	immunoglobulin (CD79A) binding protein 1	-0.23	1
+14797	Tle5	TLE family member 5, transcriptional modulator	-0.21	1
+18750	Prkca	protein kinase C, alpha	-0.14	1
+18759	Prkci	protein kinase C, iota	0.14	1
+21934	Tnfrsf11a	tumor necrosis factor receptor superfamily, member 11a, NFKB activator	-0.14	1
+22034	Traf6	TNF receptor-associated factor 6	0.14	1
+16952	Anxa1	annexin A1	-0.13	1
+108143	Taf9	TATA-box binding protein associated factor 9	0.12	1
+16179	Irak1	interleukin-1 receptor-associated kinase 1	-0.1	1
+19697	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	-0.09	1
+11820	App	amyloid beta (A4) precursor protein	-0.05	1
+73914	Irak3	interleukin-1 receptor-associated kinase 3	-0.02	1
+192656	Ripk2	receptor (TNFRSF)-interacting serine-threonine kinase 2	0.01	1

@@ -1,0 +1,24 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+15944	Irgm1	immunity-related GTPase family M member 1	0.96	0.98
+14469	Gbp2	guanylate binding protein 2	1.49	1
+16145	Igtp	interferon gamma induced GTPase	0.88	1
+54396	Irgm2	immunity-related GTPase family M member 2	0.68	1
+71701	Pnpt1	polyribonucleotide nucleotidyltransferase 1	0.63	1
+15953	Ifi47	interferon gamma inducible protein 47	0.62	1
+16365	Acod1	aconitate decarboxylase 1	-0.38	1
+16362	Irf1	interferon regulatory factor 1	0.35	1
+22213	Ube2g2	ubiquitin-conjugating enzyme E2G 2	0.27	1
+20846	Stat1	signal transducer and activator of transcription 1	0.26	1
+100040462	Mndal	myeloid nuclear differentiation antigen like	0.23	1
+94088	Trim6	tripartite motif-containing 6	0.21	1
+64704	Htra2	HtrA serine peptidase 2	-0.2	1
+67184	Ndufa13	NADH:ubiquinone oxidoreductase subunit A13	-0.13	1
+383619	Aim2	absent in melanoma 2	-0.11	1
+432555	Gm5431	predicted gene 5431	0.11	1
+72512	Tmem173	transmembrane protein 173	-0.11	1
+72935	Ddx41	DEAD (Asp-Glu-Ala-Asp) box polypeptide 41	-0.11	1
+53323	Ube2k	ubiquitin-conjugating enzyme E2K	0.09	1
+15950	Ifi203	interferon activated gene 203	0.06	1
+216150	Cdc34	cell division cycle 34	-0.04	1
+15951	Ifi204	interferon activated gene 204	0.03	1
+226691	Ifi207	interferon activated gene 207	-0.02	1

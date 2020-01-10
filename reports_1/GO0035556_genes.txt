@@ -1,0 +1,281 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+216233	Socs2	suppressor of cytokine signaling 2	2.01	0.00095
+224129	Adcy5	adenylate cyclase 5	-1.97	0.0012
+19415	Rasal1	RAS protein activator like 1 (GAP1 like)	2.34	0.33
+12700	Cish	cytokine inducible SH2-containing protein	1.38	0.34
+110197	Dgkg	diacylglycerol kinase, gamma	-0.7	0.47
+270151	Nlrx1	NLR family member X1	-0.57	0.47
+58231	Stk4	serine/threonine kinase 4	-0.49	0.56
+60596	Gucy1a1	guanylate cyclase 1, soluble, alpha 1	-0.67	0.59
+12702	Socs3	suppressor of cytokine signaling 3	2	0.62
+214137	Arhgap29	Rho GTPase activating protein 29	0.99	0.64
+50772	Mapk6	mitogen-activated protein kinase 6	0.74	0.65
+232533	Stk38l	serine/threonine kinase 38 like	-0.62	0.73
+20779	Src	Rous sarcoma oncogene	-0.9	0.75
+546071	Mast3	microtubule associated serine/threonine kinase 3	-0.43	0.78
+26411	Map4k1	mitogen-activated protein kinase kinase kinase kinase 1	-0.53	0.83
+23854	Def8	differentially expressed in FDCP 8	-0.36	0.92
+19094	Mapk11	mitogen-activated protein kinase 11	1	1
+218581	Depdc1b	DEP domain containing 1B	0.97	1
+17207	Mcf2l	mcf.2 transforming sequence-like	-0.86	1
+72469	Plcd3	phospholipase C, delta 3	-0.77	1
+434341	Nlrc5	NLR family, CARD domain containing 5	0.7	1
+11512	Adcy6	adenylate cyclase 6	-0.68	1
+50492	Thop1	thimet oligopeptidase 1	0.67	1
+16706	Ksr1	kinase suppressor of ras 1	-0.62	1
+19395	Rasgrp2	RAS, guanyl releasing protein 2	-0.61	1
+108079	Prkaa2	protein kinase, AMP-activated, alpha 2 catalytic subunit	-0.58	1
+110651	Rps6ka3	ribosomal protein S6 kinase polypeptide 3	0.56	1
+12326	Camk4	calcium/calmodulin-dependent protein kinase IV	-0.52	1
+73707	Gucy2g	guanylate cyclase 2g	-0.51	1
+56077	Dgke	diacylglycerol kinase, epsilon	0.49	1
+17347	Mknk2	MAP kinase-interacting serine/threonine kinase 2	-0.47	1
+21682	Tec	tec protein tyrosine kinase	0.47	1
+56274	Stk3	serine/threonine kinase 3	0.47	1
+23999	Twf2	twinfilin actin binding protein 2	-0.46	1
+18018	Nfatc1	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 1	-0.45	1
+54126	Arhgef7	Rho guanine nucleotide exchange factor (GEF7)	0.44	1
+545156	Kalrn	kalirin, RhoGEF kinase	-0.44	1
+101540	Prkd2	protein kinase D2	-0.43	1
+70719	Arhgap45	Rho GTPase activating protein 45	-0.42	1
+73086	Rps6ka5	ribosomal protein S6 kinase, polypeptide 5	-0.42	1
+18797	Plcb3	phospholipase C, beta 3	-0.41	1
+329910	Acot11	acyl-CoA thioesterase 11	-0.41	1
+65247	Asb1	ankyrin repeat and SOCS box-containing 1	-0.41	1
+108099	Prkag2	protein kinase, AMP-activated, gamma 2 non-catalytic subunit	-0.4	1
+18711	Pikfyve	phosphoinositide kinase, FYVE type zinc finger containing	0.4	1
+69993	Chn2	chimerin 2	-0.4	1
+110596	Arhgef28	Rho guanine nucleotide exchange factor (GEF) 28	-0.39	1
+142688	Asb13	ankyrin repeat and SOCS box-containing 13	0.39	1
+20399	Sh2b1	SH2B adaptor protein 1	-0.39	1
+19739	Rgs9	regulator of G-protein signaling 9	0.38	1
+240505	Cdc42bpg	CDC42 binding protein kinase gamma (DMPK-like)	-0.38	1
+263803	Pkn3	protein kinase N3	-0.38	1
+20598	Smpd2	sphingomyelin phosphodiesterase 2, neutral	-0.37	1
+23797	Akt3	thymoma viral proto-oncogene 3	-0.36	1
+76131	Depdc1a	DEP domain containing 1a	-0.35	1
+106504	Stk38	serine/threonine kinase 38	-0.34	1
+209039	Tns2	tensin 2	-0.34	1
+380921	Dgkh	diacylglycerol kinase, eta	0.34	1
+67121	Mastl	microtubule associated serine/threonine kinase-like	-0.34	1
+11515	Adcy9	adenylate cyclase 9	0.33	1
+12703	Socs1	suppressor of cytokine signaling 1	0.33	1
+54195	Gucy1b1	guanylate cyclase 1, soluble, beta 1	-0.33	1
+54324	Arhgef5	Rho guanine nucleotide exchange factor (GEF) 5	-0.33	1
+79566	Sh3bp5l	SH3 binding domain protein 5 like	-0.33	1
+22249	Unc13b	unc-13 homolog B	-0.31	1
+14794	Spsb2	splA/ryanodine receptor domain and SOCS box containing 2	-0.3	1
+19165	Psen2	presenilin 2	-0.3	1
+104418	Dgkz	diacylglycerol kinase zeta	-0.29	1
+13143	Dapk2	death-associated protein kinase 2	-0.29	1
+13448	Dok1	docking protein 1	-0.29	1
+18099	Nlk	nemo like kinase	-0.29	1
+110279	Bcr	breakpoint cluster region	-0.28	1
+16443	Itsn1	intersectin 1 (SH3 domain protein 1A)	-0.28	1
+18795	Plcb1	phospholipase C, beta 1	-0.28	1
+19414	Rasa3	RAS p21 protein activator 3	-0.28	1
+277360	Prex1	phosphatidylinositol-3,4,5-trisphosphate-dependent Rac exchange factor 1	-0.28	1
+21844	Tiam1	T cell lymphoma invasion and metastasis 1	0.27	1
+257632	Nod2	nucleotide-binding oligomerization domain containing 2	-0.27	1
+268857	Nlrc3	NLR family, CARD domain containing 3	-0.27	1
+269224	Pask	PAS domain containing serine/threonine kinase	-0.27	1
+50523	Lats2	large tumor suppressor 2	-0.27	1
+71704	Arhgef3	Rho guanine nucleotide exchange factor (GEF) 3	-0.27	1
+15507	Hspb1	heat shock protein 1	-0.26	1
+16453	Jak3	Janus kinase 3	0.26	1
+18693	Pick1	protein interacting with C kinase 1	-0.26	1
+228012	Tlk1	tousled-like kinase 1	-0.26	1
+68943	Pink1	PTEN induced putative kinase 1	-0.26	1
+69847	Wnk4	WNK lysine deficient protein kinase 4	-0.26	1
+16923	Sh2b3	SH2B adaptor protein 3	-0.25	1
+226970	Arhgef4	Rho guanine nucleotide exchange factor (GEF) 4	-0.25	1
+26416	Mapk14	mitogen-activated protein kinase 14	-0.25	1
+26420	Mapk9	mitogen-activated protein kinase 9	-0.25	1
+268996	Ss18	SS18, nBAF chromatin remodeling complex subunit	0.25	1
+26934	Racgap1	Rac GTPase-activating protein 1	-0.25	1
+353047	Plekhm1	pleckstrin homology domain containing, family M (with RUN domain) member 1	0.25	1
+71972	Dnmbp	dynamin binding protein	-0.25	1
+14389	Gab2	growth factor receptor bound protein 2-associated protein 2	0.24	1
+15170	Ptpn6	protein tyrosine phosphatase, non-receptor type 6	-0.24	1
+17279	Melk	maternal embryonic leucine zipper kinase	-0.24	1
+56613	Rps6ka4	ribosomal protein S6 kinase, polypeptide 4	-0.24	1
+102626	Mapkapk3	mitogen-activated protein kinase-activated protein kinase 3	-0.23	1
+108960	Irak2	interleukin-1 receptor-associated kinase 2	-0.23	1
+121021	Cspg4	chondroitin sulfate proteoglycan 4	-0.23	1
+13205	Ddx3x	DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 3, X-linked	0.23	1
+22156	Tuft1	tuftelin 1	-0.23	1
+226751	Cdc42bpa	CDC42 binding protein kinase alpha	0.23	1
+12229	Btk	Bruton agammaglobulinemia tyrosine kinase	0.22	1
+16451	Jak1	Janus kinase 1	0.22	1
+217866	Cdc42bpb	CDC42 binding protein kinase beta	-0.22	1
+55984	Camkk1	calcium/calmodulin-dependent protein kinase kinase 1, alpha	-0.22	1
+72508	Rps6kb1	ribosomal protein S6 kinase, polypeptide 1	0.22	1
+17776	Mast2	microtubule associated serine/threonine kinase 2	-0.21	1
+20815	Srpk1	serine/arginine-rich protein specific kinase 1	0.21	1
+64011	Nrgn	neurogranin	-0.21	1
+17060	Blnk	B cell linker	-0.2	1
+17096	Lyn	LYN proto-oncogene, Src family tyrosine kinase	-0.2	1
+18753	Prkcd	protein kinase C, delta	-0.2	1
+18803	Plcg1	phospholipase C, gamma 1	-0.2	1
+320795	Pkn1	protein kinase N1	-0.2	1
+51791	Rgs14	regulator of G-protein signaling 14	-0.2	1
+56743	Lat2	linker for activation of T cells family, member 2	-0.2	1
+66725	Lrrk2	leucine-rich repeat kinase 2	-0.2	1
+12704	Cit	citron	-0.19	1
+16590	Kit	KIT proto-oncogene receptor tyrosine kinase	-0.19	1
+18796	Plcb2	phospholipase C, beta 2	-0.19	1
+219140	Spata13	spermatogenesis associated 13	-0.19	1
+22324	Vav1	vav 1 oncogene	0.19	1
+24056	Sh3bp5	SH3-domain binding protein 5 (BTK-associated)	-0.19	1
+26417	Mapk3	mitogen-activated protein kinase 3	-0.19	1
+54607	Socs6	suppressor of cytokine signaling 6	0.19	1
+54721	Tyk2	tyrosine kinase 2	-0.19	1
+67711	Nsmce1	NSE1 homolog, SMC5-SMC6 complex component	-0.19	1
+73341	Arhgef6	Rac/Cdc42 guanine nucleotide exchange factor (GEF) 6	-0.19	1
+74039	Nfam1	Nfat activating molecule with ITAM motif 1	-0.19	1
+78889	Wsb1	WD repeat and SOCS box-containing 1	0.19	1
+192292	Nrbp1	nuclear receptor binding protein 1	-0.18	1
+54153	Rasa4	RAS p21 protein activator 4	-0.18	1
+12169	Bmx	BMX non-receptor tyrosine kinase	-0.17	1
+17164	Mapkapk2	MAP kinase-activated protein kinase 2	0.17	1
+18611	Pea15a	phosphoprotein enriched in astrocytes 15A	-0.17	1
+18755	Prkch	protein kinase C, eta	-0.17	1
+20623	Snrk	SNF related kinase	-0.17	1
+56468	Socs5	suppressor of cytokine signaling 5	0.17	1
+59043	Wsb2	WD repeat and SOCS box-containing 2	0.17	1
+69635	Dapk1	death associated protein kinase 1	-0.17	1
+110157	Raf1	v-raf-leukemia viral oncogene 1	0.16	1
+13543	Dvl2	dishevelled segment polarity protein 2	-0.16	1
+17128	Smad4	SMAD family member 4	-0.16	1
+17131	Smad7	SMAD family member 7	-0.16	1
+227333	Dgkd	diacylglycerol kinase, delta	0.16	1
+56349	Net1	neuroepithelial cell transforming gene 1	-0.16	1
+70762	Dclk2	doublecortin-like kinase 2	0.16	1
+105787	Prkaa1	protein kinase, AMP-activated, alpha 1 catalytic subunit	-0.15	1
+26413	Mapk1	mitogen-activated protein kinase 1	-0.15	1
+56193	Plek	pleckstrin	0.15	1
+109934	Abr	active BCR-related gene	-0.14	1
+14673	Gna12	guanine nucleotide binding protein, alpha 12	-0.14	1
+170755	Sgk3	serum/glucocorticoid regulated kinase 3	-0.14	1
+18750	Prkca	protein kinase C, alpha	-0.14	1
+18759	Prkci	protein kinase C, iota	0.14	1
+19252	Dusp1	dual specificity phosphatase 1	-0.14	1
+20112	Rps6ka2	ribosomal protein S6 kinase, polypeptide 2	-0.14	1
+217944	Rapgef5	Rap guanine nucleotide exchange factor (GEF) 5	0.14	1
+237611	Stac3	SH3 and cysteine rich domain 3	-0.14	1
+23939	Mapk7	mitogen-activated protein kinase 7	-0.14	1
+328329	Mast4	microtubule associated serine/threonine kinase family member 4	-0.14	1
+78816	Gmip	Gem-interacting protein	-0.14	1
+108737	Oxsr1	oxidative-stress responsive 1	0.13	1
+16798	Lats1	large tumor suppressor	0.13	1
+208650	Cblb	Casitas B-lineage lymphoma b	-0.13	1
+26415	Mapk13	mitogen-activated protein kinase 13	-0.13	1
+57257	Vav3	vav 3 oncogene	-0.13	1
+67296	Socs4	suppressor of cytokine signaling 4	0.13	1
+77976	Nuak1	NUAK family, SNF1-like kinase, 1	-0.13	1
+105440	Kctd9	potassium channel tetramerisation domain containing 9	-0.12	1
+11513	Adcy7	adenylate cyclase 7	0.12	1
+117589	Asb7	ankyrin repeat and SOCS box-containing 7	-0.12	1
+12988	Csk	c-src tyrosine kinase	-0.12	1
+20111	Rps6ka1	ribosomal protein S6 kinase polypeptide 1	-0.12	1
+225028	Map4k3	mitogen-activated protein kinase kinase kinase kinase 3	-0.12	1
+56504	Srpk3	serine/arginine-rich protein specific kinase 3	-0.12	1
+75547	Akap13	A kinase (PRKA) anchor protein 13	0.12	1
+13728	Mark2	MAP/microtubule affinity regulating kinase 2	-0.11	1
+18761	Prkcq	protein kinase C, theta	0.11	1
+224624	Rab40c	Rab40C, member RAS oncogene family	-0.11	1
+26412	Map4k2	mitogen-activated protein kinase kinase kinase kinase 2	-0.11	1
+277854	Depdc5	DEP domain containing 5	-0.11	1
+58988	Rps6kb2	ribosomal protein S6 kinase, polypeptide 2	-0.11	1
+65964	Map3k20	mitogen-activated protein kinase kinase kinase 20	-0.11	1
+15368	Hmox1	heme oxygenase 1	-0.1	1
+16179	Irak1	interleukin-1 receptor-associated kinase 1	-0.1	1
+18754	Prkce	protein kinase C, epsilon	-0.1	1
+665113	Tnik	TRAF2 and NCK interacting kinase	-0.1	1
+74137	Nuak2	NUAK family, SNF1-like kinase, 2	-0.1	1
+75292	Prkd3	protein kinase D3	-0.1	1
+78541	Asb8	ankyrin repeat and SOCS box-containing 8	-0.1	1
+14841	Haspin	histone H3 associated protein kinase	-0.09	1
+20416	Shc1	src homology 2 domain-containing transforming protein C1	-0.09	1
+22695	Zfp36	zinc finger protein 36	0.09	1
+232341	Wnk1	WNK lysine deficient protein kinase 1	-0.09	1
+24001	Tiam2	T cell lymphoma invasion and metastasis 2	-0.09	1
+70661	Sik3	SIK family kinase 3	-0.09	1
+99371	Arfgef2	ADP-ribosylation factor guanine nucleotide-exchange factor 2 (brefeldin A-inhibited)	-0.09	1
+109880	Braf	Braf transforming gene	-0.08	1
+14674	Gna13	guanine nucleotide binding protein, alpha 13	-0.08	1
+18596	Pdgfrb	platelet derived growth factor receptor, beta polypeptide	0.08	1
+211323	Nrg1	neuregulin 1	-0.08	1
+329509	1810024B03Rik	RIKEN cDNA 1810024B03 gene	-0.08	1
+65257	Asb3	ankyrin repeat and SOCS box-containing 3	-0.08	1
+192157	Socs7	suppressor of cytokine signaling 7	0.07	1
+19877	Rock1	Rho-associated coiled-coil containing protein kinase 1	0.07	1
+233046	Rasgrp4	RAS guanyl releasing protein 4	-0.07	1
+26419	Mapk8	mitogen-activated protein kinase 8	-0.07	1
+97998	Deptor	DEP domain containing MTOR-interacting protein	0.07	1
+107368	Pdzd8	PDZ domain containing 8	0.06	1
+107607	Nod1	nucleotide-binding oligomerization domain containing 1	0.06	1
+16428	Itk	IL2 inducible T cell kinase	0.06	1
+18751	Prkcb	protein kinase C, beta	-0.06	1
+20817	Srpk2	serine/arginine-rich protein specific kinase 2	-0.06	1
+54354	Rassf5	Ras association (RalGDS/AF-6) domain family member 5	-0.06	1
+11836	Araf	Araf proto-oncogene, serine/threonine kinase	-0.05	1
+12283	Cab39	calcium binding protein 39	-0.05	1
+12649	Chek1	checkpoint kinase 1	-0.05	1
+14694	Rack1	receptor for activated C kinase 1	-0.05	1
+16822	Lcp2	lymphocyte cytosolic protein 2	-0.05	1
+20393	Sgk1	serum/glucocorticoid regulated kinase 1	-0.05	1
+22325	Vav2	vav 2 oncogene	-0.05	1
+232944	Mark4	MAP/microtubule affinity regulating kinase 4	0.05	1
+234779	Plcg2	phospholipase C, gamma 2	0.05	1
+26406	Map3k3	mitogen-activated protein kinase kinase kinase 3	0.05	1
+83984	Tssk6	testis-specific serine kinase 6	-0.05	1
+104111	Adcy3	adenylate cyclase 3	0.04	1
+109333	Pkn2	protein kinase N2	0.04	1
+114713	Rasa2	RAS p21 protein activator 2	-0.04	1
+13605	Ect2	ect2 oncogene	0.04	1
+14219	Ccn2	cellular communication network factor 2	-0.04	1
+17346	Mknk1	MAP kinase-interacting serine/threonine kinase 1	-0.04	1
+19878	Rock2	Rho-associated coiled-coil containing protein kinase 2	-0.04	1
+20963	Syk	spleen tyrosine kinase	0.04	1
+211896	Depdc7	DEP domain containing 7	0.04	1
+225724	Mapk4	mitogen-activated protein kinase 4	0.04	1
+235344	Sik2	salt inducible kinase 2	-0.04	1
+24086	Tlk2	tousled-like kinase 2 (Arabidopsis)	0.04	1
+266632	Irak4	interleukin-1 receptor-associated kinase 4	0.04	1
+98267	Stk17b	serine/threonine kinase 17b (apoptosis-inducing)	0.04	1
+13139	Dgka	diacylglycerol kinase, alpha	-0.03	1
+13144	Dapk3	death-associated protein kinase 3	0.03	1
+13544	Dvl3	dishevelled segment polarity protein 3	-0.03	1
+16331	Inpp5d	inositol polyphosphate-5-phosphatase D	-0.03	1
+16800	Arhgef2	rho/rac guanine nucleotide exchange factor (GEF) 2	-0.03	1
+17126	Smad2	SMAD family member 2	0.03	1
+17925	Myo9b	myosin IXb	0.03	1
+18607	Pdpk1	3-phosphoinositide dependent protein kinase 1	-0.03	1
+19164	Psen1	presenilin 1	0.03	1
+23921	Sh2b2	SH2B adaptor protein 2	0.03	1
+26407	Map3k4	mitogen-activated protein kinase kinase kinase 4	-0.03	1
+399510	Map4k5	mitogen-activated protein kinase kinase kinase kinase 5	-0.03	1
+110524	Dgkq	diacylglycerol kinase, theta	-0.02	1
+13542	Dvl1	dishevelled segment polarity protein 1	0.02	1
+13649	Egfr	epidermal growth factor receptor	0.02	1
+17169	Mark3	MAP/microtubule affinity regulating kinase 3	-0.02	1
+21814	Tgfbr3	transforming growth factor, beta receptor III	0.02	1
+270163	Myo9a	myosin IXa	0.02	1
+56289	Rassf1	Ras association (RalGDS/AF-6) domain family member 1	-0.02	1
+72323	Asb6	ankyrin repeat and SOCS box-containing 6	0.02	1
+73914	Irak3	interleukin-1 receptor-associated kinase 3	-0.02	1
+11651	Akt1	thymoma viral proto-oncogene 1	0.01	1
+11652	Akt2	thymoma viral proto-oncogene 2	0.01	1
+12367	Casp3	caspase 3	0.01	1
+16452	Jak2	Janus kinase 2	-0.01	1
+16797	Lat	linker for activation of T cells	0.01	1
+224860	Plcl2	phospholipase C-like 2	0.01	1
+26921	Map4k4	mitogen-activated protein kinase kinase kinase kinase 4	-0.01	1
+28015	Polr2m	polymerase (RNA) II (DNA directed) polypeptide M	0.01	1
+53378	Sdcbp	syndecan binding protein	0.01	1
+56542	Ick	intestinal cell kinase	0.01	1
+17691	Sik1	salt inducible kinase 1	0	1
+56637	Gsk3b	glycogen synthase kinase 3 beta	0	1
+69632	Arhgef12	Rho guanine nucleotide exchange factor (GEF) 12	0	1
+94212	Pag1	phosphoprotein associated with glycosphingolipid microdomains 1	0	1

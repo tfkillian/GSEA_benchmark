@@ -1,0 +1,154 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+13009	Csrp3	cysteine and glycine-rich protein 3	3.73	0.0035
+21687	Tek	TEK receptor tyrosine kinase	-1.8	0.039
+17684	Cited2	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 2	0.68	0.39
+330171	Kctd10	potassium channel tetramerisation domain containing 10	-0.34	0.59
+13411	Dnah11	dynein, axonemal, heavy chain 11	0.88	0.81
+22761	Zfpm1	zinc finger protein, multitype 1	-0.89	0.85
+14609	Gja1	gap junction protein, alpha 1	0.9	1
+13857	Epor	erythropoietin receptor	-0.66	1
+21821	Ift88	intraflagellar transport 88	-0.61	1
+192231	Hexim1	hexamethylene bis-acetamide inducible 1	-0.58	1
+18763	Pkd1	polycystin 1, transient receptor poteintial channel interacting	-0.53	1
+56376	Pdlim5	PDZ and LIM domain 5	0.51	1
+14388	Gab1	growth factor receptor bound protein 2-associated protein 1	-0.49	1
+15184	Hdac5	histone deacetylase 5	-0.45	1
+18018	Nfatc1	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 1	-0.45	1
+11481	Acvr2b	activin receptor IIB	-0.43	1
+216274	Cep290	centrosomal protein 290	-0.43	1
+106633	Ift140	intraflagellar transport 140	-0.37	1
+110350	Dync2h1	dynein cytoplasmic 2 heavy chain 1	-0.35	1
+21803	Tgfb1	transforming growth factor, beta 1	0.34	1
+16948	Lox	lysyl oxidase	0.33	1
+72938	Hspb11	heat shock protein family B (small), member 11	-0.33	1
+12301	Cacybp	calcyclin binding protein	0.32	1
+68929	Mospd3	motile sperm domain containing 3	-0.32	1
+30794	Pdlim4	PDZ and LIM domain 4	-0.31	1
+11764	Ap1b1	adaptor protein complex AP-1, beta 1 subunit	-0.3	1
+329795	Tmem67	transmembrane protein 67	-0.3	1
+67399	Pdlim7	PDZ and LIM domain 7	-0.29	1
+108156	Mthfd1	methylenetetrahydrofolate dehydrogenase (NADP+ dependent), methenyltetrahydrofolate cyclohydrolase, formyltetrahydrofolate synthase	0.28	1
+544696	Tbc1d32	TBC1 domain family, member 32	-0.28	1
+67661	Ift172	intraflagellar transport 172	-0.28	1
+19058	Ppp3r1	protein phosphatase 3, regulatory subunit B, alpha isoform (calcineurin B, type I)	-0.27	1
+67451	Pkp2	plakophilin 2	-0.27	1
+11364	Acadm	acyl-Coenzyme A dehydrogenase, medium chain	0.26	1
+140859	Nek8	NIMA (never in mitosis gene a)-related expressed kinase 8	-0.26	1
+19247	Ptpn11	protein tyrosine phosphatase, non-receptor type 11	-0.26	1
+66923	Pbrm1	polybromo 1	0.26	1
+79221	Hdac9	histone deacetylase 9	-0.26	1
+12576	Cdkn1b	cyclin-dependent kinase inhibitor 1B	-0.25	1
+21956	Tnnt2	troponin T2, cardiac	-0.25	1
+110355	Grk2	G protein-coupled receptor kinase 2	-0.24	1
+239719	Mrtfb	myocardin related transcription factor B	-0.24	1
+77579	Myh10	myosin, heavy polypeptide 10, non-muscle	0.24	1
+12180	Smyd1	SET and MYND domain containing 1	0.23	1
+14936	Gys1	glycogen synthase 1, muscle	-0.22	1
+216991	Adap2	ArfGAP with dual PH domains 2	-0.22	1
+71492	Bbs7	Bardet-Biedl syndrome 7 (human)	0.22	1
+15901	Id1	inhibitor of DNA binding 1, HLH protein	0.21	1
+16401	Itga4	integrin alpha 4	-0.21	1
+19090	Prkdc	protein kinase, DNA activated, catalytic polypeptide	-0.21	1
+71458	Bcor	BCL6 interacting corepressor	-0.21	1
+13003	Vcan	versican	0.2	1
+13052	Cxadr	coxsackie virus and adenovirus receptor	-0.2	1
+18591	Pdgfb	platelet derived growth factor, B polypeptide	0.2	1
+19271	Ptprj	protein tyrosine phosphatase, receptor type, J	-0.2	1
+11492	Adam19	a disintegrin and metallopeptidase domain 19 (meltrin beta)	-0.19	1
+74168	Zdhhc16	zinc finger, DHHC domain containing 16	0.19	1
+19014	Med1	mediator complex subunit 1	0.18	1
+14672	Gna11	guanine nucleotide binding protein, alpha 11	-0.17	1
+18764	Pkd2	polycystin 2, transient receptor potential cation channel	0.17	1
+107817	Jmjd6	jumonji domain containing 6	0.16	1
+13543	Dvl2	dishevelled segment polarity protein 2	-0.16	1
+21813	Tgfbr2	transforming growth factor, beta receptor II	-0.16	1
+22329	Vcam1	vascular cell adhesion molecule 1	-0.16	1
+140484	Pofut1	protein O-fucosyltransferase 1	-0.15	1
+18128	Notch1	notch 1	-0.15	1
+21808	Tgfb2	transforming growth factor, beta 2	0.15	1
+26413	Mapk1	mitogen-activated protein kinase 1	-0.15	1
+71461	Ptk7	PTK7 protein tyrosine kinase 7	-0.15	1
+11920	Atm	ataxia telangiectasia mutated	0.14	1
+20112	Rps6ka2	ribosomal protein S6 kinase, polypeptide 2	-0.14	1
+26395	Map2k1	mitogen-activated protein kinase kinase 1	-0.14	1
+59024	Med12	mediator complex subunit 12	0.14	1
+64082	Popdc2	popeye domain containing 2	0.14	1
+17395	Mmp9	matrix metallopeptidase 9	-0.13	1
+20656	Sod2	superoxide dismutase 2, mitochondrial	0.13	1
+26462	Txnrd2	thioredoxin reductase 2	-0.13	1
+67694	Ift74	intraflagellar transport 74	-0.13	1
+71997	Smg9	smg-9 homolog, nonsense mediated mRNA decay factor (C. elegans)	0.13	1
+12369	Casp7	caspase 7	0.12	1
+23938	Map2k5	mitogen-activated protein kinase kinase 5	-0.12	1
+58198	Sall1	spalt like transcription factor 1	0.12	1
+75547	Akap13	A kinase (PRKA) anchor protein 13	0.12	1
+15531	Ndst1	N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 1	-0.11	1
+18015	Nf1	neurofibromin 1	0.11	1
+20181	Rxra	retinoid X receptor alpha	-0.11	1
+20677	Sox4	SRY (sex determining region Y)-box 4	-0.11	1
+207425	Wdr11	WD repeat domain 11	-0.11	1
+20807	Srf	serum response factor	-0.11	1
+209456	Trp53bp2	transformation related protein 53 binding protein 2	-0.11	1
+22084	Tsc2	TSC complex subunit 2	-0.11	1
+71175	Nipbl	NIPBL cohesin loading factor	-0.11	1
+21812	Tgfbr1	transforming growth factor, beta receptor I	-0.1	1
+22290	Uty	ubiquitously transcribed tetratricopeptide repeat gene, Y chromosome	-0.1	1
+68927	Ptcd2	pentatricopeptide repeat domain 2	0.1	1
+83675	Bicc1	BicC family RNA binding protein 1	0.1	1
+108655	Foxp1	forkhead box P1	-0.09	1
+12166	Bmpr1a	bone morphogenetic protein receptor, type 1A	-0.09	1
+12421	Rb1cc1	RB1-inducible coiled-coil 1	-0.09	1
+15902	Id2	inhibitor of DNA binding 2	0.09	1
+20416	Shc1	src homology 2 domain-containing transforming protein C1	-0.09	1
+20586	Smarca4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	0.09	1
+73692	Cplane1	ciliogenesis and planar polarity effector 1	-0.09	1
+13805	Eng	endoglin	-0.08	1
+211323	Nrg1	neuregulin 1	-0.08	1
+22059	Trp53	transformation related protein 53	0.08	1
+436022	Dnaaf3	dynein, axonemal assembly factor 3	-0.08	1
+66826	Taz	tafazzin	-0.08	1
+75302	Asxl2	additional sex combs like 2, transcriptional regulator	0.08	1
+19084	Prkar1a	protein kinase, cAMP dependent regulatory, type I, alpha	-0.07	1
+19211	Pten	phosphatase and tensin homolog	-0.07	1
+22289	Kdm6a	lysine (K)-specific demethylase 6A	0.07	1
+268396	Sh3pxd2b	SH3 and PX domains 2B	0.07	1
+77446	Heg1	heart development protein with EGF-like domains 1	-0.07	1
+108154	Adamts6	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 6	0.06	1
+11477	Acvr1	activin A receptor, type 1	-0.06	1
+12370	Casp8	caspase 8	0.06	1
+12387	Ctnnb1	catenin (cadherin associated protein), beta 1	-0.06	1
+12929	Crkl	v-crk avian sarcoma virus CT10 oncogene homolog-like	-0.06	1
+16568	Kif3a	kinesin family member 3A	-0.06	1
+17260	Mef2c	myocyte enhancer factor 2C	-0.06	1
+213019	Pdlim2	PDZ and LIM domain 2	-0.06	1
+216527	Ccm2	cerebral cavernous malformation 2	-0.06	1
+230857	Ece1	endothelin converting enzyme 1	0.06	1
+54132	Pdlim1	PDZ and LIM domain 1 (elfin)	0.06	1
+54598	Calcrl	calcitonin receptor-like	-0.06	1
+68652	Tab2	TGF-beta activated kinase 1/MAP3K7 binding protein 2	0.06	1
+71436	Flrt3	fibronectin leucine rich transmembrane protein 3	-0.06	1
+71770	Ap2b1	adaptor-related protein complex 2, beta 1 subunit	-0.06	1
+116904	Alpk3	alpha-kinase 3	0.05	1
+18186	Nrp1	neuropilin 1	-0.05	1
+19664	Rbpj	recombination signal binding protein for immunoglobulin kappa J region	0.05	1
+26396	Map2k2	mitogen-activated protein kinase kinase 2	-0.05	1
+328572	Ep300	E1A binding protein p300	-0.05	1
+74123	Foxp4	forkhead box P4	-0.05	1
+14682	Gnaq	guanine nucleotide binding protein, alpha q polypeptide	-0.04	1
+17246	Mdm2	transformed mouse 3T3 cell double minute 2	-0.04	1
+19056	Ppp3cb	protein phosphatase 3, catalytic subunit, beta isoform	-0.04	1
+22340	Vegfb	vascular endothelial growth factor B	0.04	1
+244631	Pskh1	protein serine kinase H1	-0.04	1
+56406	Ncoa6	nuclear receptor coactivator 6	-0.04	1
+12192	Zfp36l1	zinc finger protein 36, C3H type-like 1	-0.03	1
+12575	Cdkn1a	cyclin-dependent kinase inhibitor 1A (P21)	0.03	1
+17126	Smad2	SMAD family member 2	0.03	1
+19164	Psen1	presenilin 1	0.03	1
+19662	Rbp4	retinol binding protein 4, plasma	0.03	1
+225164	Mib1	mindbomb E3 ubiquitin protein ligase 1	0.02	1
+69821	Mterf4	mitochondrial transcription termination factor 4	-0.02	1
+12288	Cacna1c	calcium channel, voltage-dependent, L type, alpha 1C subunit	0.01	1
+12367	Casp3	caspase 3	0.01	1
+18021	Nfatc3	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 3	0.01	1
+18187	Nrp2	neuropilin 2	0.01	1
+75826	Senp2	SUMO/sentrin specific peptidase 2	0.01	1

@@ -1,0 +1,51 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+14254	Flt1	FMS-like tyrosine kinase 1	2.25	0.033
+21687	Tek	TEK receptor tyrosine kinase	-1.8	0.039
+13838	Epha4	Eph receptor A4	2.4	0.054
+20779	Src	Rous sarcoma oncogene	-0.9	0.75
+21682	Tec	tec protein tyrosine kinase	0.47	1
+329165	Abi2	abl-interactor 2	0.4	1
+16161	Il12rb1	interleukin 12 receptor, beta 1	-0.32	1
+22137	Ttk	Ttk protein kinase	-0.32	1
+13835	Epha1	Eph receptor A1	-0.29	1
+102414	Clk3	CDC-like kinase 3	-0.27	1
+16542	Kdr	kinase insert domain protein receptor	-0.27	1
+19229	Ptk2b	PTK2 protein tyrosine kinase 2 beta	0.27	1
+16453	Jak3	Janus kinase 3	0.26	1
+15170	Ptpn6	protein tyrosine phosphatase, non-receptor type 6	-0.24	1
+12229	Btk	Bruton agammaglobulinemia tyrosine kinase	0.22	1
+16451	Jak1	Janus kinase 1	0.22	1
+106522	Pkdcc	protein kinase domain containing, cytoplasmic	-0.21	1
+14083	Ptk2	PTK2 protein tyrosine kinase 2	-0.2	1
+17096	Lyn	LYN proto-oncogene, Src family tyrosine kinase	-0.2	1
+18591	Pdgfb	platelet derived growth factor, B polypeptide	0.2	1
+12747	Clk1	CDC-like kinase 1	-0.19	1
+16590	Kit	KIT proto-oncogene receptor tyrosine kinase	-0.19	1
+19699	Reln	reelin	-0.18	1
+11308	Abi1	abl-interactor 1	-0.17	1
+12305	Ddr1	discoidin domain receptor family, member 1	-0.17	1
+14360	Fyn	Fyn proto-oncogene	-0.17	1
+12750	Clk4	CDC like kinase 4	-0.15	1
+16337	Insr	insulin receptor	-0.15	1
+26904	Sh2d1b1	SH2 domain containing 1B1	-0.15	1
+11352	Abl2	v-abl Abelson murine leukemia viral oncogene 2 (arg, Abelson-related gene)	0.13	1
+16162	Il12rb2	interleukin 12 receptor, beta 2	0.13	1
+15162	Hck	hemopoietic cell kinase	-0.12	1
+14159	Fes	feline sarcoma oncogene	-0.11	1
+12978	Csf1r	colony stimulating factor 1 receptor	-0.1	1
+18596	Pdgfrb	platelet derived growth factor receptor, beta polypeptide	0.08	1
+226419	Dyrk3	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 3	0.08	1
+11350	Abl1	c-abl oncogene 1, non-receptor tyrosine kinase	-0.06	1
+14191	Fgr	FGR proto-oncogene, Src family tyrosine kinase	-0.06	1
+14158	Fer	fer (fms/fps related) protein kinase	0.04	1
+20963	Syk	spleen tyrosine kinase	0.04	1
+14182	Fgfr1	fibroblast growth factor receptor 1	0.03	1
+15275	Hk1	hexokinase 1	0.03	1
+12748	Clk2	CDC-like kinase 2	0.02	1
+13649	Egfr	epidermal growth factor receptor	0.02	1
+19303	Pxn	paxillin	-0.02	1
+22390	Wee1	WEE 1 homolog 1 (S. pombe)	-0.02	1
+69181	Dyrk2	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 2	-0.02	1
+16452	Jak2	Janus kinase 2	-0.01	1
+13548	Dyrk1a	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1a	0	1
+20850	Stat5a	signal transducer and activator of transcription 5A	0	1

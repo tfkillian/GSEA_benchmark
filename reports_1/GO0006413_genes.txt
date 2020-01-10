@@ -1,0 +1,50 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+73158	Larp1	La ribonucleoprotein domain family, member 1	0.7	0.63
+67204	Eif2s2	eukaryotic translation initiation factor 2, subunit 2 (beta)	0.46	0.7
+108067	Eif2b3	eukaryotic translation initiation factor 2B, subunit 3	0.92	0.71
+13664	Eif1a	eukaryotic translation initiation factor 1A	0.77	0.72
+216877	Dhx33	DEAH (Asp-Glu-Ala-His) box polypeptide 33	0.78	1
+24015	Abce1	ATP-binding cassette, sub-family E (OABP), member 1	0.59	1
+26905	Eif2s3x	eukaryotic translation initiation factor 2, subunit 3, structural gene X-linked	0.55	1
+13665	Eif2s1	eukaryotic translation initiation factor 2, subunit 1 alpha	0.52	1
+27979	Eif3b	eukaryotic translation initiation factor 3, subunit B	0.52	1
+209354	Eif2b1	eukaryotic translation initiation factor 2B, subunit 1 (alpha)	0.43	1
+13684	Eif4e	eukaryotic translation initiation factor 4E	0.4	1
+13667	Eif2b4	eukaryotic translation initiation factor 2B, subunit 4 delta	0.39	1
+13669	Eif3a	eukaryotic translation initiation factor 3, subunit A	0.38	1
+218629	Dhx29	DEAH (Asp-Glu-Ala-His) box polypeptide 29	0.34	1
+224045	Eif2b5	eukaryotic translation initiation factor 2B, subunit 5 epsilon	0.33	1
+53356	Eif3g	eukaryotic translation initiation factor 3, subunit G	0.33	1
+76784	Mtif2	mitochondrial translational initiation factor 2	0.32	1
+55944	Eif3d	eukaryotic translation initiation factor 3, subunit D	0.31	1
+16418	Eif6	eukaryotic translation initiation factor 6	0.27	1
+223691	Eif3l	eukaryotic translation initiation factor 3, subunit L	0.24	1
+13205	Ddx3x	DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 3, X-linked	0.23	1
+68969	Eif1b	eukaryotic translation initiation factor 1B	-0.23	1
+224742	Abcf1	ATP-binding cassette, sub-family F (GCN20), member 1	0.21	1
+13690	Eif4g2	eukaryotic translation initiation factor 4, gamma 2	0.2	1
+76366	Mtif3	mitochondrial translational initiation factor 3	-0.2	1
+229317	Eif2a	eukaryotic translation initiation factor 2A	0.19	1
+66085	Eif3f	eukaryotic translation initiation factor 3, subunit F	-0.18	1
+217869	Eif5	eukaryotic translation initiation factor 5	0.16	1
+68135	Eif3h	eukaryotic translation initiation factor 3, subunit H	-0.15	1
+16865	Eif2d	eukaryotic translation initiation factor 2D	-0.14	1
+68184	Denr	density-regulated protein	0.14	1
+56347	Eif3c	eukaryotic translation initiation factor 3, subunit C	0.12	1
+69860	Eif1ad	eukaryotic translation initiation factor 1A domain containing	0.11	1
+98221	Eif3m	eukaryotic translation initiation factor 3, subunit M	0.11	1
+26987	Eif4e2	eukaryotic translation initiation factor 4E member 2	0.1	1
+73830	Eif3k	eukaryotic translation initiation factor 3, subunit K	-0.1	1
+230861	Eif4g3	eukaryotic translation initiation factor 4 gamma, 3	0.09	1
+54709	Eif3i	eukaryotic translation initiation factor 3, subunit I	0.08	1
+66892	Eif4e3	eukaryotic translation initiation factor 4E member 3	0.08	1
+72284	LTO1	ABCE maturation factor	-0.07	1
+26908	Eif2s3y	eukaryotic translation initiation factor 2, subunit 3, structural gene Y-linked	0.06	1
+75705	Eif4b	eukaryotic translation initiation factor 4B	-0.04	1
+20918	Eif1	eukaryotic translation initiation factor 1	0.03	1
+22384	Eif4h	eukaryotic translation initiation factor 4H	0.03	1
+66235	Eif1ax	eukaryotic translation initiation factor 1A, X-linked	0.03	1
+68995	Mcts1	malignant T cell amplified sequence 1	-0.03	1
+13682	Eif4a2	eukaryotic translation initiation factor 4A2	0.02	1
+16341	Eif3e	eukaryotic translation initiation factor 3, subunit E	0	1
+217715	Eif2b2	eukaryotic translation initiation factor 2B, subunit 2 beta	0	1

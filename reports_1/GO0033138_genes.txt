@@ -1,0 +1,67 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+21687	Tek	TEK receptor tyrosine kinase	-1.8	0.039
+58231	Stk4	serine/threonine kinase 4	-0.49	0.56
+16193	Il6	interleukin 6	1.54	0.63
+381290	Atp2b4	ATPase, Ca++ transporting, plasma membrane 4	0.95	0.65
+19225	Ptgs2	prostaglandin-endoperoxide synthase 2	0.85	1
+54396	Irgm2	immunity-related GTPase family M member 2	0.68	1
+11600	Angpt1	angiopoietin 1	-0.61	1
+101540	Prkd2	protein kinase D2	-0.43	1
+15519	Hsp90aa1	heat shock protein 90, alpha (cytosolic), class A member 1	0.42	1
+208643	Eif4g1	eukaryotic translation initiation factor 4, gamma 1	0.38	1
+21803	Tgfb1	transforming growth factor, beta 1	0.34	1
+109689	Arrb1	arrestin, beta 1	-0.33	1
+56426	Pdcd10	programmed cell death 10	0.33	1
+18413	Osm	oncostatin M	0.32	1
+56089	Ramp3	receptor (calcitonin) activity modifying protein 3	-0.3	1
+14456	Gas6	growth arrest specific 6	-0.27	1
+68943	Pink1	PTEN induced putative kinase 1	-0.26	1
+232560	Caprin2	caprin family member 2	-0.23	1
+216869	Arrb2	arrestin, beta 2	-0.22	1
+69726	Smyd3	SET and MYND domain containing 3	-0.22	1
+15516	Hsp90ab1	heat shock protein 90 alpha (cytosolic), class B member 1	0.21	1
+17872	Ppp1r15a	protein phosphatase 1, regulatory subunit 15A	-0.21	1
+27387	Sh2d3c	SH2 domain containing 3C	-0.21	1
+94088	Trim6	tripartite motif-containing 6	0.21	1
+15185	Hdac6	histone deacetylase 6	0.2	1
+17763	Mtcp1	mature T cell proliferation 1	-0.2	1
+23897	Hax1	HCLS1 associated X-1	0.2	1
+18479	Pak1	p21 (RAC1) activated kinase 1	-0.17	1
+29815	Bcar3	breast cancer anti-estrogen resistance 3	-0.17	1
+71890	Mad2l2	MAD2 mitotic arrest deficient-like 2	0.17	1
+110157	Raf1	v-raf-leukemia viral oncogene 1	0.16	1
+11606	Agt	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)	0.16	1
+232430	Crebl2	cAMP responsive element binding protein-like 2	-0.16	1
+57320	Park7	Parkinson disease (autosomal recessive, early onset) 7	-0.16	1
+24064	Spry2	sprouty RTK signaling antagonist 2	-0.15	1
+22166	Txn1	thioredoxin 1	-0.14	1
+58184	Cnot9	CCR4-NOT transcription complex, subunit 9	0.14	1
+16798	Lats1	large tumor suppressor	0.13	1
+329679	Fnip2	folliculin interacting protein 2	-0.12	1
+12389	Cav1	caveolin 1, caveolae protein	-0.11	1
+12505	Cd44	CD44 antigen	0.11	1
+227743	Mapkap1	mitogen-activated protein kinase associated protein 1	-0.09	1
+74370	Rptor	regulatory associated protein of MTOR, complex 1	0.09	1
+109880	Braf	Braf transforming gene	-0.08	1
+12005	Axin1	axin 1	0.08	1
+12043	Bcl2	B cell leukemia/lymphoma 2	-0.08	1
+15163	Hcls1	hematopoietic cell specific Lyn substrate 1	0.06	1
+52163	Camk1	calcium/calmodulin-dependent protein kinase I	-0.06	1
+100986	Akap9	A kinase (PRKA) anchor protein (yotiao) 9	0.05	1
+11820	App	amyloid beta (A4) precursor protein	-0.05	1
+11836	Araf	Araf proto-oncogene, serine/threonine kinase	-0.05	1
+17295	Met	met proto-oncogene	-0.05	1
+18706	Pik3ca	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha	-0.05	1
+21926	Tnf	tumor necrosis factor	-0.04	1
+57321	Terf2ip	telomeric repeat binding factor 2, interacting protein	0.03	1
+13649	Egfr	epidermal growth factor receptor	0.02	1
+216742	Fnip1	folliculin interacting protein 1	-0.02	1
+22339	Vegfa	vascular endothelial growth factor A	0.02	1
+606496	Gsk3a	glycogen synthase kinase 3 alpha	0.02	1
+67384	Bag4	BCL2-associated athanogene 4	-0.02	1
+11651	Akt1	thymoma viral proto-oncogene 1	0.01	1
+11652	Akt2	thymoma viral proto-oncogene 2	0.01	1
+192656	Ripk2	receptor (TNFRSF)-interacting serine-threonine kinase 2	0.01	1
+67299	Dock7	dedicator of cytokinesis 7	-0.01	1
+83946	Phip	pleckstrin homology domain interacting protein	0.01	1
+228140	Tnks1bp1	tankyrase 1 binding protein 1	0	1

@@ -1,0 +1,45 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+16175	Il1a	interleukin 1 alpha	3.08	0.00095
+16176	Il1b	interleukin 1 beta	1.41	0.48
+17874	Myd88	myeloid differentiation primary response gene 88	0.64	0.56
+16193	Il6	interleukin 6	1.54	0.63
+15510	Hspd1	heat shock protein 1 (chaperonin)	0.76	1
+11541	Adora2b	adenosine A2b receptor	0.72	1
+230073	Ddx58	DEAD (Asp-Glu-Ala-Asp) box polypeptide 58	0.48	1
+106759	Ticam1	toll-like receptor adaptor molecule 1	0.4	1
+16194	Il6ra	interleukin 6 receptor, alpha	-0.38	1
+56490	Zbtb20	zinc finger and BTB domain containing 20	-0.35	1
+230594	Tut4	terminal uridylyl transferase 4	-0.31	1
+257632	Nod2	nucleotide-binding oligomerization domain containing 2	-0.27	1
+19247	Ptpn11	protein tyrosine phosphatase, non-receptor type 11	-0.26	1
+13057	Cyba	cytochrome b-245, alpha polypeptide	-0.22	1
+21950	Tnfsf9	tumor necrosis factor (ligand) superfamily, member 9	0.2	1
+12491	Cd36	CD36 molecule	-0.19	1
+18439	P2rx7	purinergic receptor P2X, ligand-gated ion channel, 7	-0.18	1
+15289	Hmgb1	high mobility group box 1	-0.16	1
+142980	Tlr3	toll-like receptor 3	-0.15	1
+22722	Zfp64	zinc finger protein 64	0.15	1
+433693	Akirin2	akirin 2	0.15	1
+170743	Tlr7	toll-like receptor 7	-0.14	1
+17394	Mmp8	matrix metallopeptidase 8	-0.14	1
+226421	Rab7b	RAB7B, member RAS oncogene family	-0.14	1
+66824	Pycard	PYD and CARD domain containing	-0.14	1
+16181	Il1rn	interleukin 1 receptor antagonist	-0.13	1
+26415	Mapk13	mitogen-activated protein kinase 13	-0.13	1
+67581	Tbc1d23	TBC1 domain family, member 23	-0.13	1
+24088	Tlr2	toll-like receptor 2	-0.12	1
+14127	Fcer1g	Fc receptor, IgE, high affinity I, gamma polypeptide	-0.11	1
+215257	Il1f9	interleukin 1 family, member 9	-0.11	1
+21898	Tlr4	toll-like receptor 4	-0.11	1
+100689	Spon2	spondin 2, extracellular matrix protein	-0.1	1
+16803	Lbp	lipopolysaccharide binding protein	-0.1	1
+225471	Ticam2	toll-like receptor adaptor molecule 2	-0.1	1
+170744	Tlr8	toll-like receptor 8	-0.09	1
+107607	Nod1	nucleotide-binding oligomerization domain containing 1	0.06	1
+12774	Ccr5	chemokine (C-C motif) receptor 5	-0.06	1
+22164	Tnfsf4	tumor necrosis factor (ligand) superfamily, member 4	-0.06	1
+332579	Card9	caspase recruitment domain family, member 9	-0.06	1
+21926	Tnf	tumor necrosis factor	-0.04	1
+16800	Arhgef2	rho/rac guanine nucleotide exchange factor (GEF) 2	-0.03	1
+81897	Tlr9	toll-like receptor 9	0.03	1
+192656	Ripk2	receptor (TNFRSF)-interacting serine-threonine kinase 2	0.01	1

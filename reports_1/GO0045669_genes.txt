@@ -1,0 +1,43 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+102657	Cd276	CD276 antigen	1.17	0.21
+16193	Il6	interleukin 6	1.54	0.63
+17125	Smad1	SMAD family member 1	-0.54	0.63
+16195	Il6st	interleukin 6 signal transducer	0.76	0.86
+320799	Zhx3	zinc fingers and homeoboxes 3	-0.46	1
+11481	Acvr2b	activin receptor IIB	-0.43	1
+16905	Lmna	lamin A	-0.43	1
+67141	Fbxo5	F-box protein 5	-0.36	1
+22410	Wnt10b	wingless-type MMTV integration site family, member 10B	-0.31	1
+67087	Ctnnbip1	catenin beta interacting protein 1	-0.31	1
+67399	Pdlim7	PDZ and LIM domain 7	-0.29	1
+14683	Gnas	GNAS (guanine nucleotide binding protein, alpha stimulating) complex locus	-0.2	1
+114249	Npnt	nephronectin	-0.19	1
+16973	Lrp5	low density lipoprotein receptor-related protein 5	-0.19	1
+231633	Tmem119	transmembrane protein 119	-0.19	1
+12608	Cebpb	CCAAT/enhancer binding protein (C/EBP), beta	0.18	1
+12393	Runx2	runt related transcription factor 2	0.17	1
+14119	Fbn2	fibrillin 2	-0.17	1
+17002	Ltf	lactotransferrin	-0.16	1
+80752	Fam20c	family with sequence similarity 20, member C	-0.15	1
+17283	Men1	multiple endocrine neoplasia 1	-0.14	1
+16000	Igf1	insulin-like growth factor 1	-0.11	1
+16202	Ilk	integrin linked kinase	-0.11	1
+226551	Suco	SUN domain containing ossification factor	0.1	1
+12166	Bmpr1a	bone morphogenetic protein receptor, type 1A	-0.09	1
+12168	Bmpr2	bone morphogenetic protein receptor, type II (serine/threonine kinase)	-0.09	1
+114584	Clic1	chloride intracellular channel 1	0.07	1
+12606	Cebpa	CCAAT/enhancer binding protein (C/EBP), alpha	-0.07	1
+17129	Smad5	SMAD family member 5	0.07	1
+54411	Atp6ap1	ATPase, H+ transporting, lysosomal accessory protein 1	-0.07	1
+11477	Acvr1	activin A receptor, type 1	-0.06	1
+12387	Ctnnb1	catenin (cadherin associated protein), beta 1	-0.06	1
+17260	Mef2c	myocyte enhancer factor 2C	-0.06	1
+12609	Cebpd	CCAAT/enhancer binding protein (C/EBP), delta	-0.04	1
+16007	Ccn1	cellular communication network factor 1	0.04	1
+16449	Jag1	jagged 1	-0.04	1
+11480	Acvr2a	activin receptor IIA	0.03	1
+15951	Ifi204	interferon activated gene 204	0.03	1
+381629	Atraid	all-trans retinoic acid induced differentiation factor	-0.03	1
+19219	Ptger4	prostaglandin E receptor 4 (subtype EP4)	-0.02	1
+22339	Vegfa	vascular endothelial growth factor A	0.02	1
+16478	Jund	jun D proto-oncogene	0	1

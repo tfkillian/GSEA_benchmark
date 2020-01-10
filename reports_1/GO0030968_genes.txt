@@ -1,0 +1,40 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+14828	Hspa5	heat shock protein 5	1.72	0.0055
+226641	Atf6	activating transcription factor 6	0.84	0.59
+27368	Tbl2	transducin (beta)-like 2	0.58	0.65
+12317	Calr	calreticulin	0.55	0.88
+12364	Casp12	caspase 12	0.94	1
+64209	Herpud1	homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1	0.92	1
+100037258	Dnajc3	DnaJ heat shock protein family (Hsp40) member C3	0.76	1
+109815	Selenos	selenoprotein S	0.43	1
+110920	Hspa13	heat shock protein 70 family, member 13	0.37	1
+208647	Creb3l2	cAMP responsive element binding protein 3-like 2	0.37	1
+13666	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	0.35	1
+22433	Xbp1	X-box binding protein 1	0.32	1
+214424	Parp16	poly (ADP-ribose) polymerase family, member 16	-0.31	1
+20856	Stc2	stanniocalcin 2	-0.29	1
+12443	Ccnd1	cyclin D1	-0.28	1
+28146	Serp1	stress-associated endoplasmic reticulum protein 1	0.27	1
+67819	Derl1	Der1-like domain family, member 1	0.27	1
+22393	Wfs1	wolframin ER transmembrane glycoprotein	-0.25	1
+19106	Eif2ak2	eukaryotic translation initiation factor 2-alpha kinase 2	0.23	1
+17872	Ppp1r15a	protein phosphatase 1, regulatory subunit 15A	-0.21	1
+12330	Canx	calnexin	0.17	1
+208677	Creb3l3	cAMP responsive element binding protein 3-like 3	-0.16	1
+13198	Ddit3	DNA-damage inducible transcript 3	-0.15	1
+75212	Rnf121	ring finger protein 121	0.14	1
+78943	Ern1	endoplasmic reticulum (ER) to nucleus signalling 1	-0.13	1
+12913	Creb3	cAMP responsive element binding protein 3	-0.12	1
+56491	Vapb	vesicle-associated membrane protein, associated protein B and C	-0.11	1
+80280	Cdk5rap3	CDK5 regulatory subunit associated protein 3	-0.11	1
+116891	Derl2	Der1-like domain family, member 2	0.09	1
+27103	Eif2ak4	eukaryotic translation initiation factor 2 alpha kinase 4	0.09	1
+50527	Ero1l	ERO1-like (S. cerevisiae)	-0.09	1
+11910	Atf3	activating transcription factor 3	-0.07	1
+226418	Yod1	YOD1 deubiquitinase	-0.07	1
+80517	Herpud2	HERPUD family member 2	-0.07	1
+18024	Nfe2l2	nuclear factor, erythroid derived 2, like 2	0.04	1
+19246	Ptpn1	protein tyrosine phosphatase, non-receptor type 1	0.04	1
+23802	Amfr	autocrine motility factor receptor	0.04	1
+12915	Atf6b	activating transcription factor 6 beta	0.02	1
+56424	Stub1	STIP1 homology and U-Box containing protein 1	0	1

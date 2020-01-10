@@ -1,0 +1,83 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+14254	Flt1	FMS-like tyrosine kinase 1	2.25	0.033
+21687	Tek	TEK receptor tyrosine kinase	-1.8	0.039
+13653	Egr1	early growth response 1	2.2	0.046
+12282	Hyou1	hypoxia up-regulated 1	1.5	0.066
+22027	Hsp90b1	heat shock protein 90, beta (Grp94), member 1	1.01	0.2
+17684	Cited2	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 2	0.68	0.39
+15468	Prmt2	protein arginine N-methyltransferase 2	-0.71	1
+11931	Atp1b1	ATPase, Na+/K+ transporting, beta 1 polypeptide	-0.56	1
+12494	Cd38	CD38 antigen	-0.53	1
+226413	Lct	lactase	-0.48	1
+22341	Vegfc	vascular endothelial growth factor C	0.46	1
+12398	Cbfa2t3	CBFA2/RUNX1 translocation partner 3	-0.45	1
+11727	Ang	angiogenin, ribonuclease, RNase A family, 5	-0.38	1
+11486	Ada	adenosine deaminase	-0.35	1
+19309	Pygm	muscle glycogen phosphorylase	-0.35	1
+11596	Ager	advanced glycosylation end product-specific receptor	-0.34	1
+23988	Pin1	protein (peptidyl-prolyl cis/trans isomerase) NIMA-interacting 1	0.33	1
+112405	Egln1	egl-9 family hypoxia-inducible factor 1	-0.32	1
+11444	Chrnb2	cholinergic receptor, nicotinic, beta polypeptide 2 (neuronal)	-0.31	1
+16438	Itpr1	inositol 1,4,5-trisphosphate receptor 1	0.29	1
+235623	Scap	SREBF chaperone	0.28	1
+16542	Kdr	kinase insert domain protein receptor	-0.27	1
+74747	Ddit4	DNA-damage-inducible transcript 4	-0.26	1
+14284	Fosl2	fos-like antigen 2	0.25	1
+18806	Pld2	phospholipase D2	-0.25	1
+12359	Cat	catalase	-0.24	1
+18792	Plau	plasminogen activator, urokinase	-0.24	1
+21335	Tacc3	transforming, acidic coiled-coil containing protein 3	-0.22	1
+18791	Plat	plasminogen activator, tissue	-0.21	1
+72018	Fundc1	FUN14 domain containing 1	-0.2	1
+22346	Vhl	von Hippel-Lindau tumor suppressor	-0.19	1
+18174	Slc11a2	solute carrier family 11 (proton-coupled divalent metal ion transporters), member 2	0.18	1
+15369	Hmox2	heme oxygenase 2	-0.17	1
+18479	Pak1	p21 (RAC1) activated kinase 1	-0.17	1
+110157	Raf1	v-raf-leukemia viral oncogene 1	0.16	1
+16173	Il18	interleukin 18	0.16	1
+17128	Smad4	SMAD family member 4	-0.16	1
+94352	Loxl2	lysyl oxidase-like 2	0.16	1
+20541	Slc8a1	solute carrier family 8 (sodium/calcium exchanger), member 1	-0.15	1
+21808	Tgfb2	transforming growth factor, beta 2	0.15	1
+11920	Atm	ataxia telangiectasia mutated	0.14	1
+12362	Casp1	caspase 1	0.14	1
+17127	Smad3	SMAD family member 3	-0.14	1
+18854	Pml	promyelocytic leukemia	0.14	1
+12484	Cd24a	CD24a antigen	-0.13	1
+53417	Hif3a	hypoxia inducible factor 3, alpha subunit	-0.13	1
+12389	Cav1	caveolin 1, caveolae protein	-0.11	1
+12955	Cryab	crystallin, alpha B	-0.11	1
+18015	Nf1	neurofibromin 1	0.11	1
+20677	Sox4	SRY (sex determining region Y)-box 4	-0.11	1
+22084	Tsc2	TSC complex subunit 2	-0.11	1
+231002	Plekhn1	pleckstrin homology domain containing, family N member 1	0.11	1
+112406	Egln2	egl-9 family hypoxia-inducible factor 2	-0.1	1
+11797	Birc2	baculoviral IAP repeat-containing 2	-0.1	1
+11863	Arnt	aryl hydrocarbon receptor nuclear translocator	0.1	1
+15251	Hif1a	hypoxia inducible factor 1, alpha subunit	0.1	1
+15368	Hmox1	heme oxygenase 1	-0.1	1
+16439	Itpr2	inositol 1,4,5-triphosphate receptor 2	0.1	1
+22228	Ucp2	uncoupling protein 2 (mitochondrial, proton carrier)	-0.1	1
+56017	Slc2a8	solute carrier family 2, (facilitated glucose transporter), member 8	-0.1	1
+16475	Ajuba	ajuba LIM protein	0.09	1
+108058	Camk2d	calcium/calmodulin-dependent protein kinase II, delta	-0.08	1
+13805	Eng	endoglin	-0.08	1
+17257	Mecp2	methyl CpG binding protein 2	0.08	1
+22278	Usf1	upstream transcription factor 1	0.08	1
+12325	Camk2g	calcium/calmodulin-dependent protein kinase II gamma	0.07	1
+29806	Limd1	LIM domains containing 1	0.07	1
+18751	Prkcb	protein kinase C, beta	-0.06	1
+230857	Ece1	endothelin converting enzyme 1	0.06	1
+328572	Ep300	E1A binding protein p300	-0.05	1
+99237	Tm9sf4	transmembrane 9 superfamily protein member 4	0.05	1
+19712	Rest	RE1-silencing transcription factor	-0.04	1
+22340	Vegfb	vascular endothelial growth factor B	0.04	1
+268420	Alkbh5	alkB homolog 5, RNA demethylase	-0.03	1
+268860	Abat	4-aminobutyrate aminotransferase	0.03	1
+67563	Ciao3	cytosolic iron-sulfur assembly component 3	0.03	1
+101543	Wtip	WT1-interacting protein	-0.02	1
+171210	Acot2	acyl-CoA thioesterase 2	0.02	1
+18227	Nr4a2	nuclear receptor subfamily 4, group A, member 2	0.02	1
+22339	Vegfa	vascular endothelial growth factor A	0.02	1
+18021	Nfatc3	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 3	0.01	1
+11491	Adam17	a disintegrin and metallopeptidase domain 17	0	1

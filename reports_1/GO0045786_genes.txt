@@ -1,0 +1,30 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+13853	Epm2a	epilepsy, progressive myoclonic epilepsy, type 2 gene alpha	-0.82	0.34
+11852	Rhob	ras homolog family member B	-0.56	0.59
+19225	Ptgs2	prostaglandin-endoperoxide synthase 2	0.85	1
+12571	Cdk6	cyclin-dependent kinase 6	0.66	1
+225845	Plaat3	phospholipase A and acyltransferase 3	-0.47	1
+15446	Hpgd	hydroxyprostaglandin dehydrogenase 15 (NAD)	-0.42	1
+21803	Tgfb1	transforming growth factor, beta 1	0.34	1
+70510	Rnf167	ring finger protein 167	-0.33	1
+12578	Cdkn2a	cyclin dependent kinase inhibitor 2A	-0.32	1
+216964	Trp53i13	transformation related protein 53 inducible protein 13	-0.32	1
+229228	Nudt6	nudix (nucleoside diphosphate linked moiety X)-type motif 6	-0.31	1
+19645	Rb1	RB transcriptional corepressor 1	-0.28	1
+57441	Gmnn	geminin	-0.26	1
+12576	Cdkn1b	cyclin-dependent kinase inhibitor 1B	-0.25	1
+12399	Runx3	runt related transcription factor 3	-0.17	1
+20467	Sin3b	transcriptional regulator, SIN3B (yeast)	-0.17	1
+56312	Nupr1	nuclear protein transcription regulator 1	-0.17	1
+15370	Nr4a1	nuclear receptor subfamily 4, group A, member 1	-0.16	1
+12568	Cdk5	cyclin-dependent kinase 5	-0.15	1
+19272	Ptprk	protein tyrosine phosphatase, receptor type, K	-0.15	1
+17283	Men1	multiple endocrine neoplasia 1	-0.14	1
+20112	Rps6ka2	ribosomal protein S6 kinase, polypeptide 2	-0.14	1
+21981	Ppp1r13b	protein phosphatase 1, regulatory subunit 13B	-0.14	1
+234852	Chmp1a	charged multivesicular body protein 1A	-0.12	1
+16323	Inhba	inhibin beta-A	-0.08	1
+12606	Cebpa	CCAAT/enhancer binding protein (C/EBP), alpha	-0.07	1
+23871	Ets1	E26 avian leukemia oncogene 1, 5' domain	0.07	1
+21343	Taf6	TATA-box binding protein associated factor 6	-0.06	1
+12367	Casp3	caspase 3	0.01	1

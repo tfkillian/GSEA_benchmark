@@ -1,0 +1,30 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+16193	Il6	interleukin 6	1.54	0.63
+16195	Il6st	interleukin 6 signal transducer	0.76	0.86
+16159	Il12a	interleukin 12a	0.64	0.89
+80285	Parp9	poly (ADP-ribose) polymerase family, member 9	0.45	1
+16189	Il4	interleukin 4	-0.4	1
+16194	Il6ra	interleukin 6 receptor, alpha	-0.38	1
+21939	Cd40	CD40 antigen	-0.35	1
+18413	Osm	oncostatin M	0.32	1
+15499	Hsf1	heat shock factor 1	0.31	1
+21937	Tnfrsf1a	tumor necrosis factor receptor superfamily, member 1a	0.24	1
+107566	Arl2bp	ADP-ribosylation factor-like 2 binding protein	-0.23	1
+15182	Hdac2	histone deacetylase 2	0.21	1
+16168	Il15	interleukin 15	-0.2	1
+17096	Lyn	LYN proto-oncogene, Src family tyrosine kinase	-0.2	1
+16590	Kit	KIT proto-oncogene receptor tyrosine kinase	-0.19	1
+15205	Hes1	hes family bHLH transcription factor 1	-0.18	1
+14360	Fyn	Fyn proto-oncogene	-0.17	1
+16173	Il18	interleukin 18	0.16	1
+547253	Parp14	poly (ADP-ribose) polymerase family, member 14	0.16	1
+16000	Igf1	insulin-like growth factor 1	-0.11	1
+12978	Csf1r	colony stimulating factor 1 receptor	-0.1	1
+18613	Pecam1	platelet/endothelial cell adhesion molecule 1	-0.09	1
+433759	Hdac1	histone deacetylase 1	-0.08	1
+52023	Pibf1	progesterone immunomodulatory binding factor 1	0.08	1
+15163	Hcls1	hematopoietic cell specific Lyn substrate 1	0.06	1
+15458	Hpx	hemopexin	0.05	1
+21926	Tnf	tumor necrosis factor	-0.04	1
+19219	Ptger4	prostaglandin E receptor 4 (subtype EP4)	-0.02	1
+16452	Jak2	Janus kinase 2	-0.01	1

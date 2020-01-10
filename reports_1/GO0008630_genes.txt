@@ -1,0 +1,46 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+17869	Myc	myelocytomatosis oncogene	0.9	1
+55948	Sfn	stratifin	-0.53	1
+319955	Ercc6	excision repair cross-complementing rodent repair deficiency, complementation group 6	0.39	1
+12371	Casp9	caspase 9	-0.33	1
+12048	Bcl2l1	BCL2-like 1	0.31	1
+17685	Msh2	mutS homolog 2	-0.3	1
+13555	E2f1	E2F transcription factor 1	-0.27	1
+50883	Chek2	checkpoint kinase 2	-0.27	1
+18708	Pik3r1	phosphoinositide-3-kinase regulatory subunit 1	0.26	1
+72565	Uaca	uveal autoantigen with coiled-coil domains and ankyrin repeats	-0.26	1
+21937	Tnfrsf1a	tumor necrosis factor receptor superfamily, member 1a	0.24	1
+12047	Bcl2a1d	B cell leukemia/lymphoma 2 related protein A1d	-0.22	1
+12028	Bax	BCL2-associated X protein	-0.21	1
+12125	Bcl2l11	BCL2-like 11 (apoptosis facilitator)	0.21	1
+19090	Prkdc	protein kinase, DNA activated, catalytic polypeptide	-0.21	1
+64704	Htra2	HtrA serine peptidase 2	-0.2	1
+12189	Brca1	breast cancer 1, early onset	-0.19	1
+12925	Crip1	cysteine-rich protein 1 (intestinal)	-0.17	1
+18970	Polb	polymerase (DNA directed), beta	-0.17	1
+12015	Bad	BCL2-associated agonist of cell death	-0.16	1
+13663	Ei24	etoposide induced 2.4 mRNA	-0.16	1
+17350	Mlh1	mutL homolog 1	0.16	1
+237877	Atad5	ATPase family, AAA domain containing 5	-0.16	1
+12190	Brca2	breast cancer 2, early onset	-0.15	1
+11920	Atm	ataxia telangiectasia mutated	0.14	1
+18854	Pml	promyelocytic leukemia	0.14	1
+21938	Tnfrsf1b	tumor necrosis factor receptor superfamily, member 1b	-0.14	1
+66824	Pycard	PYD and CARD domain containing	-0.14	1
+20656	Sod2	superoxide dismutase 2, mitochondrial	0.13	1
+17193	Mbd4	methyl-CpG binding domain protein 4	-0.12	1
+329679	Fnip2	folliculin interacting protein 2	-0.12	1
+15368	Hmox1	heme oxygenase 1	-0.1	1
+17688	Msh6	mutS homolog 6	-0.1	1
+12018	Bak1	BCL2-antagonist/killer 1	0.08	1
+12043	Bcl2	B cell leukemia/lymphoma 2	-0.08	1
+15937	Ier3	immediate early response 3	0.08	1
+18950	Pnp	purine-nucleoside phosphorylase	0.08	1
+93759	Sirt1	sirtuin 1	-0.08	1
+17210	Mcl1	myeloid cell leukemia sequence 1	0.07	1
+22590	Xpa	xeroderma pigmentosum, complementation group A	-0.07	1
+21926	Tnf	tumor necrosis factor	-0.04	1
+12050	Bcl2l2	BCL2-like 2	0.02	1
+56489	Ikbke	inhibitor of kappaB kinase epsilon	-0.01	1
+58801	Pmaip1	phorbol-12-myristate-13-acetate-induced protein 1	0.01	1
+106021	Topors	topoisomerase I binding, arginine/serine-rich	0	1

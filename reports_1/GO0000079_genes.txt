@@ -1,0 +1,32 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+380694	Ccnjl	cyclin J-like	1.48	0.13
+69237	Gtpbp4	GTP binding protein 4	0.86	0.59
+12444	Ccnd2	cyclin D2	1.12	0.9
+12580	Cdkn2c	cyclin dependent kinase inhibitor 2C	-0.56	1
+55948	Sfn	stratifin	-0.53	1
+12452	Ccng2	cyclin G2	-0.47	1
+12442	Ccnb2	cyclin B2	-0.41	1
+240665	Ccnj	cyclin J	0.41	1
+12453	Ccni	cyclin I	-0.4	1
+12144	Blm	Bloom syndrome, RecQ like helicase	-0.39	1
+12578	Cdkn2a	cyclin dependent kinase inhibitor 2A	-0.32	1
+12449	Ccnf	cyclin F	-0.3	1
+12443	Ccnd1	cyclin D1	-0.28	1
+12428	Ccna2	cyclin A2	-0.27	1
+11461	Actb	actin, beta	-0.2	1
+66671	Ccnh	cyclin H	0.16	1
+12448	Ccne2	cyclin E2	-0.15	1
+17420	Mnat1	menage a trois 1	-0.14	1
+69171	Cnppd1	cyclin Pas1/PHO80 domain containing 1	-0.14	1
+268697	Ccnb1	cyclin B1	-0.13	1
+80280	Cdk5rap3	CDK5 regulatory subunit associated protein 3	-0.11	1
+12450	Ccng1	cyclin G1	-0.07	1
+66971	Cdk5rap1	CDK5 regulatory subunit associated protein 1	-0.07	1
+12445	Ccnd3	cyclin D3	0.06	1
+12579	Cdkn2b	cyclin dependent kinase inhibitor 2B	-0.06	1
+12581	Cdkn2d	cyclin dependent kinase inhibitor 2D	0.06	1
+12575	Cdkn1a	cyclin-dependent kinase inhibitor 1A (P21)	0.03	1
+56706	Ccnl1	cyclin L1	-0.03	1
+66165	Bccip	BRCA2 and CDKN1A interacting protein	0.03	1
+12447	Ccne1	cyclin E1	-0.01	1
+218630	Ccno	cyclin O	0.01	1

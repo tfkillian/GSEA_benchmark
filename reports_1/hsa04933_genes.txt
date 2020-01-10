@@ -1,0 +1,86 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+7412	VCAM1	vascular cell adhesion molecule 1	-3.7	9.3e-82
+1277	COL1A1	collagen type I alpha 1 chain	-1.32	6.4e-49
+2308	FOXO1	forkhead box O1	2.22	1.7e-39
+7048	TGFBR2	transforming growth factor beta receptor 2	1.45	3.4e-34
+1282	COL4A1	collagen type IV alpha 1 chain	1.31	8.6e-25
+1286	COL4A4	collagen type IV alpha 4 chain	1.9	4.8e-22
+5295	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1	1.53	1.6e-20
+1281	COL3A1	collagen type III alpha 1 chain	-0.86	7.4e-20
+8503	PIK3R3	phosphoinositide-3-kinase regulatory subunit 3	-1.71	1.7e-19
+5581	PRKCE	protein kinase C epsilon	-1.21	4.3e-19
+1284	COL4A2	collagen type IV alpha 2 chain	0.88	2.6e-16
+1019	CDK4	cyclin dependent kinase 4	-0.8	1.9e-13
+6774	STAT3	signal transducer and activator of transcription 3	0.61	4.6e-12
+1287	COL4A5	collagen type IV alpha 5 chain	-0.88	8e-11
+3725	JUN	Jun proto-oncogene, AP-1 transcription factor subunit	-1.22	1.1e-10
+7422	VEGFA	vascular endothelial growth factor A	-1.27	1.5e-10
+7042	TGFB2	transforming growth factor beta 2	-1.52	4.4e-10
+183	AGT	angiotensinogen	-1.17	6.9e-09
+5292	PIM1	Pim-1 proto-oncogene, serine/threonine kinase	-0.86	2.1e-08
+6776	STAT5A	signal transducer and activator of transcription 5A	0.59	2.2e-08
+5602	MAPK10	mitogen-activated protein kinase 10	-0.77	9.1e-08
+23236	PLCB1	phospholipase C beta 1	-0.77	1.4e-07
+5293	PIK3CD	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta	0.78	1.8e-07
+6777	STAT5B	signal transducer and activator of transcription 5B	0.5	8.7e-07
+836	CASP3	caspase 3	0.73	1.2e-06
+4088	SMAD3	SMAD family member 3	-0.39	4.6e-06
+1278	COL1A2	collagen type I alpha 2 chain	-0.44	1.2e-05
+5290	PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha	0.57	1.8e-05
+3717	JAK2	Janus kinase 2	0.77	2e-05
+7424	VEGFC	vascular endothelial growth factor C	-0.44	0.00022
+5332	PLCB4	phospholipase C beta 4	0.64	0.00028
+5879	RAC1	Rac family small GTPase 1	0.32	0.00032
+2152	F3	coagulation factor III, tissue factor	0.52	0.00034
+2277	VEGFD	vascular endothelial growth factor D	-0.87	0.00079
+5600	MAPK11	mitogen-activated protein kinase 11	0.46	0.0018
+51196	PLCE1	phospholipase C epsilon 1	0.43	0.0044
+1432	MAPK14	mitogen-activated protein kinase 14	0.29	0.0051
+6772	STAT1	signal transducer and activator of transcription 1	0.32	0.0062
+4313	MMP2	matrix metallopeptidase 2	-0.22	0.0092
+5595	MAPK3	mitogen-activated protein kinase 3	-0.28	0.01
+3265	HRAS	HRas proto-oncogene, GTPase	0.36	0.018
+596	BCL2	BCL2 apoptosis regulator	-0.45	0.019
+4893	NRAS	NRAS proto-oncogene, GTPase	0.29	0.019
+1729	DIAPH1	diaphanous related formin 1	0.28	0.022
+5970	RELA	RELA proto-oncogene, NF-kB subunit	0.22	0.038
+10000	AKT3	AKT serine/threonine kinase 3	0.32	0.039
+7040	TGFB1	transforming growth factor beta 1	-0.29	0.04
+3569	IL6	interleukin 6	-0.76	0.053
+5603	MAPK13	mitogen-activated protein kinase 13	0.41	0.054
+5291	PIK3CB	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta	0.35	0.055
+1958	EGR1	early growth response 1	-1.01	0.064
+208	AKT2	AKT serine/threonine kinase 2	-0.2	0.074
+4790	NFKB1	nuclear factor kappa B subunit 1	-0.22	0.083
+84812	PLCD4	phospholipase C delta 4	-0.39	0.097
+207	AKT1	AKT serine/threonine kinase 1	0.2	0.12
+185	AGTR1	angiotensin II receptor type 1	1.18	0.13
+5054	SERPINE1	serpin family E member 1	0.63	0.14
+4089	SMAD4	SMAD family member 4	0.21	0.14
+5578	PRKCA	protein kinase C alpha	0.19	0.16
+6347	CCL2	C-C motif chemokine ligand 2	-0.57	0.18
+3383	ICAM1	intercellular adhesion molecule 1	0.28	0.27
+6300	MAPK12	mitogen-activated protein kinase 12	0.19	0.31
+5333	PLCD1	phospholipase C delta 1	0.18	0.32
+5331	PLCB3	phospholipase C beta 3	0.16	0.36
+50507	NOX4	NADPH oxidase 4	-0.46	0.41
+5580	PRKCD	protein kinase C delta	0.14	0.47
+581	BAX	BCL2 associated X, apoptosis regulator	-0.1	0.5
+998	CDC42	cell division cycle 42	0.08	0.52
+7056	THBD	thrombomodulin	0.4	0.6
+113026	PLCD3	phospholipase C delta 3	-0.05	0.72
+2335	FN1	fibronectin 1	0.06	0.74
+5594	MAPK1	mitogen-activated protein kinase 1	0.05	0.74
+7043	TGFB3	transforming growth factor beta 3	0.09	0.78
+7423	VEGFB	vascular endothelial growth factor B	0.04	0.81
+1027	CDKN1B	cyclin dependent kinase inhibitor 1B	-0.04	0.82
+5335	PLCG1	phospholipase C gamma 1	-0.04	0.82
+177	AGER	advanced glycosylation end-product specific receptor	-0.15	0.83
+595	CCND1	cyclin D1	-0.04	0.84
+4772	NFATC1	nuclear factor of activated T cells 1	0.05	0.88
+4087	SMAD2	SMAD family member 2	0.03	0.88
+5601	MAPK9	mitogen-activated protein kinase 9	-0.02	0.91
+1906	EDN1	endothelin 1	0.09	0.92
+5599	MAPK8	mitogen-activated protein kinase 8	-0.02	0.92
+7046	TGFBR1	transforming growth factor beta receptor 1	0.02	0.97
+3845	KRAS	KRAS proto-oncogene, GTPase	-0.01	0.98

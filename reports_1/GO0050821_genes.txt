@@ -1,0 +1,152 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+18715	Pim2	proviral integration site 2	2.66	0.0011
+13838	Epha4	Eph receptor A4	2.4	0.054
+72344	Usp36	ubiquitin specific peptidase 36	1.04	0.086
+56401	P3h1	prolyl 3-hydroxylase 1	0.69	0.39
+18628	Per3	period circadian clock 3	-0.83	0.55
+58231	Stk4	serine/threonine kinase 4	-0.49	0.56
+69237	Gtpbp4	GTP binding protein 4	0.86	0.59
+74126	Syvn1	synovial apoptosis inhibitor 1, synoviolin	0.76	0.66
+12466	Cct6a	chaperonin containing Tcp1, subunit 6a (zeta)	0.57	0.85
+18712	Pim1	proviral integration site 1	1.09	0.88
+12317	Calr	calreticulin	0.55	0.88
+23992	Prkra	protein kinase, interferon inducible double stranded RNA dependent activator	-0.51	0.93
+54651	Usp27x	ubiquitin specific peptidase 27, X chromosome	0.74	0.99
+15510	Hspd1	heat shock protein 1 (chaperonin)	0.76	1
+11785	Apbb1	amyloid beta (A4) precursor protein-binding, family B, member 1	-0.69	1
+54396	Irgm2	immunity-related GTPase family M member 2	0.68	1
+67916	Plpp3	phospholipid phosphatase 3	-0.67	1
+11931	Atp1b1	ATPase, Na+/K+ transporting, beta 1 polypeptide	-0.56	1
+210009	Mtrr	5-methyltetrahydrofolate-homocysteine methyltransferase reductase	0.54	1
+12462	Cct3	chaperonin containing Tcp1, subunit 3 (gamma)	0.53	1
+11806	Apoa1	apolipoprotein A-I	-0.52	1
+29810	Bag3	BCL2-associated athanogene 3	0.5	1
+74838	Naa15	N(alpha)-acetyltransferase 15, NatA auxiliary subunit	0.48	1
+56274	Stk3	serine/threonine kinase 3	0.47	1
+18148	Npm1	nucleophosmin 1	0.46	1
+66634	Mcm8	minichromosome maintenance 8 homologous recombination repair factor	-0.45	1
+11787	Apbb2	amyloid beta (A4) precursor protein-binding, family B, member 2	-0.44	1
+20913	Stxbp4	syntaxin binding protein 4	-0.44	1
+15519	Hsp90aa1	heat shock protein 90, alpha (cytosolic), class A member 1	0.42	1
+69747	Zswim7	zinc finger SWIM-type containing 7	0.42	1
+18673	Phb	prohibitin	0.39	1
+71718	Telo2	telomere maintenance 2	0.37	1
+80985	Trim44	tripartite motif-containing 44	0.36	1
+21454	Tcp1	t-complex protein 1	0.34	1
+22404	Wiz	widely-interspaced zinc finger motifs	0.34	1
+338337	Cog3	component of oligomeric golgi complex 3	0.34	1
+57816	Tesc	tescalcin	-0.34	1
+23988	Pin1	protein (peptidyl-prolyl cis/trans isomerase) NIMA-interacting 1	0.33	1
+56426	Pdcd10	programmed cell death 10	0.33	1
+12465	Cct5	chaperonin containing Tcp1, subunit 5 (epsilon)	0.32	1
+12469	Cct8	chaperonin containing Tcp1, subunit 8 (theta)	0.32	1
+12578	Cdkn2a	cyclin dependent kinase inhibitor 2A	-0.32	1
+22410	Wnt10b	wingless-type MMTV integration site family, member 10B	-0.31	1
+18099	Nlk	nemo like kinase	-0.29	1
+70369	Bag5	BCL2-associated athanogene 5	0.29	1
+56351	Ptges3	prostaglandin E synthase 3	0.28	1
+50883	Chek2	checkpoint kinase 2	-0.27	1
+18708	Pik3r1	phosphoinositide-3-kinase regulatory subunit 1	0.26	1
+68943	Pink1	PTEN induced putative kinase 1	-0.26	1
+83945	Dnaja3	DnaJ heat shock protein family (Hsp40) member A3	0.26	1
+22393	Wfs1	wolframin ER transmembrane glycoprotein	-0.25	1
+21423	Tcf3	transcription factor 3	-0.24	1
+231130	Tnip2	TNFAIP3 interacting protein 2	0.24	1
+227648	Sec16a	SEC16 homolog A, endoplasmic reticulum export factor	0.22	1
+56398	Chp1	calcineurin-like EF hand protein 1	-0.22	1
+73162	Otud3	OTU domain containing 3	-0.22	1
+12034	Phb2	prohibitin 2	0.21	1
+12464	Cct4	chaperonin containing Tcp1, subunit 4 (delta)	0.21	1
+22210	Ube2b	ubiquitin-conjugating enzyme E2B	-0.21	1
+252870	Usp7	ubiquitin specific peptidase 7	0.21	1
+56693	Crtap	cartilage associated protein	0.21	1
+68350	Mul1	mitochondrial ubiquitin ligase activator of NFKB 1	0.21	1
+103425	Ncln	nicalin	0.2	1
+68585	Rtn4	reticulon 4	0.2	1
+12468	Cct7	chaperonin containing Tcp1, subunit 7 (eta)	0.19	1
+50873	Prkn	parkin RBR E3 ubiquitin protein ligase	-0.19	1
+67693	Hypk	huntingtin interacting protein K	0.19	1
+68077	Nop53	NOP53 ribosome biogenesis factor	-0.19	1
+11807	Apoa2	apolipoprotein A-II	0.18	1
+12572	Cdk7	cyclin-dependent kinase 7	0.18	1
+18643	Pfn1	profilin 1	-0.18	1
+12461	Cct2	chaperonin containing Tcp1, subunit 2 (beta)	0.17	1
+54343	Atf7ip	activating transcription factor 7 interacting protein	-0.17	1
+17131	Smad7	SMAD family member 7	-0.16	1
+22177	Tyrobp	TYRO protein tyrosine kinase binding protein	-0.16	1
+232430	Crebl2	cAMP responsive element binding protein-like 2	-0.16	1
+57320	Park7	Parkinson disease (autosomal recessive, early onset) 7	-0.16	1
+65972	Ifi30	interferon gamma inducible protein 30	-0.16	1
+66671	Ccnh	cyclin H	0.16	1
+170822	Usp33	ubiquitin specific peptidase 33	-0.15	1
+192652	Wdr81	WD repeat domain 81	-0.15	1
+72114	Zbed3	zinc finger, BED type containing 3	-0.15	1
+11933	Atp1b3	ATPase, Na+/K+ transporting, beta 3 polypeptide	-0.14	1
+17127	Smad3	SMAD family member 3	-0.14	1
+18854	Pml	promyelocytic leukemia	0.14	1
+215653	Rassf2	Ras association (RalGDS/AF-6) domain family member 2	-0.14	1
+29816	Hip1r	huntingtin interacting protein 1 related	-0.14	1
+50754	Fbxw7	F-box and WD-40 domain protein 7	0.14	1
+66962	Swsap1	SWIM type zinc finger 7 associated protein 1	0.14	1
+16784	Lamp2	lysosomal-associated membrane protein 2	0.13	1
+215114	Hip1	huntingtin interacting protein 1	-0.13	1
+67955	Sugt1	SGT1, suppressor of G2 allele of SKP1 (S. cerevisiae)	-0.13	1
+108143	Taf9	TATA-box binding protein associated factor 9	0.12	1
+16783	Lamp1	lysosomal-associated membrane protein 1	-0.12	1
+22218	Sumo1	small ubiquitin-like modifier 1	-0.12	1
+12955	Cryab	crystallin, alpha B	-0.11	1
+16000	Igf1	insulin-like growth factor 1	-0.11	1
+20677	Sox4	SRY (sex determining region Y)-box 4	-0.11	1
+20910	Stxbp1	syntaxin binding protein 1	0.11	1
+213539	Bag2	BCL2-associated athanogene 2	0.11	1
+65019	Rpl23	ribosomal protein L23	-0.11	1
+192176	Flna	filamin, alpha	-0.1	1
+21376	Tbrg1	transforming growth factor beta regulated gene 1	0.1	1
+22284	Usp9x	ubiquitin specific peptidase 9, X chromosome	0.1	1
+226407	Rab3gap1	RAB3 GTPase activating protein subunit 1	-0.1	1
+22680	Zfp207	zinc finger protein 207	0.1	1
+100503670	Rpl5	ribosomal protein L5	-0.09	1
+14252	Flot2	flotillin 2	-0.09	1
+14824	Grn	granulin	-0.09	1
+20115	Rps7	ribosomal protein S7	-0.09	1
+319757	Smo	smoothened, frizzled class receptor	0.09	1
+64930	Tsc1	TSC complex subunit 1	-0.09	1
+12912	Creb1	cAMP responsive element binding protein 1	-0.08	1
+192232	Hps4	HPS4, biogenesis of lysosomal organelles complex 3 subunit 2	0.08	1
+19298	Pex19	peroxisomal biogenesis factor 19	-0.08	1
+210376	Mtmr9	myotubularin related protein 9	0.08	1
+22059	Trp53	transformation related protein 53	0.08	1
+57437	Golga7	golgi autoantigen, golgin subfamily a, 7	0.08	1
+14433	Gapdh	glyceraldehyde-3-phosphate dehydrogenase	-0.07	1
+19035	Ppib	peptidylprolyl isomerase B	0.07	1
+19211	Pten	phosphatase and tensin homolog	-0.07	1
+21372	Tbl1x	transducin (beta)-like 1 X-linked	0.07	1
+224824	Pex6	peroxisomal biogenesis factor 6	-0.07	1
+50884	Nckap1	NCK-associated protein 1	-0.07	1
+67025	Rpl11	ribosomal protein L11	-0.07	1
+67072	Cdc37l1	cell division cycle 37-like 1	0.07	1
+12328	Caml	calcium modulating ligand	-0.06	1
+224727	Bag6	BCL2-associated athanogene 6	0.06	1
+226432	Ipo9	importin 9	-0.06	1
+269774	Aak1	AP2 associated kinase 1	-0.06	1
+53376	Usp2	ubiquitin specific peptidase 2	-0.06	1
+233824	Cog7	component of oligomeric golgi complex 7	-0.05	1
+328572	Ep300	E1A binding protein p300	-0.05	1
+52838	Dnlz	DNL-type zinc finger	0.05	1
+71472	Usp19	ubiquitin specific peptidase 19	-0.05	1
+11932	Atp1b2	ATPase, Na+/K+ transporting, beta 2 polypeptide	-0.04	1
+14682	Gnaq	guanine nucleotide binding protein, alpha q polypeptide	-0.04	1
+12539	Cdc37	cell division cycle 37	-0.03	1
+13544	Dvl3	dishevelled segment polarity protein 3	-0.03	1
+14251	Flot1	flotillin 1	0.03	1
+407786	Taf9b	TATA-box binding protein associated factor 9B	0.03	1
+57438	March7	membrane-associated ring finger (C3HC4) 7	-0.03	1
+13542	Dvl1	dishevelled segment polarity protein 1	0.02	1
+15161	Hcfc1	host cell factor C1	0.02	1
+270627	Taf1	TATA-box binding protein associated factor 1	0.02	1
+338467	Morc3	microrchidia 3	-0.02	1
+56289	Rassf1	Ras association (RalGDS/AF-6) domain family member 1	-0.02	1
+100226	Stx12	syntaxin 12	0.01	1
+64010	Sav1	salvador family WW domain containing 1	-0.01	1
+66897	Naa16	N(alpha)-acetyltransferase 16, NatA auxiliary subunit	0.01	1
+12759	Clu	clusterin	0	1

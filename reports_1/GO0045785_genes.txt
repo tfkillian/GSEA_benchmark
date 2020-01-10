@@ -1,0 +1,47 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+20344	Selp	selectin, platelet	2.24	0.0035
+21687	Tek	TEK receptor tyrosine kinase	-1.8	0.039
+20779	Src	Rous sarcoma oncogene	-0.9	0.75
+12261	C1qbp	complement component 1, q subcomponent binding protein	0.64	0.8
+16159	Il12a	interleukin 12a	0.64	0.89
+54357	Epb41l4b	erythrocyte membrane protein band 4.1 like 4b	-0.77	1
+11600	Angpt1	angiopoietin 1	-0.61	1
+101540	Prkd2	protein kinase D2	-0.43	1
+16398	Itga2	integrin alpha 2	-0.43	1
+14766	Adgrg1	adhesion G protein-coupled receptor G1	-0.38	1
+18709	Pik3r2	phosphoinositide-3-kinase regulatory subunit 2	-0.38	1
+20312	Cx3cl1	chemokine (C-X3-C motif) ligand 1	-0.38	1
+277360	Prex1	phosphatidylinositol-3,4,5-trisphosphate-dependent Rac exchange factor 1	-0.28	1
+18806	Pld2	phospholipase D2	-0.25	1
+216805	Flcn	folliculin	-0.25	1
+12310	Calca	calcitonin/calcitonin-related polypeptide, alpha	0.22	1
+54519	Apbb1ip	amyloid beta (A4) precursor protein-binding, family B, member 1 interacting protein	0.22	1
+16825	Ldb1	LIM domain binding 1	-0.21	1
+14083	Ptk2	PTK2 protein tyrosine kinase 2	-0.2	1
+17242	Mdk	midkine	-0.2	1
+19271	Ptprj	protein tyrosine phosphatase, receptor type, J	-0.2	1
+12512	Cd63	CD63 antigen	0.19	1
+19159	Cyth3	cytohesin 3	-0.19	1
+22003	Tpm1	tropomyosin 1, alpha	-0.19	1
+22324	Vav1	vav 1 oncogene	0.19	1
+11920	Atm	ataxia telangiectasia mutated	0.14	1
+18750	Prkca	protein kinase C, alpha	-0.14	1
+20908	Stx3	syntaxin 3	-0.14	1
+15586	Hyal1	hyaluronoglucosaminidase 1	-0.13	1
+57257	Vav3	vav 3 oncogene	-0.13	1
+209446	Tfe3	transcription factor E3	-0.12	1
+11501	Adam8	a disintegrin and metallopeptidase domain 8	-0.11	1
+22084	Tsc2	TSC complex subunit 2	-0.11	1
+20296	Ccl2	chemokine (C-C motif) ligand 2	0.1	1
+20909	Stx4a	syntaxin 4A (placental)	-0.1	1
+21817	Tgm2	transglutaminase 2, C polypeptide	0.09	1
+13132	Dab2	disabled 2, mitogen-responsive phosphoprotein	-0.07	1
+11789	Apc	APC, WNT signaling pathway regulator	0.06	1
+11854	Rhod	ras homolog family member D	-0.06	1
+11906	Zfhx3	zinc finger homeobox 3	-0.06	1
+21926	Tnf	tumor necrosis factor	-0.04	1
+16410	Itgav	integrin alpha V	-0.03	1
+19055	Ppp3ca	protein phosphatase 3, catalytic subunit, alpha isoform	-0.02	1
+19219	Ptger4	prostaglandin E receptor 4 (subtype EP4)	-0.02	1
+22339	Vegfa	vascular endothelial growth factor A	0.02	1
+67384	Bag4	BCL2-associated athanogene 4	-0.02	1

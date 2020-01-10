@@ -1,0 +1,120 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+73158	Larp1	La ribonucleoprotein domain family, member 1	0.7	0.63
+107508	Eprs	glutamyl-prolyl-tRNA synthetase	0.48	0.92
+243574	Kbtbd8	kelch repeat and BTB (POZ) domain containing 8	1.01	1
+18011	Neurl1a	neuralized E3 ubiquitin protein ligase 1A	-0.82	1
+216766	Gemin5	gem nuclear organelle associated protein 5	0.79	1
+100037258	Dnajc3	DnaJ heat shock protein family (Hsp40) member C3	0.76	1
+21453	Tcof1	treacle ribosome biogenesis factor 1	0.65	1
+207952	Klhl25	kelch-like 25	0.63	1
+218506	Mrps27	mitochondrial ribosomal protein S27	0.56	1
+18813	Pa2g4	proliferation-associated 2G4	0.55	1
+13665	Eif2s1	eukaryotic translation initiation factor 2, subunit 1 alpha	0.52	1
+17347	Mknk2	MAP kinase-interacting serine/threonine kinase 2	-0.47	1
+332397	Nanos1	nanos C2HC-type zinc finger 1	-0.45	1
+13684	Eif4e	eukaryotic translation initiation factor 4E	0.4	1
+433702	Ncbp1	nuclear cap binding protein subunit 1	0.4	1
+69956	Ptcd3	pentatricopeptide repeat domain 3	0.4	1
+231659	Gcn1	GCN1 activator of EIF2AK4	0.39	1
+56484	Foxo3	forkhead box O3	-0.39	1
+68036	Zfp706	zinc finger protein 706	0.39	1
+11803	Aplp1	amyloid beta (A4) precursor-like protein 1	-0.36	1
+13666	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	0.35	1
+208922	Cpeb3	cytoplasmic polyadenylation element binding protein 3	-0.34	1
+269037	Ctif	CBP80/20-dependent translation initiation factor	-0.34	1
+69674	Mif4gd	MIF4G domain containing	-0.34	1
+17974	Nck2	non-catalytic region of tyrosine kinase adaptor protein 2	0.33	1
+67579	Cpeb4	cytoplasmic polyadenylation element binding protein 4	0.32	1
+19735	Rgs2	regulator of G-protein signaling 2	-0.31	1
+140488	Igf2bp3	insulin-like growth factor 2 mRNA binding protein 3	0.28	1
+57746	Piwil2	piwi-like RNA-mediated gene silencing 2	-0.27	1
+214150	Ago3	argonaute RISC catalytic subunit 3	0.25	1
+241846	Lsm14b	LSM family member 14B	-0.24	1
+13205	Ddx3x	DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 3, X-linked	0.23	1
+13418	Dnajc1	DnaJ heat shock protein family (Hsp40) member C1	0.23	1
+213988	Tnrc6b	trinucleotide repeat containing 6b	-0.22	1
+236511	Ago1	argonaute RISC catalytic subunit 1	-0.22	1
+68092	Ncbp2	nuclear cap binding protein subunit 2	0.22	1
+72508	Rps6kb1	ribosomal protein S6 kinase, polypeptide 1	0.22	1
+13211	Dhx9	DEAH (Asp-Glu-Ala-His) box polypeptide 9	0.21	1
+17872	Ppp1r15a	protein phosphatase 1, regulatory subunit 15A	-0.21	1
+20430	Cyfip1	cytoplasmic FMR1 interacting protein 1	-0.21	1
+67869	Paip2	polyadenylate-binding protein-interacting protein 2	-0.21	1
+13690	Eif4g2	eukaryotic translation initiation factor 4, gamma 2	0.2	1
+140486	Igf2bp1	insulin-like growth factor 2 mRNA binding protein 1	-0.2	1
+15568	Elavl1	ELAV (embryonic lethal, abnormal vision)-like 1 (Hu antigen R)	0.2	1
+217331	Unk	unkempt family zinc finger	-0.2	1
+78893	Cnot10	CCR4-NOT transcription complex, subunit 10	0.2	1
+16210	Impact	impact, RWD domain protein	-0.19	1
+229317	Eif2a	eukaryotic translation initiation factor 2A	0.19	1
+22171	Tyms	thymidylate synthase	-0.18	1
+13688	Eif4ebp2	eukaryotic translation initiation factor 4E binding protein 2	-0.17	1
+69635	Dapk1	death associated protein kinase 1	-0.17	1
+67070	Lsm14a	LSM14A mRNA processing body assembly factor	-0.16	1
+319765	Igf2bp2	insulin-like growth factor 2 mRNA binding protein 2	0.15	1
+76850	Ago4	argonaute RISC catalytic subunit 4	-0.15	1
+80912	Pum1	pumilio RNA-binding family member 1	0.15	1
+20202	S100a9	S100 calcium binding protein A9 (calgranulin B)	-0.14	1
+21357	Tarbp2	TARBP2, RISC loading complex RNA binding subunit	0.14	1
+22121	Rpl13a	ribosomal protein L13A	-0.14	1
+52846	Cnot11	CCR4-NOT transcription complex, subunit 11	0.14	1
+56541	Habp4	hyaluronic acid binding protein 4	-0.14	1
+58184	Cnot9	CCR4-NOT transcription complex, subunit 9	0.14	1
+68966	Ngdn	neuroguidin, EIF4E binding protein	0.14	1
+108954	Ppp1r15b	protein phosphatase 1, regulatory subunit 15B	0.13	1
+69125	Cnot8	CCR4-NOT transcription complex, subunit 8	-0.13	1
+27050	Rps3	ribosomal protein S3	-0.12	1
+56040	Rplp1	ribosomal protein, large, P1	-0.12	1
+70207	Taco1	translational activator of mitochondrially encoded cytochrome c oxidase I	0.12	1
+12877	Cpeb1	cytoplasmic polyadenylation element binding protein 1	0.11	1
+16000	Igf1	insulin-like growth factor 1	-0.11	1
+19317	Qk	quaking	-0.11	1
+231464	Cnot6l	CCR4-NOT transcription complex, subunit 6-like	-0.11	1
+13685	Eif4ebp1	eukaryotic translation initiation factor 4E binding protein 1	0.1	1
+18983	Cnot7	CCR4-NOT transcription complex, subunit 7	0.1	1
+26987	Eif4e2	eukaryotic translation initiation factor 4E member 2	0.1	1
+29813	Zfp385a	zinc finger protein 385A	-0.1	1
+104625	Cnot6	CCR4-NOT transcription complex, subunit 6	-0.09	1
+212508	Mtg1	mitochondrial ribosome-associated GTPase 1	-0.09	1
+218693	Paip1	polyadenylate binding protein-interacting protein 1	-0.09	1
+230861	Eif4g3	eukaryotic translation initiation factor 4 gamma, 3	0.09	1
+232164	Paip2b	poly(A) binding protein interacting protein 2B	0.09	1
+27103	Eif2ak4	eukaryotic translation initiation factor 2 alpha kinase 4	0.09	1
+63913	Fam129a	family with sequence similarity 129, member A	-0.09	1
+64930	Tsc1	TSC complex subunit 1	-0.09	1
+72068	Cnot2	CCR4-NOT transcription complex, subunit 2	0.09	1
+19045	Ppp1ca	protein phosphatase 1 catalytic subunit alpha	-0.08	1
+192160	Casc3	cancer susceptibility candidate 3	0.08	1
+19652	Rbm3	RNA binding motif (RNP1, RRM) protein 3	0.08	1
+213753	Zfp598	zinc finger protein 598	0.08	1
+217980	Larp4b	La ribonucleoprotein domain family, member 4B	0.08	1
+232791	Cnot3	CCR4-NOT transcription complex, subunit 3	-0.08	1
+234594	Cnot1	CCR4-NOT transcription complex, subunit 1	0.08	1
+66892	Eif4e3	eukaryotic translation initiation factor 4E member 3	0.08	1
+66704	Rbm4b	RNA binding motif protein 4B	0.07	1
+14265	Fmr1	fragile X mental retardation 1	0.06	1
+239528	Ago2	argonaute RISC catalytic subunit 2	0.06	1
+72162	Dhx36	DEAH (Asp-Glu-Ala-His) box polypeptide 36	0.06	1
+78428	Pym1	PYM homolog 1, exon junction complex associated factor	-0.06	1
+11820	App	amyloid beta (A4) precursor protein	-0.05	1
+14694	Rack1	receptor for activated C kinase 1	-0.05	1
+231207	Cpeb2	cytoplasmic polyadenylation element binding protein 2	0.05	1
+233833	Tnrc6a	trinucleotide repeat containing 6a	-0.05	1
+66118	Sarnp	SAP domain containing ribonucleoprotein	-0.05	1
+11428	Aco1	aconitase 1	-0.04	1
+15467	Eif2ak1	eukaryotic translation initiation factor 2 alpha kinase 1	-0.04	1
+17346	Mknk1	MAP kinase-interacting serine/threonine kinase 1	-0.04	1
+74480	Samd4	sterile alpha motif domain containing 4	-0.04	1
+12192	Zfp36l1	zinc finger protein 36, C3H type-like 1	-0.03	1
+64602	Ireb2	iron responsive element binding protein 2	0.03	1
+73826	Poldip3	polymerase (DNA-directed), delta interacting protein 3	-0.03	1
+80913	Pum2	pumilio RNA-binding family member 2	0.03	1
+14359	Fxr1	fragile X mental retardation gene 1, autosomal homolog	-0.02	1
+17149	Magoh	mago homolog, exon junction complex core component	0.02	1
+217351	Tnrc6c	trinucleotide repeat containing 6C	-0.02	1
+67671	Rpl38	ribosomal protein L38	-0.02	1
+11651	Akt1	thymoma viral proto-oncogene 1	0.01	1
+11652	Akt2	thymoma viral proto-oncogene 2	0.01	1
+17973	Nck1	non-catalytic region of tyrosine kinase adaptor protein 1	-0.01	1
+23879	Fxr2	fragile X mental retardation, autosomal homolog 2	-0.01	1
+110954	Rpl10	ribosomal protein L10	0	1

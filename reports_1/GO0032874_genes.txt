@@ -1,0 +1,20 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+16175	Il1a	interleukin 1 alpha	3.08	0.00095
+15357	Hmgcr	3-hydroxy-3-methylglutaryl-Coenzyme A reductase	0.56	0.47
+16176	Il1b	interleukin 1 beta	1.41	0.48
+59041	Stk25	serine/threonine kinase 25 (yeast)	-0.52	1
+330177	Taok3	TAO kinase 3	-0.4	1
+56426	Pdcd10	programmed cell death 10	0.33	1
+257632	Nod2	nucleotide-binding oligomerization domain containing 2	-0.27	1
+19106	Eif2ak2	eukaryotic translation initiation factor 2-alpha kinase 2	0.23	1
+381921	Taok2	TAO kinase 2	-0.21	1
+17318	Mid1	midline 1	0.15	1
+21808	Tgfb2	transforming growth factor, beta 2	0.15	1
+65106	Arl6ip5	ADP-ribosylation factor-like 6 interacting protein 5	-0.15	1
+216965	Taok1	TAO kinase 1	-0.13	1
+76788	Klhdc10	kelch domain containing 10	-0.12	1
+21898	Tlr4	toll-like receptor 4	-0.11	1
+107607	Nod1	nucleotide-binding oligomerization domain containing 1	0.06	1
+332579	Card9	caspase recruitment domain family, member 9	-0.06	1
+192656	Ripk2	receptor (TNFRSF)-interacting serine-threonine kinase 2	0.01	1
+20353	Sema4c	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4C	0.01	1

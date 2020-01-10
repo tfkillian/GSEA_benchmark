@@ -1,0 +1,44 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+13653	Egr1	early growth response 1	2.2	0.046
+18109	Mycn	v-myc avian myelocytomatosis viral related oncogene, neuroblastoma derived	1.77	0.058
+16176	Il1b	interleukin 1 beta	1.41	0.48
+13435	Dnmt3a	DNA methyltransferase 3A	-0.46	0.63
+50493	Txnrd1	thioredoxin reductase 1	0.7	0.71
+230379	Acer2	alkaline ceramidase 2	0.93	1
+19225	Ptgs2	prostaglandin-endoperoxide synthase 2	0.85	1
+67603	Dusp6	dual specificity phosphatase 6	0.68	1
+74187	Katnb1	katanin p80 (WD40-containing) subunit B 1	-0.46	1
+226154	Lzts2	leucine zipper, putative tumor suppressor 2	-0.4	1
+56717	Mtor	mechanistic target of rapamycin kinase	0.4	1
+18673	Phb	prohibitin	0.39	1
+208643	Eif4g1	eukaryotic translation initiation factor 4, gamma 1	0.38	1
+16362	Irf1	interferon regulatory factor 1	0.35	1
+56089	Ramp3	receptor (calcitonin) activity modifying protein 3	-0.3	1
+12684	Cideb	cell death-inducing DNA fragmentation factor, alpha subunit-like effector B	0.29	1
+432763	Prr7	proline rich 7 (synaptic)	-0.27	1
+12576	Cdkn1b	cyclin-dependent kinase inhibitor 1B	-0.25	1
+67169	Nradd	neurotrophin receptor associated death domain	-0.25	1
+70086	Cysltr2	cysteinyl leukotriene receptor 2	0.23	1
+66597	Trim13	tripartite motif-containing 13	-0.22	1
+12125	Bcl2l11	BCL2-like 11 (apoptosis facilitator)	0.21	1
+11684	Alox12	arachidonate 12-lipoxygenase	-0.2	1
+16971	Lrp1	low density lipoprotein receptor-related protein 1	-0.2	1
+64704	Htra2	HtrA serine peptidase 2	-0.2	1
+12491	Cd36	CD36 molecule	-0.19	1
+14102	Fas	Fas (TNF receptor superfamily member 6)	-0.17	1
+230738	Zc3h12a	zinc finger CCCH type containing 12A	-0.17	1
+14745	Lpar1	lysophosphatidic acid receptor 1	0.15	1
+22228	Ucp2	uncoupling protein 2 (mitochondrial, proton carrier)	-0.1	1
+57230	Sap30bp	SAP30 binding protein	0.1	1
+19122	Prnp	prion protein	-0.09	1
+13627	Eef1a1	eukaryotic translation elongation factor 1 alpha 1	-0.08	1
+107607	Nod1	nucleotide-binding oligomerization domain containing 1	0.06	1
+11789	Apc	APC, WNT signaling pathway regulator	0.06	1
+328572	Ep300	E1A binding protein p300	-0.05	1
+14084	Faf1	Fas-associated factor 1	-0.04	1
+14219	Ccn2	cellular communication network factor 2	-0.04	1
+19766	Ripk1	receptor (TNFRSF)-interacting serine-threonine kinase 1	0.04	1
+12575	Cdkn1a	cyclin-dependent kinase inhibitor 1A (P21)	0.03	1
+15439	Hp	haptoglobin	-0.03	1
+26926	Aifm1	apoptosis-inducing factor, mitochondrion-associated 1	-0.03	1
+192656	Ripk2	receptor (TNFRSF)-interacting serine-threonine kinase 2	0.01	1

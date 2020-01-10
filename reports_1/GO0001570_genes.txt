@@ -1,0 +1,42 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+21687	Tek	TEK receptor tyrosine kinase	-1.8	0.039
+17684	Cited2	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 2	0.68	0.39
+11600	Angpt1	angiopoietin 1	-0.61	1
+66515	Cul7	cullin 7	-0.48	1
+14366	Fzd4	frizzled class receptor 4	-0.46	1
+12778	Ackr3	atypical chemokine receptor 3	-0.39	1
+56233	Hdac7	histone deacetylase 7	-0.35	1
+14235	Foxm1	forkhead box M1	-0.34	1
+16477	Junb	jun B proto-oncogene	0.34	1
+21803	Tgfb1	transforming growth factor, beta 1	0.34	1
+15117	Has2	hyaluronan synthase 2	-0.33	1
+71602	Myo1e	myosin IE	0.33	1
+16542	Kdr	kinase insert domain protein receptor	-0.27	1
+27494	Amot	angiomotin	-0.27	1
+21846	Tie1	tyrosine kinase with immunoglobulin-like and EGF-like domains 1	-0.26	1
+414758	Zfp950	zinc finger protein 950	-0.26	1
+14083	Ptk2	PTK2 protein tyrosine kinase 2	-0.2	1
+19271	Ptprj	protein tyrosine phosphatase, receptor type, J	-0.2	1
+20397	Sgpl1	sphingosine phosphate lyase 1	-0.2	1
+21813	Tgfbr2	transforming growth factor, beta receptor II	-0.16	1
+21677	Tead2	TEA domain family member 2	-0.14	1
+50754	Fbxw7	F-box and WD-40 domain protein 7	0.14	1
+15242	Hhex	hematopoietically expressed homeobox	0.13	1
+170823	Glmn	glomulin, FKBP associated protein	-0.12	1
+12389	Cav1	caveolin 1, caveolae protein	-0.11	1
+19317	Qk	quaking	-0.11	1
+22601	Yap1	yes-associated protein 1	-0.11	1
+20586	Smarca4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	0.09	1
+319757	Smo	smoothened, frizzled class receptor	0.09	1
+70560	Wars2	tryptophanyl tRNA synthetase 2 (mitochondrial)	0.09	1
+13805	Eng	endoglin	-0.08	1
+77446	Heg1	heart development protein with EGF-like domains 1	-0.07	1
+12387	Ctnnb1	catenin (cadherin associated protein), beta 1	-0.06	1
+216527	Ccm2	cerebral cavernous malformation 2	-0.06	1
+12192	Zfp36l1	zinc finger protein 36, C3H type-like 1	-0.03	1
+21814	Tgfbr3	transforming growth factor, beta receptor III	0.02	1
+235626	Setd2	SET domain containing 2	-0.02	1
+328365	Zmiz1	zinc finger, MIZ-type containing 1	0.02	1
+55982	Paxip1	PAX interacting (with transcription-activation domain) protein 1	0.01	1
+78783	Brpf1	bromodomain and PHD finger containing, 1	0	1
+99929	Tiparp	TCDD-inducible poly(ADP-ribose) polymerase	0	1

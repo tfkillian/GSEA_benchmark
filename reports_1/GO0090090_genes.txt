@@ -1,0 +1,74 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+13653	Egr1	early growth response 1	2.2	0.046
+229473	Tmem131l	transmembrane 131 like	-0.72	0.22
+21885	Tle1	transducin-like enhancer of split 1	1.01	0.47
+58231	Stk4	serine/threonine kinase 4	-0.49	0.56
+20439	Siah2	siah E3 ubiquitin protein ligase 2	0.74	0.67
+26941	Slc9a3r1	solute carrier family 9 (sodium/hydrogen exchanger), member 3 regulator 1	-0.43	0.82
+23805	Apc2	adenomatosis polyposis coli 2	-0.9	1
+407821	Znrf3	zinc and ring finger 3	0.78	1
+72345	Amer1	APC membrane recruitment 1	0.59	1
+73739	Cby1	chibby family member 1, beta catenin antagonist	-0.5	1
+70433	Draxin	dorsal inhibitory axon guidance protein	0.49	1
+22411	Wnt11	wingless-type MMTV integration site family, member 11	-0.48	1
+56274	Stk3	serine/threonine kinase 3	0.47	1
+114606	Tle6	transducin-like enhancer of split 6	-0.43	1
+226154	Lzts2	leucine zipper, putative tumor suppressor 2	-0.4	1
+70122	Mllt3	myeloid/lymphoid or mixed-lineage leukemia; translocated to, 3	-0.4	1
+56484	Foxo3	forkhead box O3	-0.39	1
+72125	Amer2	APC membrane recruitment 2	-0.39	1
+14368	Fzd6	frizzled class receptor 6	0.38	1
+69601	Dab2ip	disabled 2 interacting protein	-0.36	1
+20174	Ruvbl2	RuvB-like protein 2	0.35	1
+107746	Rapgef1	Rap guanine nucleotide exchange factor (GEF) 1	0.34	1
+27041	G3bp1	GTPase activating protein (SH3 domain) binding protein 1	0.29	1
+84035	Kremen1	kringle containing transmembrane protein 1	-0.29	1
+12550	Cdh1	cadherin 1	-0.28	1
+21887	Tle3	transducin-like enhancer of split 3	0.27	1
+50523	Lats2	large tumor suppressor 2	-0.27	1
+235542	Ppp2r3a	protein phosphatase 2, regulatory subunit B'', alpha	0.26	1
+26416	Mapk14	mitogen-activated protein kinase 14	-0.25	1
+74025	Nphp3	nephronophthisis 3 (adolescent)	0.25	1
+12558	Cdh2	cadherin 2	0.23	1
+14797	Tle5	TLE family member 5, transcriptional modulator	-0.21	1
+15182	Hdac2	histone deacetylase 2	0.21	1
+13726	Emd	emerin	-0.2	1
+17242	Mdk	midkine	-0.2	1
+19273	Ptpru	protein tyrosine phosphatase, receptor type, U	0.19	1
+50873	Prkn	parkin RBR E3 ubiquitin protein ligase	-0.19	1
+56458	Foxo1	forkhead box O1	-0.19	1
+213326	Scyl2	SCY1-like 2 (S. cerevisiae)	-0.18	1
+56612	Pfdn5	prefoldin 5	-0.18	1
+71890	Mad2l2	MAD2 mitotic arrest deficient-like 2	0.17	1
+19277	Ptpro	protein tyrosine phosphatase, receptor type, O	-0.16	1
+21886	Tle2	transducin-like enhancer of split 2	-0.16	1
+13198	Ddit3	DNA-damage inducible transcript 3	-0.15	1
+18128	Notch1	notch 1	-0.15	1
+106042	Prickle1	prickle planar cell polarity protein 1	-0.14	1
+11816	Apoe	apolipoprotein E	-0.14	1
+16798	Lats1	large tumor suppressor	0.13	1
+12389	Cav1	caveolin 1, caveolae protein	-0.11	1
+16348	Invs	inversin	0.1	1
+83675	Bicc1	BicC family RNA binding protein 1	0.1	1
+20869	Stk11	serine/threonine kinase 11	0.09	1
+21888	Tle4	transducin-like enhancer of split 4	0.09	1
+12005	Axin1	axin 1	0.08	1
+433759	Hdac1	histone deacetylase 1	-0.08	1
+70300	Fuz	fuzzy planar cell polarity protein	-0.08	1
+100201	Tmem64	transmembrane protein 64	-0.07	1
+12388	Ctnnd1	catenin (cadherin associated protein), delta 1	-0.07	1
+13132	Dab2	disabled 2, mitogen-responsive phosphoprotein	-0.07	1
+228357	Lrp4	low density lipoprotein receptor-related protein 4	0.07	1
+29806	Limd1	LIM domains containing 1	0.07	1
+67772	Chd8	chromodomain helicase DNA binding protein 8	0.07	1
+74256	Cyld	CYLD lysine 63 deubiquitinase	0.07	1
+11789	Apc	APC, WNT signaling pathway regulator	0.06	1
+269424	Jade1	jade family PHD finger 1	-0.06	1
+97064	Wwtr1	WW domain containing transcription regulator 1	-0.02	1
+14734	Gpc3	glypican 3	0.01	1
+621976	Tmem170b	transmembrane protein 170B	0.01	1
+66072	Sdhaf2	succinate dehydrogenase complex assembly factor 2	0.01	1
+14362	Fzd1	frizzled class receptor 1	0	1
+21416	Tcf7l2	transcription factor 7 like 2, T cell specific, HMG box	0	1
+56637	Gsk3b	glycogen synthase kinase 3 beta	0	1
+93687	Csnk1a1	casein kinase 1, alpha 1	0	1

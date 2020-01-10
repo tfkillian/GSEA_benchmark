@@ -1,0 +1,17 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+12842	Col1a1	collagen, type I, alpha 1	0.82	1
+21825	Thbs1	thrombospondin 1	0.62	1
+18441	P2ry1	purinergic receptor P2Y, G-protein coupled 1	0.49	1
+545156	Kalrn	kalirin, RhoGEF kinase	-0.44	1
+20598	Smpd2	sphingomyelin phosphodiesterase 2, neutral	-0.37	1
+16477	Junb	jun B proto-oncogene	0.34	1
+20846	Stat1	signal transducer and activator of transcription 1	0.26	1
+26420	Mapk9	mitogen-activated protein kinase 9	-0.25	1
+237253	Lrp11	low density lipoprotein receptor-related protein 11	-0.2	1
+12491	Cd36	CD36 molecule	-0.19	1
+18439	P2rx7	purinergic receptor P2X, ligand-gated ion channel, 7	-0.18	1
+12389	Cav1	caveolin 1, caveolae protein	-0.11	1
+26419	Mapk8	mitogen-activated protein kinase 8	-0.07	1
+16476	Jun	jun proto-oncogene	-0.06	1
+26372	Clcn6	chloride channel, voltage-sensitive 6	0.04	1
+16478	Jund	jun D proto-oncogene	0	1

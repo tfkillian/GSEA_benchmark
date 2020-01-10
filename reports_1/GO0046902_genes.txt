@@ -1,0 +1,10 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+72287	Plekhf1	pleckstrin homology domain containing, family F (with FYVE domain) member 1	1.43	0.34
+20848	Stat3	signal transducer and activator of transcription 3	0.76	0.93
+12048	Bcl2l1	BCL2-like 1	0.31	1
+12799	Cnp	2',3'-cyclic nucleotide 3' phosphodiesterase	-0.28	1
+105675	Ppif	peptidylprolyl isomerase F (cyclophilin F)	-0.2	1
+12015	Bad	BCL2-associated agonist of cell death	-0.16	1
+12018	Bak1	BCL2-antagonist/killer 1	0.08	1
+12043	Bcl2	B cell leukemia/lymphoma 2	-0.08	1
+234847	Spg7	SPG7, paraplegin matrix AAA peptidase subunit	-0.06	1

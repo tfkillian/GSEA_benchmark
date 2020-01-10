@@ -1,0 +1,28 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+16176	Il1b	interleukin 1 beta	1.41	0.48
+17874	Myd88	myeloid differentiation primary response gene 88	0.64	0.56
+19260	Ptpn22	protein tyrosine phosphatase, non-receptor type 22 (lymphoid)	-0.41	1
+106759	Ticam1	toll-like receptor adaptor molecule 1	0.4	1
+17087	Ly96	lymphocyte antigen 96	-0.35	1
+21803	Tgfb1	transforming growth factor, beta 1	0.34	1
+20846	Stat1	signal transducer and activator of transcription 1	0.26	1
+26416	Mapk14	mitogen-activated protein kinase 14	-0.25	1
+108960	Irak2	interleukin-1 receptor-associated kinase 2	-0.23	1
+12475	Cd14	CD14 antigen	-0.22	1
+83433	Trem2	triggering receptor expressed on myeloid cells 2	-0.22	1
+17096	Lyn	LYN proto-oncogene, Src family tyrosine kinase	-0.2	1
+26417	Mapk3	mitogen-activated protein kinase 3	-0.19	1
+16173	Il18	interleukin 18	0.16	1
+18035	Nfkbia	nuclear factor of kappa light polypeptide gene enhancer in B cells inhibitor, alpha	-0.16	1
+26413	Mapk1	mitogen-activated protein kinase 1	-0.15	1
+12042	Bcl10	B cell leukemia/lymphoma 10	-0.14	1
+54131	Irf3	interferon regulatory factor 3	-0.14	1
+21898	Tlr4	toll-like receptor 4	-0.11	1
+16179	Irak1	interleukin-1 receptor-associated kinase 1	-0.1	1
+16803	Lbp	lipopolysaccharide binding protein	-0.1	1
+18754	Prkce	protein kinase C, epsilon	-0.1	1
+67154	Mtdh	metadherin	-0.1	1
+21926	Tnf	tumor necrosis factor	-0.04	1
+240354	Malt1	MALT1 paracaspase	-0.02	1
+11651	Akt1	thymoma viral proto-oncogene 1	0.01	1
+192656	Ripk2	receptor (TNFRSF)-interacting serine-threonine kinase 2	0.01	1

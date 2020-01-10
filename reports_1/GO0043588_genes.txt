@@ -1,0 +1,27 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+12831	Col5a1	collagen, type V, alpha 1	0.89	1
+12842	Col1a1	collagen, type I, alpha 1	0.82	1
+55948	Sfn	stratifin	-0.53	1
+67549	Gpr89	G protein-coupled receptor 89	0.39	1
+16994	Ltb	lymphotoxin B	-0.37	1
+192897	Itgb4	integrin beta 4	-0.35	1
+50769	Atp8a2	ATPase, aminophospholipid transporter-like, class I, type 8A, member 2	-0.31	1
+56351	Ptges3	prostaglandin E synthase 3	0.28	1
+16403	Itga6	integrin alpha 6	0.27	1
+18590	Pdgfa	platelet derived growth factor, alpha	-0.27	1
+16400	Itga3	integrin alpha 3	-0.26	1
+26569	Slc27a4	solute carrier family 27 (fatty acid transporter), member 4	-0.26	1
+11977	Atp7a	ATPase, Cu++ transporting, alpha polypeptide	0.21	1
+16480	Jup	junction plakoglobin	-0.21	1
+67855	Asprv1	aspartic peptidase, retroviral-like 1	-0.21	1
+13871	Ercc2	excision repair cross-complementing rodent repair deficiency, complementation group 2	0.2	1
+14683	Gnas	GNAS (guanine nucleotide binding protein, alpha stimulating) complex locus	-0.2	1
+109620	Dsp	desmoplakin	-0.19	1
+13167	Dbi	diazepam binding inhibitor	-0.1	1
+105171	Arrdc3	arrestin domain containing 3	-0.06	1
+11789	Apc	APC, WNT signaling pathway regulator	0.06	1
+12387	Ctnnb1	catenin (cadherin associated protein), beta 1	-0.06	1
+24069	Sufu	SUFU negative regulator of hedgehog signaling	-0.04	1
+67561	Wdr48	WD repeat domain 48	0.02	1
+21416	Tcf7l2	transcription factor 7 like 2, T cell specific, HMG box	0	1
+74754	Dhcr24	24-dehydrocholesterol reductase	0	1

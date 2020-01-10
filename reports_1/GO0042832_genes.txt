@@ -1,0 +1,21 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+229900	Gbp7	guanylate binding protein 7	1.57	0.55
+16193	Il6	interleukin 6	1.54	0.63
+16159	Il12a	interleukin 12a	0.64	0.89
+14469	Gbp2	guanylate binding protein 2	1.49	1
+27027	Tspan32	tetraspanin 32	-0.81	1
+54396	Irgm2	immunity-related GTPase family M member 2	0.68	1
+16190	Il4ra	interleukin 4 receptor, alpha	0.62	1
+12051	Bcl3	B cell leukemia/lymphoma 3	0.57	1
+16189	Il4	interleukin 4	-0.4	1
+21939	Cd40	CD40 antigen	-0.35	1
+53314	Batf	basic leucine zipper transcription factor, ATF-like	0.22	1
+17101	Lyst	lysosomal trafficking regulator	-0.18	1
+56744	Pf4	platelet factor 4	-0.17	1
+18173	Slc11a1	solute carrier family 11 (proton-coupled divalent metal ion transporters), member 1	-0.15	1
+15900	Irf8	interferon regulatory factor 8	-0.13	1
+78317	Ccdc88b	coiled-coil domain containing 88B	-0.11	1
+15461	Hras	Harvey rat sarcoma virus oncogene	-0.07	1
+18176	Nras	neuroblastoma ras oncogene	0.07	1
+236573	Gbp9	guanylate-binding protein 9	0.07	1
+12493	Cd37	CD37 antigen	-0.04	1

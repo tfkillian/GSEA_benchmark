@@ -1,0 +1,28 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+13653	Egr1	early growth response 1	2.2	0.046
+12048	Bcl2l1	BCL2-like 1	0.31	1
+15499	Hsf1	heat shock factor 1	0.31	1
+22427	Wrn	Werner syndrome RecQ like helicase	-0.29	1
+13712	Elk1	ELK1, member of ETS oncogene family	0.28	1
+19822	Rnf4	ring finger protein 4	0.28	1
+50883	Chek2	checkpoint kinase 2	-0.27	1
+14375	Xrcc6	X-ray repair complementing defective repair in Chinese hamster cells 6	0.26	1
+99982	Kdm1a	lysine (K)-specific demethylase 1A	0.17	1
+11920	Atm	ataxia telangiectasia mutated	0.14	1
+230709	Zmpste24	zinc metallopeptidase, STE24	0.13	1
+22596	Xrcc5	X-ray repair complementing defective repair in Chinese hamster cells 5	-0.12	1
+12955	Cryab	crystallin, alpha B	-0.11	1
+19941	Rpl26	ribosomal protein L26	-0.11	1
+22601	Yap1	yes-associated protein 1	-0.11	1
+65964	Map3k20	mitogen-activated protein kinase kinase kinase 20	-0.11	1
+22059	Trp53	transformation related protein 53	0.08	1
+15270	H2afx	H2A histone family, member X	-0.07	1
+15461	Hras	Harvey rat sarcoma virus oncogene	-0.07	1
+59001	Pole3	polymerase (DNA directed), epsilon 3 (p17 subunit)	0.07	1
+68539	Tmem109	transmembrane protein 109	0.05	1
+74041	Ddias	DNA damage-induced apoptosis suppressor	-0.05	1
+17246	Mdm2	transformed mouse 3T3 cell double minute 2	-0.04	1
+24086	Tlk2	tousled-like kinase 2 (Arabidopsis)	0.04	1
+12575	Cdkn1a	cyclin-dependent kinase inhibitor 1A (P21)	0.03	1
+245000	Atr	ataxia telangiectasia and Rad3 related	0.02	1
+66467	Gtf2h5	general transcription factor IIH, polypeptide 5	-0.01	1

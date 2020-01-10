@@ -1,0 +1,365 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+18715	Pim2	proviral integration site 2	2.66	0.0011
+14828	Hspa5	heat shock protein 5	1.72	0.0055
+21687	Tek	TEK receptor tyrosine kinase	-1.8	0.039
+12282	Hyou1	hypoxia up-regulated 1	1.5	0.066
+18569	Pdcd4	programmed cell death 4	-1.21	0.13
+22027	Hsp90b1	heat shock protein 90, beta (Grp94), member 1	1.01	0.2
+108888	Atad3a	ATPase family, AAA domain containing 3A	0.79	0.34
+17684	Cited2	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 2	0.68	0.39
+15357	Hmgcr	3-hydroxy-3-methylglutaryl-Coenzyme A reductase	0.56	0.47
+75712	Tmem14a	transmembrane protein 14A	-0.74	0.53
+12702	Socs3	suppressor of cytokine signaling 3	2	0.62
+16193	Il6	interleukin 6	1.54	0.63
+12795	Plk3	polo like kinase 3	0.78	0.64
+20439	Siah2	siah E3 ubiquitin protein ligase 2	0.74	0.67
+20779	Src	Rous sarcoma oncogene	-0.9	0.75
+17975	Ncl	nucleolin	0.63	0.75
+18712	Pim1	proviral integration site 1	1.09	0.88
+12444	Ccnd2	cyclin D2	1.12	0.9
+20848	Stat3	signal transducer and activator of transcription 3	0.76	0.93
+18788	Serpinb2	serine (or cysteine) peptidase inhibitor, clade B, member 2	1.45	0.97
+58250	Chst11	carbohydrate sulfotransferase 11	0.56	0.97
+68493	Ndufaf4	NADH:ubiquinone oxidoreductase complex assembly factor 4	0.91	0.98
+13655	Egr3	early growth response 3	1.09	1
+14080	Fabp1	fatty acid binding protein 1, liver	-0.86	1
+19225	Ptgs2	prostaglandin-endoperoxide synthase 2	0.85	1
+53624	Cldn7	claudin 7	-0.82	1
+18984	Por	P450 (cytochrome) oxidoreductase	0.78	1
+100037258	Dnajc3	DnaJ heat shock protein family (Hsp40) member C3	0.76	1
+15510	Hspd1	heat shock protein 1 (chaperonin)	0.76	1
+27356	Insl6	insulin-like 6	-0.75	1
+17130	Smad6	SMAD family member 6	-0.71	1
+27053	Asns	asparagine synthetase	0.71	1
+21825	Thbs1	thrombospondin 1	0.62	1
+11600	Angpt1	angiopoietin 1	-0.61	1
+108079	Prkaa2	protein kinase, AMP-activated, alpha 2 catalytic subunit	-0.58	1
+56321	Aatf	apoptosis antagonizing transcription factor	0.58	1
+11826	Aqp1	aquaporin 1	-0.57	1
+12051	Bcl3	B cell leukemia/lymphoma 3	0.57	1
+15194	Htt	huntingtin	0.57	1
+18813	Pa2g4	proliferation-associated 2G4	0.55	1
+12494	Cd38	CD38 antigen	-0.53	1
+20750	Spp1	secreted phosphoprotein 1	0.53	1
+29810	Bag3	BCL2-associated athanogene 3	0.5	1
+338359	Supv3l1	suppressor of var1, 3-like 1 (S. cerevisiae)	0.49	1
+22411	Wnt11	wingless-type MMTV integration site family, member 11	-0.48	1
+74838	Naa15	N(alpha)-acetyltransferase 15, NatA auxiliary subunit	0.48	1
+56449	Ybx3	Y box protein 3	0.47	1
+12335	Capn3	calpain 3	-0.46	1
+18148	Npm1	nucleophosmin 1	0.46	1
+22256	Ung	uracil DNA glycosylase	0.46	1
+11787	Apbb2	amyloid beta (A4) precursor protein-binding, family B, member 2	-0.44	1
+74268	Aven	apoptosis, caspase activation inhibitor	0.44	1
+21857	Timp1	tissue inhibitor of metalloproteinase 1	0.42	1
+21807	Tsc22d1	TSC22 domain family, member 1	-0.41	1
+236266	Alms1	ALMS1, centrosome and basal body associated	-0.41	1
+13631	Eef2k	eukaryotic elongation factor-2 kinase	-0.39	1
+16579	Kifap3	kinesin-associated protein 3	-0.39	1
+18673	Phb	prohibitin	0.39	1
+360013	Myo18a	myosin XVIIIA	-0.39	1
+20312	Cx3cl1	chemokine (C-X3-C motif) ligand 1	-0.38	1
+17311	Kitl	kit ligand	-0.36	1
+11486	Ada	adenosine deaminase	-0.35	1
+13666	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3	0.35	1
+14297	Fxn	frataxin	0.35	1
+19411	Rarg	retinoic acid receptor, gamma	-0.35	1
+54611	Pde3a	phosphodiesterase 3A, cGMP inhibited	-0.35	1
+109689	Arrb1	arrestin, beta 1	-0.33	1
+56426	Pdcd10	programmed cell death 10	0.33	1
+19015	Ppard	peroxisome proliferator activator receptor delta	-0.32	1
+20851	Stat5b	signal transducer and activator of transcription 5B	-0.32	1
+22433	Xbp1	X-box binding protein 1	0.32	1
+381293	Kif14	kinesin family member 14	-0.32	1
+56150	Mad2l1	MAD2 mitotic arrest deficient-like 1	-0.32	1
+67890	Ufm1	ubiquitin-fold modifier 1	0.32	1
+12048	Bcl2l1	BCL2-like 1	0.31	1
+67490	Ufl1	UFM1 specific ligase 1	0.31	1
+15525	Hspa4	heat shock protein 4	0.3	1
+12021	Bard1	BRCA1 associated RING domain 1	-0.29	1
+15259	Hipk3	homeodomain interacting protein kinase 3	0.29	1
+78514	Arhgap10	Rho GTPase activating protein 10	0.29	1
+100163	Pafah2	platelet-activating factor acetylhydrolase 2	-0.28	1
+14456	Gas6	growth arrest specific 6	-0.27	1
+16542	Kdr	kinase insert domain protein receptor	-0.27	1
+17314	Mgmt	O-6-methylguanine-DNA methyltransferase	-0.27	1
+19229	Ptk2b	PTK2 protein tyrosine kinase 2 beta	0.27	1
+276770	Eif5a	eukaryotic translation initiation factor 5A	0.27	1
+171580	Mical1	microtubule associated monooxygenase, calponin and LIM domain containing 1	-0.26	1
+18226	Nup62	nucleoporin 62	0.26	1
+18708	Pik3r1	phosphoinositide-3-kinase regulatory subunit 1	0.26	1
+28106	Mydgf	myeloid derived growth factor	0.26	1
+67211	Armc10	armadillo repeat containing 10	-0.26	1
+68943	Pink1	PTEN induced putative kinase 1	-0.26	1
+83945	Dnaja3	DnaJ heat shock protein family (Hsp40) member A3	0.26	1
+12177	Bnip3l	BCL2/adenovirus E1B interacting protein 3-like	-0.25	1
+12227	Btg2	BTG anti-proliferation factor 2	-0.25	1
+12576	Cdkn1b	cyclin-dependent kinase inhibitor 1B	-0.25	1
+18124	Nr4a3	nuclear receptor subfamily 4, group A, member 3	-0.25	1
+20544	Slc9a1	solute carrier family 9 (sodium/hydrogen exchanger), member 1	-0.25	1
+53945	Slc40a1	solute carrier family 40 (iron-regulated transporter), member 1	-0.25	1
+110355	Grk2	G protein-coupled receptor kinase 2	-0.24	1
+12359	Cat	catalase	-0.24	1
+14629	Gclc	glutamate-cysteine ligase, catalytic subunit	0.24	1
+15201	Hells	helicase, lymphoid specific	0.24	1
+20460	Stil	Scl/Tal1 interrupting locus	-0.24	1
+21937	Tnfrsf1a	tumor necrosis factor receptor superfamily, member 1a	0.24	1
+56417	Adar	adenosine deaminase, RNA-specific	0.24	1
+68576	Lamtor5	late endosomal/lysosomal adaptor, MAPK and MTOR activator 5	-0.24	1
+71968	Wdr73	WD repeat domain 73	0.24	1
+11799	Birc5	baculoviral IAP repeat-containing 5	-0.23	1
+13205	Ddx3x	DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 3, X-linked	0.23	1
+19106	Eif2ak2	eukaryotic translation initiation factor 2-alpha kinase 2	0.23	1
+12047	Bcl2a1d	B cell leukemia/lymphoma 2 related protein A1d	-0.22	1
+16668	Krt18	keratin 18	-0.22	1
+18817	Plk1	polo like kinase 1	-0.22	1
+232286	Tmf1	TATA element modulatory factor 1	0.22	1
+65098	Zfand6	zinc finger, AN1-type domain 6	-0.22	1
+67118	Bfar	bifunctional apoptosis regulator	0.22	1
+72508	Rps6kb1	ribosomal protein S6 kinase, polypeptide 1	0.22	1
+83433	Trem2	triggering receptor expressed on myeloid cells 2	-0.22	1
+12034	Phb2	prohibitin 2	0.21	1
+15182	Hdac2	histone deacetylase 2	0.21	1
+15516	Hsp90ab1	heat shock protein 90 alpha (cytosolic), class B member 1	0.21	1
+15901	Id1	inhibitor of DNA binding 1, HLH protein	0.21	1
+16854	Lgals3	lectin, galactose binding, soluble 3	-0.21	1
+19090	Prkdc	protein kinase, DNA activated, catalytic polypeptide	-0.21	1
+22210	Ube2b	ubiquitin-conjugating enzyme E2B	-0.21	1
+103742	Mien1	migration and invasion enhancer 1	-0.2	1
+105675	Ppif	peptidylprolyl isomerase F (cyclophilin F)	-0.2	1
+11684	Alox12	arachidonate 12-lipoxygenase	-0.2	1
+11798	Xiap	X-linked inhibitor of apoptosis	-0.2	1
+14083	Ptk2	PTK2 protein tyrosine kinase 2	-0.2	1
+15502	Dnaja1	DnaJ heat shock protein family (Hsp40) member A1	0.2	1
+16971	Lrp1	low density lipoprotein receptor-related protein 1	-0.2	1
+20655	Sod1	superoxide dismutase 1, soluble	-0.2	1
+23897	Hax1	HCLS1 associated X-1	0.2	1
+54683	Prdx5	peroxiredoxin 5	-0.2	1
+66116	Nat8f1	N-acetyltransferase 8 (GCN5-related) family member 1	0.2	1
+11843	Arf4	ADP-ribosylation factor 4	0.19	1
+12211	Birc6	baculoviral IAP repeat-containing 6	0.19	1
+14272	Fnta	farnesyltransferase, CAAX box, alpha	-0.19	1
+19123	Proc	protein C	0.19	1
+52906	Ahi1	Abelson helper integration site 1	-0.19	1
+56458	Foxo1	forkhead box O1	-0.19	1
+60530	Fignl1	fidgetin-like 1	-0.19	1
+67693	Hypk	huntingtin interacting protein K	0.19	1
+105855	Nckap1l	NCK associated protein 1 like	-0.18	1
+11927	Atox1	antioxidant 1 copper chaperone	-0.18	1
+14200	Fhl2	four and a half LIM domains 2	-0.18	1
+18541	Pcnt	pericentrin (kendrin)	-0.18	1
+19014	Med1	mediator complex subunit 1	0.18	1
+20698	Sphk1	sphingosine kinase 1	0.18	1
+216439	Agap2	ArfGAP with GTPase domain, ankyrin repeat and PH domain 2	-0.18	1
+218397	Rasa1	RAS p21 protein activator 1	0.18	1
+54208	Arl6ip1	ADP-ribosylation factor-like 6 interacting protein 1	-0.18	1
+56369	Apip	APAF1 interacting protein	-0.18	1
+14102	Fas	Fas (TNF receptor superfamily member 6)	-0.17	1
+15451	Hpn	hepsin	-0.17	1
+17979	Ncoa3	nuclear receptor coactivator 3	-0.17	1
+22608	Ybx1	Y box protein 1	0.17	1
+56312	Nupr1	nuclear protein transcription regulator 1	-0.17	1
+69635	Dapk1	death associated protein kinase 1	-0.17	1
+110157	Raf1	v-raf-leukemia viral oncogene 1	0.16	1
+12402	Cbl	Casitas B-lineage lymphoma	0.16	1
+14232	Fkbp8	FK506 binding protein 8	-0.16	1
+17342	Mitf	melanogenesis associated transcription factor	0.16	1
+17951	Naip5	NLR family, apoptosis inhibitory protein 5	-0.16	1
+20474	Six4	sine oculis-related homeobox 4	-0.16	1
+57320	Park7	Parkinson disease (autosomal recessive, early onset) 7	-0.16	1
+105787	Prkaa1	protein kinase, AMP-activated, alpha 1 catalytic subunit	-0.15	1
+107503	Atf5	activating transcription factor 5	0.15	1
+109006	Ciapin1	cytokine induced apoptosis inhibitor 1	0.15	1
+13036	Ctsh	cathepsin H	-0.15	1
+20723	Serpinb9	serine (or cysteine) peptidase inhibitor, clade B, member 9	0.15	1
+21808	Tgfb2	transforming growth factor, beta 2	0.15	1
+24064	Spry2	sprouty RTK signaling antagonist 2	-0.15	1
+57913	Pidd1	p53 induced death domain protein 1	-0.15	1
+64383	Sirt2	sirtuin 2	-0.15	1
+76850	Ago4	argonaute RISC catalytic subunit 4	-0.15	1
+107047	Psmg2	proteasome (prosome, macropain) assembly chaperone 2	0.14	1
+110213	Tmbim6	transmembrane BAX inhibitor motif containing 6	-0.14	1
+11793	Atg5	autophagy related 5	-0.14	1
+14773	Grk5	G protein-coupled receptor kinase 5	-0.14	1
+14815	Nr3c1	nuclear receptor subfamily 3, group C, member 1	-0.14	1
+17127	Smad3	SMAD family member 3	-0.14	1
+17420	Mnat1	menage a trois 1	-0.14	1
+19252	Dusp1	dual specificity phosphatase 1	-0.14	1
+218215	Rnf144b	ring finger protein 144B	0.14	1
+22030	Traf2	TNF receptor-associated factor 2	-0.14	1
+23939	Mapk7	mitogen-activated protein kinase 7	-0.14	1
+29816	Hip1r	huntingtin interacting protein 1 related	-0.14	1
+56632	Sphk2	sphingosine kinase 2	-0.14	1
+59003	Maea	macrophage erythroblast attacher	-0.14	1
+66983	Zfp830	zinc finger protein 830	0.14	1
+16181	Il1rn	interleukin 1 receptor antagonist	-0.13	1
+17395	Mmp9	matrix metallopeptidase 9	-0.13	1
+17948	Naip2	NLR family, apoptosis inhibitory protein 2	-0.13	1
+17952	Naip6	NLR family, apoptosis inhibitory protein 6	-0.13	1
+20656	Sod2	superoxide dismutase 2, mitochondrial	0.13	1
+213452	Dstyk	dual serine/threonine and tyrosine protein kinase	-0.13	1
+56469	Pias1	protein inhibitor of activated STAT 1	-0.13	1
+67044	Higd2a	HIG1 domain family, member 2A	-0.13	1
+108143	Taf9	TATA-box binding protein associated factor 9	0.12	1
+109359	Abraxas2	BRISC complex subunit	-0.12	1
+11669	Aldh2	aldehyde dehydrogenase 2, mitochondrial	-0.12	1
+12765	Cxcr2	chemokine (C-X-C motif) receptor 2	-0.12	1
+14870	Gstp1	glutathione S-transferase, pi 1	-0.12	1
+15162	Hck	hemopoietic cell kinase	-0.12	1
+17535	Mre11a	MRE11A homolog A, double strand break repair nuclease	0.12	1
+18294	Ogg1	8-oxoguanine DNA-glycosylase 1	-0.12	1
+18793	Plaur	plasminogen activator, urokinase receptor	-0.12	1
+20111	Rps6ka1	ribosomal protein S6 kinase polypeptide 1	-0.12	1
+20658	Son	Son DNA binding protein	0.12	1
+227541	Camk1d	calcium/calmodulin-dependent protein kinase ID	-0.12	1
+23991	Cib1	calcium and integrin binding 1 (calmyrin)	-0.12	1
+56208	Becn1	beclin 1, autophagy related	-0.12	1
+56295	Higd1a	HIG1 domain family, member 1A	-0.12	1
+66494	Prelid1	PRELI domain containing 1	-0.12	1
+11800	Api5	apoptosis inhibitor 5	0.11	1
+12505	Cd44	CD44 antigen	0.11	1
+12955	Cryab	crystallin, alpha B	-0.11	1
+16000	Igf1	insulin-like growth factor 1	-0.11	1
+16202	Ilk	integrin linked kinase	-0.11	1
+17480	Mpl	myeloproliferative leukemia virus oncogene	-0.11	1
+20466	Sin3a	transcriptional regulator, SIN3A (yeast)	-0.11	1
+22629	Ywhah	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta polypeptide	-0.11	1
+226541	Klhl20	kelch-like 20	-0.11	1
+66273	Aamdc	adipogenesis associated Mth938 domain containing	-0.11	1
+68497	Arel1	apoptosis resistant E3 ubiquitin protein ligase 1	0.11	1
+74178	Stk40	serine/threonine kinase 40	0.11	1
+77006	Ddrgk1	DDRGK domain containing 1	-0.11	1
+11797	Birc2	baculoviral IAP repeat-containing 2	-0.1	1
+12053	Bcl6	B cell leukemia/lymphoma 6	-0.1	1
+12978	Csf1r	colony stimulating factor 1 receptor	-0.1	1
+14460	Gata1	GATA binding protein 1	-0.1	1
+15251	Hif1a	hypoxia inducible factor 1, alpha subunit	0.1	1
+18754	Prkce	protein kinase C, epsilon	-0.1	1
+192176	Flna	filamin, alpha	-0.1	1
+21812	Tgfbr1	transforming growth factor, beta receptor I	-0.1	1
+22228	Ucp2	uncoupling protein 2 (mitochondrial, proton carrier)	-0.1	1
+67154	Mtdh	metadherin	-0.1	1
+74137	Nuak2	NUAK family, SNF1-like kinase, 2	-0.1	1
+74244	Atg7	autophagy related 7	-0.1	1
+110829	Lims1	LIM and senescent cell antigen-like domains 1	0.09	1
+12366	Casp2	caspase 2	-0.09	1
+12421	Rb1cc1	RB1-inducible coiled-coil 1	-0.09	1
+14268	Fn1	fibronectin 1	0.09	1
+17248	Mdm4	transformed mouse 3T3 cell double minute 4	0.09	1
+19122	Prnp	prion protein	-0.09	1
+19697	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	-0.09	1
+20416	Shc1	src homology 2 domain-containing transforming protein C1	-0.09	1
+20586	Smarca4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	0.09	1
+225876	Kdm2a	lysine (K)-specific demethylase 2A	-0.09	1
+233826	Palb2	partner and localizer of BRCA2	-0.09	1
+27377	Yme1l1	YME1-like 1 (S. cerevisiae)	0.09	1
+319757	Smo	smoothened, frizzled class receptor	0.09	1
+109880	Braf	Braf transforming gene	-0.08	1
+12043	Bcl2	B cell leukemia/lymphoma 2	-0.08	1
+13163	Daxx	Fas death domain-associated protein	0.08	1
+15234	Hgf	hepatocyte growth factor	-0.08	1
+15937	Ier3	immediate early response 3	0.08	1
+18596	Pdgfrb	platelet derived growth factor receptor, beta polypeptide	0.08	1
+19063	Ppt1	palmitoyl-protein thioesterase 1	0.08	1
+22059	Trp53	transformation related protein 53	0.08	1
+223775	Pim3	proviral integration site 3	0.08	1
+226419	Dyrk3	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 3	0.08	1
+23845	Clec5a	C-type lectin domain family 5, member a	-0.08	1
+268470	Ube2z	ubiquitin-conjugating enzyme E2Z	-0.08	1
+433759	Hdac1	histone deacetylase 1	-0.08	1
+53380	Psmd10	proteasome (prosome, macropain) 26S subunit, non-ATPase, 10	-0.08	1
+67628	Anp32b	acidic (leucine-rich) nuclear phosphoprotein 32 family, member B	0.08	1
+69076	Triap1	TP53 regulated inhibitor of apoptosis 1	-0.08	1
+78304	Naa38	N(alpha)-acetyltransferase 38, NatC auxiliary subunit	-0.08	1
+93759	Sirt1	sirtuin 1	-0.08	1
+109801	Glo1	glyoxalase 1	-0.07	1
+11677	Akr1b3	aldo-keto reductase family 1, member B3 (aldose reductase)	-0.07	1
+12450	Ccng1	cyclin G1	-0.07	1
+13132	Dab2	disabled 2, mitogen-responsive phosphoprotein	-0.07	1
+17210	Mcl1	myeloid cell leukemia sequence 1	0.07	1
+19211	Pten	phosphatase and tensin homolog	-0.07	1
+214498	Cdc73	cell division cycle 73, Paf1/RNA polymerase II complex component	0.07	1
+26362	Axl	AXL receptor tyrosine kinase	-0.07	1
+26419	Mapk8	mitogen-activated protein kinase 8	-0.07	1
+269254	Setx	senataxin	0.07	1
+57875	Angptl4	angiopoietin-like 4	0.07	1
+67772	Chd8	chromodomain helicase DNA binding protein 8	0.07	1
+71782	Ankle2	ankyrin repeat and LEM domain containing 2	0.07	1
+76867	Rhbdd1	rhomboid domain containing 1	0.07	1
+78689	Naa35	N(alpha)-acetyltransferase 35, NatC auxiliary subunit	-0.07	1
+107976	Babam2	BRISC and BRCA1 A complex member 2	-0.06	1
+11657	Alb	albumin	0.06	1
+11692	Gfer	growth factor, augmenter of liver regeneration	0.06	1
+11789	Apc	APC, WNT signaling pathway regulator	0.06	1
+12387	Ctnnb1	catenin (cadherin associated protein), beta 1	-0.06	1
+13135	Dad1	defender against cell death 1	0.06	1
+16001	Igf1r	insulin-like growth factor I receptor	0.06	1
+16476	Jun	jun proto-oncogene	-0.06	1
+20104	Rps6	ribosomal protein S6	-0.06	1
+217340	Rnf157	ring finger protein 157	-0.06	1
+224727	Bag6	BCL2-associated athanogene 6	0.06	1
+68510	Ints1	integrator complex subunit 1	0.06	1
+74143	Opa1	OPA1, mitochondrial dynamin like GTPase	0.06	1
+74996	Usp47	ubiquitin specific peptidase 47	-0.06	1
+11836	Araf	Araf proto-oncogene, serine/threonine kinase	-0.05	1
+12385	Ctnna1	catenin (cadherin associated protein), alpha 1	-0.05	1
+20393	Sgk1	serum/glucocorticoid regulated kinase 1	-0.05	1
+224105	Pak2	p21 (RAC1) activated kinase 2	0.05	1
+26889	Cln8	ceroid-lipofuscinosis, neuronal 8	-0.05	1
+12017	Bag1	BCL2-associated athanogene 1	-0.04	1
+12534	Cdk1	cyclin-dependent kinase 1	-0.04	1
+12633	Cflar	CASP8 and FADD-like apoptosis regulator	0.04	1
+14682	Gnaq	guanine nucleotide binding protein, alpha q polypeptide	-0.04	1
+16007	Ccn1	cellular communication network factor 1	0.04	1
+17246	Mdm2	transformed mouse 3T3 cell double minute 2	-0.04	1
+19823	Rnf7	ring finger protein 7	-0.04	1
+22340	Vegfb	vascular endothelial growth factor B	0.04	1
+225341	Lims2	LIM and senescent cell antigen like domains 2	-0.04	1
+227737	Fam129b	family with sequence similarity 129, member B	-0.04	1
+231507	Plac8	placenta-specific 8	-0.04	1
+11629	Aif1	allograft inflammatory factor 1	0.03	1
+12575	Cdkn1a	cyclin-dependent kinase inhibitor 1A (P21)	0.03	1
+12752	Cln3	ceroid lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)	-0.03	1
+15275	Hk1	hexokinase 1	0.03	1
+16396	Itch	itchy, E3 ubiquitin protein ligase	-0.03	1
+19164	Psen1	presenilin 1	0.03	1
+216134	Pdxk	pyridoxal (pyridoxine, vitamin B6) kinase	-0.03	1
+234069	Pcid2	PCI domain containing 2	0.03	1
+407786	Taf9b	TATA-box binding protein associated factor 9B	0.03	1
+58182	Prokr1	prokineticin receptor 1	-0.03	1
+66449	Pam16	presequence translocase-asssociated motor 16 homolog (S. cerevisiae)	0.03	1
+12050	Bcl2l2	BCL2-like 2	0.02	1
+13194	Ddb1	damage specific DNA binding protein 1	0.02	1
+13649	Egfr	epidermal growth factor receptor	0.02	1
+16412	Itgb1	integrin beta 1 (fibronectin receptor beta)	0.02	1
+22339	Vegfa	vascular endothelial growth factor A	0.02	1
+22592	Ercc5	excision repair cross-complementing rodent repair deficiency, complementation group 5	-0.02	1
+23873	Faim	Fas apoptotic inhibitory molecule	0.02	1
+26754	Cops5	COP9 signalosome subunit 5	-0.02	1
+386612	Thoc6	THO complex 6	-0.02	1
+52440	Tax1bp1	Tax1 (human T cell leukemia virus type I) binding protein 1	0.02	1
+11651	Akt1	thymoma viral proto-oncogene 1	0.01	1
+11652	Akt2	thymoma viral proto-oncogene 2	0.01	1
+11757	Prdx3	peroxiredoxin 3	-0.01	1
+12367	Casp3	caspase 3	0.01	1
+16149	Cd74	CD74 antigen (invariant polypeptide of major histocompatibility complex, class II antigen-associated)	-0.01	1
+16452	Jak2	Janus kinase 2	-0.01	1
+18033	Nfkb1	nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105	-0.01	1
+19401	Rara	retinoic acid receptor, alpha	-0.01	1
+20620	Plk2	polo like kinase 2	-0.01	1
+20878	Aurka	aurora kinase A	0.01	1
+26921	Map4k4	mitogen-activated protein kinase kinase kinase kinase 4	-0.01	1
+59009	Sh3rf1	SH3 domain containing ring finger 1	-0.01	1
+66629	Golph3	golgi phosphoprotein 3	0.01	1
+66897	Naa16	N(alpha)-acetyltransferase 16, NatA auxiliary subunit	0.01	1
+68212	Tmbim4	transmembrane BAX inhibitor motif containing 4	-0.01	1
+83946	Phip	pleckstrin homology domain interacting protein	0.01	1
+97541	Qars	glutaminyl-tRNA synthetase	-0.01	1
+107869	Cth	cystathionase (cystathionine gamma-lyase)	0	1
+110954	Rpl10	ribosomal protein L10	0	1
+11491	Adam17	a disintegrin and metallopeptidase domain 17	0	1
+12759	Clu	clusterin	0	1
+15387	Hnrnpk	heterogeneous nuclear ribonucleoprotein K	0	1
+20850	Stat5a	signal transducer and activator of transcription 5A	0	1
+56637	Gsk3b	glycogen synthase kinase 3 beta	0	1
+74754	Dhcr24	24-dehydrocholesterol reductase	0	1

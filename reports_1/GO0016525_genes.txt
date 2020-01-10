@@ -1,0 +1,58 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+21687	Tek	TEK receptor tyrosine kinase	-1.8	0.039
+114715	Spred1	sprouty protein with EVH-1 domain 1, related sequence	1.71	0.13
+19274	Ptprm	protein tyrosine phosphatase, receptor type, M	-0.62	1
+21825	Thbs1	thrombospondin 1	0.62	1
+69601	Dab2ip	disabled 2 interacting protein	-0.36	1
+54601	Foxo4	forkhead box O4	-0.35	1
+20349	Sema3e	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3E	0.34	1
+19016	Pparg	peroxisome proliferator activated receptor gamma	0.3	1
+27494	Amot	angiomotin	-0.27	1
+11504	Adamts1	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 1	-0.26	1
+20846	Stat1	signal transducer and activator of transcription 1	0.26	1
+21846	Tie1	tyrosine kinase with immunoglobulin-like and EGF-like domains 1	-0.26	1
+216805	Flcn	folliculin	-0.25	1
+236511	Ago1	argonaute RISC catalytic subunit 1	-0.22	1
+13051	Cx3cr1	chemokine (C-X3-C motif) receptor 1	-0.21	1
+66214	Rgcc	regulator of cell cycle	-0.2	1
+12491	Cd36	CD36 molecule	-0.19	1
+12509	Cd59a	CD59a antigen	-0.19	1
+14886	Gtf2i	general transcription factor II I	-0.19	1
+79264	Krit1	KRIT1, ankyrin repeat containing	-0.19	1
+11555	Adrb2	adrenergic receptor, beta 2	-0.17	1
+56744	Pf4	platelet factor 4	-0.17	1
+11606	Agt	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)	0.16	1
+14991	H2-M3	histocompatibility 2, M region locus 3	0.16	1
+11601	Angpt2	angiopoietin 2	0.15	1
+18054	Ngp	neutrophilic granule protein	-0.15	1
+20692	Sparc	secreted acidic cysteine rich glycoprotein	0.15	1
+21808	Tgfb2	transforming growth factor, beta 2	0.15	1
+24064	Spry2	sprouty RTK signaling antagonist 2	-0.15	1
+15945	Cxcl10	chemokine (C-X-C motif) ligand 10	-0.14	1
+18854	Pml	promyelocytic leukemia	0.14	1
+15242	Hhex	hematopoietically expressed homeobox	0.13	1
+100952	Emilin1	elastin microfibril interfacer 1	0.12	1
+11818	Apoh	apolipoprotein H	-0.12	1
+238328	Vash1	vasohibin 1	-0.12	1
+12827	Col4a2	collagen, type IV, alpha 2	0.11	1
+18015	Nf1	neurofibromin 1	0.11	1
+18576	Pde3b	phosphodiesterase 3B, cGMP-inhibited	-0.11	1
+20317	Serpinf1	serine (or cysteine) peptidase inhibitor, clade F, member 1	0.11	1
+20296	Ccl2	chemokine (C-C motif) ligand 2	0.1	1
+20416	Shc1	src homology 2 domain-containing transforming protein C1	-0.09	1
+17257	Mecp2	methyl CpG binding protein 2	0.08	1
+19877	Rock1	Rho-associated coiled-coil containing protein kinase 1	0.07	1
+12387	Ctnnb1	catenin (cadherin associated protein), beta 1	-0.06	1
+192187	Stab1	stabilin 1	-0.06	1
+20351	Sema4a	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4A	-0.06	1
+20226	Sars	seryl-aminoacyl-tRNA synthetase	0.05	1
+11909	Atf2	activating transcription factor 2	-0.04	1
+12772	Ccr2	chemokine (C-C motif) receptor 2	-0.04	1
+19878	Rock2	Rho-associated coiled-coil containing protein kinase 2	-0.04	1
+21413	Tcf4	transcription factor 4	0.04	1
+60611	Foxj2	forkhead box J2	-0.04	1
+16600	Klf4	Kruppel-like factor 4 (gut)	-0.03	1
+20358	Sema6a	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6A	-0.03	1
+24071	Synj2bp	synaptojanin 2 binding protein	-0.03	1
+18815	Plg	plasminogen	-0.02	1
+20620	Plk2	polo like kinase 2	-0.01	1

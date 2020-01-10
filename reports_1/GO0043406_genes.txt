@@ -1,0 +1,38 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+14254	Flt1	FMS-like tyrosine kinase 1	2.25	0.033
+20779	Src	Rous sarcoma oncogene	-0.9	0.75
+15558	Htr2a	5-hydroxytryptamine (serotonin) receptor 2A	0.52	1
+17311	Kitl	kit ligand	-0.36	1
+21939	Cd40	CD40 antigen	-0.35	1
+21803	Tgfb1	transforming growth factor, beta 1	0.34	1
+30955	Pik3cg	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma	-0.33	1
+56426	Pdcd10	programmed cell death 10	0.33	1
+14056	Ezh2	enhancer of zeste 2 polycomb repressive complex 2 subunit	-0.31	1
+26365	Ceacam1	carcinoembryonic antigen-related cell adhesion molecule 1	-0.31	1
+16653	Kras	Kirsten rat sarcoma viral oncogene homolog	0.29	1
+18590	Pdgfa	platelet derived growth factor, alpha	-0.27	1
+257632	Nod2	nucleotide-binding oligomerization domain containing 2	-0.27	1
+320207	Pik3r5	phosphoinositide-3-kinase regulatory subunit 5	-0.21	1
+18591	Pdgfb	platelet derived growth factor, B polypeptide	0.2	1
+18753	Prkcd	protein kinase C, delta	-0.2	1
+16590	Kit	KIT proto-oncogene receptor tyrosine kinase	-0.19	1
+94275	Maged1	melanoma antigen, family D, 1	-0.18	1
+29875	Iqgap1	IQ motif containing GTPase activating protein 1	-0.15	1
+12484	Cd24a	CD24a antigen	-0.13	1
+12988	Csk	c-src tyrosine kinase	-0.12	1
+75547	Akap13	A kinase (PRKA) anchor protein 13	0.12	1
+11501	Adam8	a disintegrin and metallopeptidase domain 8	-0.11	1
+16202	Ilk	integrin linked kinase	-0.11	1
+16179	Irak1	interleukin-1 receptor-associated kinase 1	-0.1	1
+16475	Ajuba	ajuba LIM protein	0.09	1
+18596	Pdgfrb	platelet derived growth factor receptor, beta polypeptide	0.08	1
+104709	Pik3r6	phosphoinositide-3-kinase regulatory subunit 5	-0.07	1
+15461	Hras	Harvey rat sarcoma virus oncogene	-0.07	1
+54635	Pdgfc	platelet-derived growth factor, C polypeptide	-0.07	1
+66513	Tab1	TGF-beta activated kinase 1/MAP3K7 binding protein 1	-0.07	1
+21926	Tnf	tumor necrosis factor	-0.04	1
+14182	Fgfr1	fibroblast growth factor receptor 1	0.03	1
+19164	Psen1	presenilin 1	0.03	1
+242202	Pde5a	phosphodiesterase 5A, cGMP-specific	0.03	1
+13649	Egfr	epidermal growth factor receptor	0.02	1
+22339	Vegfa	vascular endothelial growth factor A	0.02	1

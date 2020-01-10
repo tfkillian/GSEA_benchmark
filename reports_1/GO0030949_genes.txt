@@ -1,0 +1,11 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+14254	Flt1	FMS-like tyrosine kinase 1	2.25	0.033
+21687	Tek	TEK receptor tyrosine kinase	-1.8	0.039
+11600	Angpt1	angiopoietin 1	-0.61	1
+101540	Prkd2	protein kinase D2	-0.43	1
+14783	Grb10	growth factor receptor bound protein 10	0.27	1
+16542	Kdr	kinase insert domain protein receptor	-0.27	1
+15251	Hif1a	hypoxia inducible factor 1, alpha subunit	0.1	1
+18751	Prkcb	protein kinase C, beta	-0.06	1
+22340	Vegfb	vascular endothelial growth factor B	0.04	1
+22339	Vegfa	vascular endothelial growth factor A	0.02	1

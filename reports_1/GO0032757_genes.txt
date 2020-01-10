@@ -1,0 +1,23 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+16176	Il1b	interleukin 1 beta	1.41	0.48
+17874	Myd88	myeloid differentiation primary response gene 88	0.64	0.56
+18787	Serpine1	serine (or cysteine) peptidase inhibitor, clade E, member 1	0.78	1
+230073	Ddx58	DEAD (Asp-Glu-Ala-Asp) box polypeptide 58	0.48	1
+101540	Prkd2	protein kinase D2	-0.43	1
+117149	Tirap	toll-interleukin 1 receptor (TIR) domain-containing adaptor protein	0.36	1
+228607	Mavs	mitochondrial antiviral signaling protein	-0.28	1
+257632	Nod2	nucleotide-binding oligomerization domain containing 2	-0.27	1
+16173	Il18	interleukin 18	0.16	1
+57320	Park7	Parkinson disease (autosomal recessive, early onset) 7	-0.16	1
+13198	Ddit3	DNA-damage inducible transcript 3	-0.15	1
+142980	Tlr3	toll-like receptor 3	-0.15	1
+170743	Tlr7	toll-like receptor 7	-0.14	1
+24088	Tlr2	toll-like receptor 2	-0.12	1
+21898	Tlr4	toll-like receptor 4	-0.11	1
+14082	Fadd	Fas (TNFRSF6)-associated via death domain	-0.1	1
+16803	Lbp	lipopolysaccharide binding protein	-0.1	1
+68992	Zfp580	zinc finger protein 580	-0.1	1
+19766	Ripk1	receptor (TNFRSF)-interacting serine-threonine kinase 1	0.04	1
+21926	Tnf	tumor necrosis factor	-0.04	1
+81897	Tlr9	toll-like receptor 9	0.03	1
+19219	Ptger4	prostaglandin E receptor 4 (subtype EP4)	-0.02	1

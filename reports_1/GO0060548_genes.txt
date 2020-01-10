@@ -1,0 +1,62 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+15526	Hspa9	heat shock protein 9	0.45	0.67
+20848	Stat3	signal transducer and activator of transcription 3	0.76	0.93
+17869	Myc	myelocytomatosis oncogene	0.9	1
+18143	Npas2	neuronal PAS domain protein 2	0.51	1
+22411	Wnt11	wingless-type MMTV integration site family, member 11	-0.48	1
+211948	Pde12	phosphodiesterase 12	0.47	1
+193813	Mcfd2	multiple coagulation factor deficiency 2	0.4	1
+67996	Srsf6	serine/arginine-rich splicing factor 6	0.34	1
+12301	Cacybp	calcyclin binding protein	0.32	1
+214424	Parp16	poly (ADP-ribose) polymerase family, member 16	-0.31	1
+66369	Dus2	dihydrouridine synthase 2	0.31	1
+15525	Hspa4	heat shock protein 4	0.3	1
+19822	Rnf4	ring finger protein 4	0.28	1
+56351	Ptges3	prostaglandin E synthase 3	0.28	1
+17314	Mgmt	O-6-methylguanine-DNA methyltransferase	-0.27	1
+18693	Pick1	protein interacting with C kinase 1	-0.26	1
+12177	Bnip3l	BCL2/adenovirus E1B interacting protein 3-like	-0.25	1
+230674	Kdm4a	lysine (K)-specific demethylase 4A	-0.21	1
+16971	Lrp1	low density lipoprotein receptor-related protein 1	-0.2	1
+18145	Npc1	NPC intracellular cholesterol transporter 1	-0.2	1
+64704	Htra2	HtrA serine peptidase 2	-0.2	1
+16210	Impact	impact, RWD domain protein	-0.19	1
+50873	Prkn	parkin RBR E3 ubiquitin protein ligase	-0.19	1
+19060	Ppp5c	protein phosphatase 5, catalytic subunit	0.18	1
+104248	Cabin1	calcineurin binding protein 1	0.17	1
+17128	Smad4	SMAD family member 4	-0.16	1
+57320	Park7	Parkinson disease (autosomal recessive, early onset) 7	-0.16	1
+75608	Chmp4b	charged multivesicular body protein 4B	0.16	1
+18128	Notch1	notch 1	-0.15	1
+58186	Rad18	RAD18 E3 ubiquitin protein ligase	-0.15	1
+11793	Atg5	autophagy related 5	-0.14	1
+13010	Cst3	cystatin C	-0.14	1
+21677	Tead2	TEA domain family member 2	-0.14	1
+21938	Tnfrsf1b	tumor necrosis factor receptor superfamily, member 1b	-0.14	1
+56208	Becn1	beclin 1, autophagy related	-0.12	1
+108155	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	-0.11	1
+16976	Lrpap1	low density lipoprotein receptor-related protein associated protein 1	-0.11	1
+17967	Ncam1	neural cell adhesion molecule 1	-0.11	1
+20677	Sox4	SRY (sex determining region Y)-box 4	-0.11	1
+21929	Tnfaip3	tumor necrosis factor, alpha-induced protein 3	-0.11	1
+11848	Rhoa	ras homolog family member A	-0.1	1
+13030	Ctsb	cathepsin B	-0.1	1
+16416	Itgb3	integrin beta 3	0.1	1
+16801	Arhgef1	Rho guanine nucleotide exchange factor (GEF) 1	-0.1	1
+66073	Txndc12	thioredoxin domain containing 12 (endoplasmic reticulum)	-0.1	1
+74244	Atg7	autophagy related 7	-0.1	1
+93759	Sirt1	sirtuin 1	-0.08	1
+17250	Abcc1	ATP-binding cassette, sub-family C (CFTR/MRP), member 1	0.06	1
+328572	Ep300	E1A binding protein p300	-0.05	1
+68539	Tmem109	transmembrane protein 109	0.05	1
+14219	Ccn2	cellular communication network factor 2	-0.04	1
+16007	Ccn1	cellular communication network factor 1	0.04	1
+18024	Nfe2l2	nuclear factor, erythroid derived 2, like 2	0.04	1
+68953	Chmp2a	charged multivesicular body protein 2A	-0.02	1
+16452	Jak2	Janus kinase 2	-0.01	1
+17973	Nck1	non-catalytic region of tyrosine kinase adaptor protein 1	-0.01	1
+20479	Vps4b	vacuolar protein sorting 4B	0.01	1
+240442	Adnp2	ADNP homeobox 2	0.01	1
+12759	Clu	clusterin	0	1
+18584	Pde8a	phosphodiesterase 8A	0	1
+65114	Vps35	VPS35 retromer complex component	0	1

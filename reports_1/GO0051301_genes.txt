@@ -1,0 +1,344 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+28114	Nsun2	NOL1/NOP2/Sun domain family member 2	0.92	0.31
+12444	Ccnd2	cyclin D2	1.12	0.9
+217325	Llgl2	LLGL2 scribble cell polarity complex component	-0.67	1
+12571	Cdk6	cyclin-dependent kinase 6	0.66	1
+66406	Sac3d1	SAC3 domain containing 1	0.66	1
+58220	Pard6b	par-6 family cell polarity regulator beta	0.65	1
+63955	Cables1	CDK5 and Abl enzyme substrate 1	0.65	1
+72080	Sapcd2	suppressor APC domain containing 2	0.64	1
+56505	Ruvbl1	RuvB-like protein 1	0.63	1
+78906	Misp	mitotic spindle positioning	-0.57	1
+12531	Cdc25b	cell division cycle 25B	-0.54	1
+100088	Rcc1	regulator of chromosome condensation 1	0.53	1
+67236	Cinp	cyclin-dependent kinase 2 interacting protein	0.53	1
+16882	Lig3	ligase III, DNA, ATP-dependent	0.5	1
+18005	Nek2	NIMA (never in mitosis gene a)-related expressed kinase 2	-0.5	1
+28035	Usp39	ubiquitin specific peptidase 39	0.48	1
+12452	Ccng2	cyclin G2	-0.47	1
+74187	Katnb1	katanin p80 (WD40-containing) subunit B 1	-0.46	1
+269587	Epb41	erythrocyte membrane protein band 4.1	0.45	1
+66140	Ska2	spindle and kinetochore associated complex subunit 2	-0.45	1
+66468	Ska1	spindle and kinetochore associated complex subunit 1	-0.44	1
+71878	Fam83d	family with sequence similarity 83, member D	-0.43	1
+320165	Tacc1	transforming, acidic coiled-coil containing protein 1	-0.42	1
+74112	Usp16	ubiquitin specific peptidase 16	0.42	1
+12442	Ccnb2	cyclin B2	-0.41	1
+16881	Lig1	ligase I, DNA, ATP-dependent	-0.41	1
+56371	Fzr1	fizzy and cell division cycle 20 related 1	-0.41	1
+226154	Lzts2	leucine zipper, putative tumor suppressor 2	-0.4	1
+320213	Senp5	SUMO/sentrin specific peptidase 5	0.4	1
+56513	Pard6a	par-6 family cell polarity regulator alpha	-0.39	1
+70645	Oip5	Opa interacting protein 5	-0.39	1
+215445	Rab11fip3	RAB11 family interacting protein 3 (class II)	-0.38	1
+226747	Ahctf1	AT hook containing transcription factor 1	0.38	1
+67629	Spc24	SPC24, NDC80 kinetochore complex component, homolog (S. cerevisiae)	-0.38	1
+68298	Ncapd2	non-SMC condensin I complex, subunit D2	-0.38	1
+208628	Kntc1	kinetochore associated 1	-0.36	1
+21749	Terf1	telomeric repeat binding factor 1	-0.36	1
+30939	Pttg1	pituitary tumor-transforming gene 1	-0.36	1
+67141	Fbxo5	F-box protein 5	-0.36	1
+66934	Dsn1	DSN1 homolog, MIS12 kinetochore complex component	-0.35	1
+69912	Nup43	nucleoporin 43	0.35	1
+108907	Nusap1	nucleolar and spindle associated protein 1	-0.34	1
+12532	Cdc25c	cell division cycle 25C	-0.34	1
+67121	Mastl	microtubule associated serine/threonine kinase-like	-0.34	1
+215387	Ncaph	non-SMC condensin I complex, subunit H	-0.33	1
+71710	Lrrcc1	leucine rich repeat and coiled-coil domain containing 1	-0.33	1
+16563	Kif2a	kinesin family member 2A	-0.32	1
+235406	Snx33	sorting nexin 33	-0.32	1
+239833	Lmln	leishmanolysin-like (metallopeptidase M8 family)	-0.32	1
+381293	Kif14	kinesin family member 14	-0.32	1
+56150	Mad2l1	MAD2 mitotic arrest deficient-like 1	-0.32	1
+12316	Aspm	abnormal spindle microtubule assembly	-0.31	1
+12530	Cdc25a	cell division cycle 25A	0.31	1
+14793	Cdca3	cell division cycle associated 3	-0.31	1
+74393	Map10	microtubule-associated protein 10	0.31	1
+12449	Ccnf	cyclin F	-0.3	1
+16551	Kif11	kinesin family member 11	-0.3	1
+70218	Kif18b	kinesin family member 18B	-0.3	1
+109212	Pimreg	PICALM interacting mitotic regulator	-0.29	1
+72124	Seh1l	SEH1-like (S. cerevisiae	0.29	1
+12443	Ccnd1	cyclin D1	-0.28	1
+19384	Ran	RAN, member RAS oncogene family	0.28	1
+19645	Rb1	RB transcriptional corepressor 1	-0.28	1
+233406	Prc1	protein regulator of cytokinesis 1	-0.28	1
+320394	Cenpt	centromere protein T	-0.28	1
+51944	Knstrn	kinetochore-localized astrin/SPAG5 binding	-0.28	1
+67139	Mis12	MIS12 kinetochore complex component	0.28	1
+68251	Babam1	BRISC and BRCA1 A complex member 1	-0.28	1
+73420	Ccsap	centriole, cilia and spindle associated protein	-0.28	1
+77744	Bora	bora, aurora kinase A activator	0.28	1
+12428	Ccna2	cyclin A2	-0.27	1
+212514	Spice1	spindle and centriole associated protein 1	-0.27	1
+22088	Tsg101	tumor susceptibility gene 101	-0.27	1
+50523	Lats2	large tumor suppressor 2	-0.27	1
+50883	Chek2	checkpoint kinase 2	-0.27	1
+54204	Sept1	septin 1	-0.27	1
+66977	Nuf2	NUF2, NDC80 kinetochore complex component	-0.27	1
+105083	Pelo	pelota mRNA surveillance and ribosome rescue factor	0.26	1
+108912	Cdca2	cell division cycle associated 2	-0.26	1
+66197	Cks2	CDC28 protein kinase regulatory subunit 2	-0.26	1
+66442	Spc25	SPC25, NDC80 kinetochore complex component, homolog (S. cerevisiae)	-0.26	1
+72415	Sgo1	shugoshin 1	-0.26	1
+76123	Gpsm2	G-protein signalling modulator 2 (AGS3-like, C. elegans)	-0.26	1
+76464	Knl1	kinetochore scaffold 1	-0.26	1
+14020	Evi5	ecotropic viral integration site 5	-0.25	1
+16553	Kif13a	kinesin family member 13A	-0.25	1
+20877	Aurkb	aurora kinase B	-0.25	1
+227695	Spout1	SPOUT domain containing methyltransferase 1	0.25	1
+26934	Racgap1	Rac GTPase-activating protein 1	-0.25	1
+66156	Anapc11	anaphase promoting complex subunit 11	-0.25	1
+103080	Sept10	septin 10	0.24	1
+110253	Triobp	TRIO and F-actin binding protein	-0.24	1
+15201	Hells	helicase, lymphoid specific	0.24	1
+67037	Pmf1	polyamine-modulated factor 1	-0.24	1
+67052	Ndc80	NDC80 kinetochore complex component	-0.24	1
+69028	Mitd1	MIT, microtubule interacting and transport, domain containing 1	0.24	1
+69928	Cenps	centromere protein S	-0.24	1
+70385	Spdl1	spindle apparatus coiled-coil protein 1	-0.24	1
+73804	Kif2c	kinesin family member 2C	-0.24	1
+76044	Ncapg2	non-SMC condensin II complex, subunit G2	-0.24	1
+11799	Birc5	baculoviral IAP repeat-containing 5	-0.23	1
+20892	Cenpx	centromere protein X	-0.23	1
+209683	Ttc28	tetratricopeptide repeat domain 28	-0.23	1
+219072	Haus4	HAUS augmin-like complex, subunit 4	-0.23	1
+219103	Cenpj	centromere protein J	0.23	1
+12236	Bub1b	BUB1B, mitotic checkpoint serine/threonine kinase	-0.22	1
+18817	Plk1	polo like kinase 1	-0.22	1
+21335	Tacc3	transforming, acidic coiled-coil containing protein 3	-0.22	1
+64143	Ralb	v-ral simian leukemia viral oncogene B	0.22	1
+78658	Ncapd3	non-SMC condensin II complex, subunit D3	-0.22	1
+12235	Bub1	BUB1, mitotic checkpoint serine/threonine kinase	-0.21	1
+18647	Cdk14	cyclin-dependent kinase 14	0.21	1
+236930	Ercc6l	excision repair cross-complementing rodent repair deficiency complementation group 6 like	-0.21	1
+23834	Cdc6	cell division cycle 6	0.21	1
+107995	Cdc20	cell division cycle 20	-0.2	1
+219114	Ska3	spindle and kinetochore associated complex subunit 3	-0.2	1
+51791	Rgs14	regulator of G-protein signaling 14	-0.2	1
+52696	Zwint	ZW10 interactor	-0.2	1
+54141	Spag5	sperm associated antigen 5	-0.2	1
+66700	Chmp3	charged multivesicular body protein 3	-0.2	1
+68724	Arl8a	ADP-ribosylation factor-like 8A	-0.2	1
+99152	Anapc2	anaphase promoting complex subunit 2	-0.2	1
+12211	Birc6	baculoviral IAP repeat-containing 6	0.19	1
+12704	Cit	citron	-0.19	1
+19357	Rad21	RAD21 cohesin complex component	-0.19	1
+217653	Mis18bp1	MIS18 binding protein 1	-0.19	1
+226026	Smc5	structural maintenance of chromosomes 5	-0.19	1
+52276	Cdca8	cell division cycle associated 8	-0.19	1
+68612	Ube2c	ubiquitin-conjugating enzyme E2C	-0.19	1
+70099	Smc4	structural maintenance of chromosomes 4	-0.19	1
+71819	Kif23	kinesin family member 23	-0.19	1
+75786	Ckap5	cytoskeleton associated protein 5	-0.19	1
+100732	Mapre3	microtubule-associated protein, RP/EB family, member 3	0.18	1
+12572	Cdk7	cyclin-dependent kinase 7	0.18	1
+20843	Stag2	stromal antigen 2	-0.18	1
+216846	Cntrob	centrobin, centrosomal BRCA2 interacting protein	-0.18	1
+66308	Mplkip	M-phase specific PLK1 intereacting protein	-0.18	1
+12626	Cetn3	centrin 3	-0.17	1
+18004	Nek1	NIMA (never in mitosis gene a)-related expressed kinase 1	-0.17	1
+225182	Rbbp8	retinoblastoma binding protein 8, endonuclease	-0.17	1
+24061	Smc1a	structural maintenance of chromosomes 1A	0.17	1
+319583	Lig4	ligase IV, DNA, ATP-dependent	0.17	1
+56044	Rala	v-ral simian leukemia viral oncogene A (ras related)	-0.17	1
+56526	Sept6	septin 6	-0.17	1
+69957	Cdc16	CDC16 cell division cycle 16	0.17	1
+71890	Mad2l2	MAD2 mitotic arrest deficient-like 2	0.17	1
+242521	Klhl9	kelch-like 9	-0.16	1
+52398	Sept11	septin 11	0.16	1
+68743	Anln	anillin, actin binding protein	-0.16	1
+71955	Ist1	increased sodium tolerance 1 homolog (yeast)	-0.16	1
+11744	Anxa11	annexin A11	-0.15	1
+12448	Ccne2	cyclin E2	-0.15	1
+12568	Cdk5	cyclin-dependent kinase 5	-0.15	1
+14211	Smc2	structural maintenance of chromosomes 2	-0.15	1
+15364	Hmga2	high mobility group AT-hook 2	-0.15	1
+18000	Sept2	septin 2	0.15	1
+18221	Nudc	nudC nuclear distribution protein	0.15	1
+211978	Zfyve26	zinc finger, FYVE domain containing 26	-0.15	1
+230936	Phf13	PHD finger protein 13	-0.15	1
+232539	Klhl42	kelch-like 42	0.15	1
+381318	Nsl1	NSL1, MIS12 kinetochore complex component	-0.15	1
+51810	Hnrnpu	heterogeneous nuclear ribonucleoprotein U	0.15	1
+53598	Dctn3	dynactin 3	-0.15	1
+64383	Sirt2	sirtuin 2	-0.15	1
+68501	Nsmce2	NSE2/MMS21 homolog, SMC5-SMC6 complex SUMO ligase	-0.15	1
+69010	Anapc13	anaphase promoting complex subunit 13	-0.15	1
+74107	Cep55	centrosomal protein 55	-0.15	1
+76478	Haus8	4HAUS augmin-like complex, subunit 8	-0.15	1
+99412	Golga2	golgi autoantigen, golgin subfamily a, 2	-0.15	1
+116733	Vps4a	vacuolar protein sorting 4A	-0.14	1
+18951	Sept5	septin 5	-0.14	1
+208718	Dis3l2	DIS3 like 3'-5' exoribonuclease 2	-0.14	1
+235661	Dync1li1	dynein cytoplasmic 1 light intermediate chain 1	0.14	1
+52206	Anapc4	anaphase promoting complex subunit 4	-0.14	1
+56350	Arl3	ADP-ribosylation factor-like 3	-0.14	1
+59003	Maea	macrophage erythroblast attacher	-0.14	1
+66983	Zfp830	zinc finger protein 830	0.14	1
+68142	Ino80	INO80 complex subunit	0.14	1
+73738	Haus7	HAUS augmin-like complex, subunit 7	-0.14	1
+101706	Numa1	nuclear mitotic apparatus protein 1	-0.13	1
+14678	Gnai2	guanine nucleotide binding protein (G protein), alpha inhibiting 2	-0.13	1
+16798	Lats1	large tumor suppressor	0.13	1
+170625	Snx18	sorting nexin 18	-0.13	1
+18571	Pdcd6ip	programmed cell death 6 interacting protein	-0.13	1
+212307	Mapre2	microtubule-associated protein, RP/EB family, member 2	-0.13	1
+229776	Cdc14a	CDC14 cell division cycle 14A	-0.13	1
+268697	Ccnb1	cyclin B1	-0.13	1
+66311	Cenpw	centromere protein W	-0.13	1
+68014	Zwilch	zwilch kinetochore protein	-0.13	1
+75430	Anapc15	anaphase promoting complex C subunit 15	-0.13	1
+109359	Abraxas2	BRISC complex subunit	-0.12	1
+12566	Cdk2	cyclin-dependent kinase 2	-0.12	1
+13191	Dctn1	dynactin 1	-0.12	1
+17120	Mad1l1	MAD1 mitotic arrest deficient 1-like 1	-0.12	1
+210711	Mcmbp	minichromosome maintenance complex binding protein	0.12	1
+225326	Pik3c3	phosphatidylinositol 3-kinase catalytic subunit type 3	0.12	1
+234852	Chmp1a	charged multivesicular body protein 1A	-0.12	1
+23991	Cib1	calcium and integrin binding 1 (calmyrin)	-0.12	1
+27050	Rps3	ribosomal protein S3	-0.12	1
+52717	Anapc16	anaphase promoting complex subunit 16	-0.12	1
+56208	Becn1	beclin 1, autophagy related	-0.12	1
+59126	Nek6	NIMA (never in mitosis gene a)-related expressed kinase 6	0.12	1
+67117	Dynlt3	dynein light chain Tctex-type 3	-0.12	1
+67974	Ccny	cyclin Y	-0.12	1
+69736	Nup37	nucleoporin 37	0.12	1
+71909	Haus5	HAUS augmin-like complex, subunit 5	-0.12	1
+72008	Zfyve19	zinc finger, FYVE domain containing 19	-0.12	1
+12455	Ccnt1	cyclin T1	0.11	1
+12545	Cdc7	cell division cycle 7 (S. cerevisiae)	0.11	1
+12567	Cdk4	cyclin-dependent kinase 4	0.11	1
+12617	Cenpc1	centromere protein C1	0.11	1
+170472	Recql5	RecQ protein-like 5	0.11	1
+194401	Mical3	microtubule associated monooxygenase, calponin and LIM domain containing 3	-0.11	1
+225745	Haus1	HAUS augmin-like complex, subunit 1	-0.11	1
+229841	Cenpe	centromere protein E	-0.11	1
+319651	Usp37	ubiquitin specific peptidase 37	0.11	1
+59008	Anapc5	anaphase-promoting complex subunit 5	-0.11	1
+66578	Mis18a	MIS18 kinetochore protein A	-0.11	1
+67166	Arl8b	ADP-ribosylation factor-like 8B	0.11	1
+11848	Rhoa	ras homolog family member A	-0.1	1
+12757	Clta	clathrin, light polypeptide (Lca)	-0.1	1
+16319	Incenp	inner centromere protein	-0.1	1
+17758	Map4	microtubule-associated protein 4	-0.1	1
+18472	Pafah1b1	platelet-activating factor acetylhydrolase, isoform 1b, subunit 1	-0.1	1
+18754	Prkce	protein kinase C, epsilon	-0.1	1
+22284	Usp9x	ubiquitin specific peptidase 9, X chromosome	0.1	1
+22680	Zfp207	zinc finger protein 207	0.1	1
+231600	Chfr	checkpoint with forkhead and ring finger domains	-0.1	1
+23955	Nek4	NIMA (never in mitosis gene a)-related expressed kinase 4	-0.1	1
+52432	Ppp2r2d	protein phosphatase 2, regulatory subunit B, delta	-0.1	1
+55947	Dclre1a	DNA cross-link repair 1A	0.1	1
+66131	Tipin	timeless interacting protein	-0.1	1
+67300	Cltc	clathrin, heavy polypeptide (Hc)	0.1	1
+67849	Cdca5	cell division cycle associated 5	-0.1	1
+71177	Ints13	integrator complex subunit 13	0.1	1
+19046	Ppp1cb	protein phosphatase 1 catalytic subunit beta	-0.09	1
+234388	Ccdc124	coiled-coil domain containing 124	-0.09	1
+26920	Cntrl	centriolin	-0.09	1
+52563	Cdc23	CDC23 cell division cycle 23	0.09	1
+56317	Anapc7	anaphase promoting complex subunit 7	-0.09	1
+59046	Arpp19	cAMP-regulated phosphoprotein 19	-0.09	1
+72119	Tpx2	TPX2, microtubule-associated	-0.09	1
+72549	Reep4	receptor accessory protein 4	-0.09	1
+72823	Pard3b	par-3 family cell polarity regulator beta	0.09	1
+108989	Tpr	translocated promoter region, nuclear basket protein	0.08	1
+13822	Epb41l2	erythrocyte membrane protein band 4.1 like 2	-0.08	1
+17222	Anapc1	anaphase promoting complex subunit 1	0.08	1
+19045	Ppp1ca	protein phosphatase 1 catalytic subunit alpha	-0.08	1
+22367	Vrk1	vaccinia related kinase 1	-0.08	1
+226419	Dyrk3	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 3	0.08	1
+232679	Zc3hc1	zinc finger, C3HC type 1	0.08	1
+56205	Ensa	endosulfine alpha	-0.08	1
+66616	Snx9	sorting nexin 9	-0.08	1
+73139	Cenpv	centromere protein V	-0.08	1
+12450	Ccng1	cyclin G1	-0.07	1
+12488	Cd2ap	CD2-associated protein	-0.07	1
+208768	Sde2	SDE2 telomere maintenance homolog (S. pombe)	0.07	1
+28193	Reep3	receptor accessory protein 3	-0.07	1
+56249	Actr8	ARP8 actin-related protein 8	-0.07	1
+67028	2610002M06Rik	RIKEN cDNA 2610002M06 gene	-0.07	1
+67064	Chmp1b	charged multivesicular body protein 1B	-0.07	1
+71782	Ankle2	ankyrin repeat and LEM domain containing 2	0.07	1
+71846	Syce2	synaptonemal complex central element protein 2	0.07	1
+107976	Babam2	BRISC and BRCA1 A complex member 2	-0.06	1
+11845	Arf6	ADP-ribosylation factor 6	0.06	1
+12445	Ccnd3	cyclin D3	0.06	1
+13560	E4f1	E4F transcription factor 1	-0.06	1
+14679	Gnai3	guanine nucleotide binding protein (G protein), alpha inhibiting 3	0.06	1
+21853	Timeless	timeless circadian clock 1	-0.06	1
+229285	Spg20	spastic paraplegia 20, spartin (Troyer syndrome) homolog (human)	0.06	1
+73178	Wasl	Wiskott-Aldrich syndrome-like (human)	-0.06	1
+12454	Ccnk	cyclin K	0.05	1
+218914	Wapl	WAPL cohesin release factor	-0.05	1
+231123	Haus3	HAUS augmin-like complex, subunit 3	0.05	1
+232944	Mark4	MAP/microtubule affinity regulating kinase 4	0.05	1
+67455	Klhl13	kelch-like 13	-0.05	1
+67733	Itgb3bp	integrin beta 3 binding protein (beta3-endonexin)	-0.05	1
+68999	Anapc10	anaphase promoting complex subunit 10	0.05	1
+74392	Specc1l	sperm antigen with calponin homology and coiled-coil domains 1-like	0.05	1
+76707	Clasp1	CLIP associating protein 1	-0.05	1
+98828	Cdc123	cell division cycle 123	-0.05	1
+108911	Rcc2	regulator of chromosome condensation 2	-0.04	1
+109333	Pkn2	protein kinase N2	0.04	1
+12534	Cdk1	cyclin-dependent kinase 1	-0.04	1
+13605	Ect2	ect2 oncogene	0.04	1
+18003	Nedd9	neural precursor cell expressed, developmentally down-regulated gene 9	0.04	1
+210766	Brcc3	BRCA1/BRCA2-containing complex, subunit 3	0.04	1
+214552	Cep164	centrosomal protein 164	0.04	1
+217718	Nek9	NIMA (never in mitosis gene a)-related expressed kinase 9	0.04	1
+21951	Tnks	tankyrase, TRF1-interacting ankyrin-related ADP-ribose polymerase	-0.04	1
+224023	Klhl22	kelch-like 22	-0.04	1
+23922	Jtb	jumping translocation breakpoint	0.04	1
+242785	Klhl21	kelch-like 21	-0.04	1
+252966	Cables2	CDK5 and Abl enzyme substrate 2	0.04	1
+268451	Rab11fip4	RAB11 family interacting protein 4 (class II)	-0.04	1
+50850	Spast	spastin	0.04	1
+67956	Kmt5a	lysine methyltransferase 5A	-0.04	1
+72949	Ccnt2	cyclin T2	0.04	1
+76499	Clasp2	CLIP associating protein 2	0.04	1
+105278	Cdk20	cyclin-dependent kinase 20	-0.03	1
+13589	Mapre1	microtubule-associated protein, RP/EB family, member 1	0.03	1
+16800	Arhgef2	rho/rac guanine nucleotide exchange factor (GEF) 2	-0.03	1
+23924	Katna1	katanin p60 (ATPase-containing) subunit A1	-0.03	1
+240641	Kif20b	kinesin family member 20B	-0.03	1
+53860	Sept9	septin 9	0.03	1
+54124	Cks1b	CDC28 protein kinase 1b	-0.03	1
+56742	Psrc1	proline/serine-rich coiled-coil 1	-0.03	1
+67203	Nde1	nudE neurodevelopment protein 1	-0.03	1
+67655	Ctdp1	CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) phosphatase, subunit 1	-0.03	1
+74549	Mau2	MAU2 sister chromatid cohesion factor	-0.03	1
+77891	Ube2s	ubiquitin-conjugating enzyme E2S	-0.03	1
+12237	Bub3	BUB3 mitotic checkpoint protein	-0.02	1
+13424	Dync1h1	dynein cytoplasmic 1 heavy chain 1	0.02	1
+17997	Nedd1	neural precursor cell expressed, developmentally down-regulated gene 1	0.02	1
+20842	Stag1	stromal antigen 1	-0.02	1
+22390	Wee1	WEE 1 homolog 1 (S. pombe)	-0.02	1
+239122	Setdb2	SET domain, bifurcated 2	-0.02	1
+23954	Nek3	NIMA (never in mitosis gene a)-related expressed kinase 3	0.02	1
+26951	Zw10	zw10 kinetochore protein	-0.02	1
+58230	Rnf8	ring finger protein 8	0.02	1
+66296	Haus2	HAUS augmin-like complex, subunit 2	-0.02	1
+66440	Cdc26	cell division cycle 26	-0.02	1
+68549	Sgo2a	shugoshin 2A	0.02	1
+100710	Pds5b	PDS5 cohesin associated factor B	-0.01	1
+12447	Ccne1	cyclin E1	-0.01	1
+13006	Smc3	structural maintenance of chromosomes 3	-0.01	1
+20479	Vps4b	vacuolar protein sorting 4B	0.01	1
+20878	Aurka	aurora kinase A	0.01	1
+214627	Tent4b	terminal nucleotidyltransferase 4B	0.01	1
+218630	Ccno	cyclin O	0.01	1
+22196	Ube2i	ubiquitin-conjugating enzyme E2I	0.01	1
+229584	Pogz	pogo transposable element with ZNF domain	-0.01	1
+57784	Bin3	bridging integrator 3	0.01	1
+66679	Rae1	ribonucleic acid export 1	-0.01	1
+67177	Cdt1	chromatin licensing and DNA replication factor 1	-0.01	1
+68112	Entr1	endosome associated trafficking regulator 1	0.01	1
+69556	Bod1	biorientation of chromosomes in cell division 1	0.01	1
+78267	Klhdc8b	kelch domain containing 8B	-0.01	1
+93742	Pard3	par-3 family cell polarity regulator	0.01	1
+235072	Sept7	septin 7	0	1
+26370	Cetn2	centrin 2	0	1
+28135	Cep63	centrosomal protein 63	0	1
+93687	Csnk1a1	casein kinase 1, alpha 1	0	1

@@ -1,0 +1,90 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+78929	Polr3h	polymerase (RNA) III (DNA directed) polypeptide H	0.95	0.57
+20017	Polr1b	polymerase (RNA) I polypeptide B	1.31	0.62
+26939	Polr3e	polymerase (RNA) III (DNA directed) polypeptide E	0.53	0.78
+20019	Polr1a	polymerase (RNA) I polypeptide A	0.86	0.96
+17869	Myc	myelocytomatosis oncogene	0.9	1
+64424	Polr1e	polymerase (RNA) I polypeptide E	0.77	1
+12051	Bcl3	B cell leukemia/lymphoma 3	0.57	1
+66491	Polr2l	polymerase (RNA) II (DNA directed) polypeptide L	0.46	1
+56070	Tcerg1	transcription elongation regulator 1 (CA150)	0.43	1
+18030	Nfil3	nuclear factor, interleukin 3, regulated	0.39	1
+21400	Tcea2	transcription elongation factor A (SII), 2	0.39	1
+56711	Plag1	pleiomorphic adenoma gene 1	-0.39	1
+17977	Ncoa1	nuclear receptor coactivator 1	-0.31	1
+245695	Tceanc	transcription elongation factor A (SII) N-terminal and central domain containing	-0.31	1
+320271	Scai	suppressor of cancer cell invasion	-0.31	1
+14884	Gtf2h1	general transcription factor II H, polypeptide 1	0.3	1
+67005	Polr3k	polymerase (RNA) III (DNA directed) polypeptide K	0.3	1
+20481	Ski	ski sarcoma viral oncogene homolog (avian)	-0.29	1
+15260	Hira	histone cell cycle regulator	0.28	1
+245841	Polr2h	polymerase (RNA) II (DNA directed) polypeptide H	0.28	1
+66136	Znrd1	zinc ribbon domain containing 1	-0.28	1
+13555	E2f1	E2F transcription factor 1	-0.27	1
+18226	Nup62	nucleoporin 62	0.26	1
+20846	Stat1	signal transducer and activator of transcription 1	0.26	1
+28071	Twistnb	twist basic helix-loop-helix transcription factor 1 neighbor	0.26	1
+21423	Tcf3	transcription factor 3	-0.24	1
+23808	Ash2l	ASH2 like histone lysine methyltransferase complex subunit	0.23	1
+17258	Mef2a	myocyte enhancer factor 2A	-0.22	1
+231329	Polr2b	polymerase (RNA) II (DNA directed) polypeptide B	0.22	1
+15901	Id1	inhibitor of DNA binding 1, HLH protein	0.21	1
+16969	Zbtb7a	zinc finger and BTB domain containing 7a	-0.21	1
+20022	Polr2j	polymerase (RNA) II (DNA directed) polypeptide J	-0.21	1
+216151	Polrmt	polymerase (RNA) mitochondrial (DNA directed)	0.2	1
+23856	Dido1	death inducer-obliterator 1	0.2	1
+26417	Mapk3	mitogen-activated protein kinase 3	-0.19	1
+67710	Polr2g	polymerase (RNA) II (DNA directed) polypeptide G	-0.19	1
+70428	Polr3b	polymerase (RNA) III (DNA directed) polypeptide B	0.19	1
+19726	Rfx3	regulatory factor X, 3 (influences HLA class II expression)	-0.18	1
+17342	Mitf	melanogenesis associated transcription factor	0.16	1
+66671	Ccnh	cyclin H	0.16	1
+77110	Gpbp1l1	GC-rich promoter binding protein 1-like 1	-0.16	1
+26413	Mapk1	mitogen-activated protein kinase 1	-0.15	1
+14815	Nr3c1	nuclear receptor subfamily 3, group C, member 1	-0.14	1
+21399	Tcea1	transcription elongation factor A (SII) 1	0.14	1
+68142	Ino80	INO80 complex subunit	0.14	1
+17173	Ascl2	achaete-scute family bHLH transcription factor 2	-0.13	1
+69125	Cnot8	CCR4-NOT transcription complex, subunit 8	-0.13	1
+72568	Lin9	lin-9 homolog (C. elegans)	-0.13	1
+12913	Creb3	cAMP responsive element binding protein 3	-0.12	1
+20018	Polr1d	polymerase (RNA) I polypeptide D	0.12	1
+12455	Ccnt1	cyclin T1	0.11	1
+12827	Col4a2	collagen, type IV, alpha 2	0.11	1
+23894	Gtf2h2	general transcription factor II H, polypeptide 2	0.11	1
+67439	Xab2	XPA binding protein 2	0.11	1
+17355	Aff1	AF4/FMR2 family, member 1	0.1	1
+69168	Bola1	bolA-like 1 (E. coli)	-0.1	1
+69890	Zfp219	zinc finger protein 219	-0.1	1
+102423	Hinfp	histone H4 transcription factor	-0.09	1
+19697	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	-0.09	1
+17344	Pias2	protein inhibitor of activated STAT 2	0.08	1
+233490	Crebzf	CREB/ATF bZIP transcription factor	0.08	1
+75302	Asxl2	additional sex combs like 2, transcriptional regulator	0.08	1
+12606	Cebpa	CCAAT/enhancer binding protein (C/EBP), alpha	-0.07	1
+15273	Hivep2	human immunodeficiency virus type I enhancer binding protein 2	-0.07	1
+56805	Zbtb33	zinc finger and BTB domain containing 33	0.07	1
+67781	Ilf2	interleukin enhancer binding factor 2	0.07	1
+14461	Gata2	GATA binding protein 2	0.06	1
+16476	Jun	jun proto-oncogene	-0.06	1
+228790	Asxl1	additional sex combs like 1	0.06	1
+333654	Ppp1r13l	protein phosphatase 1, regulatory subunit 13 like	0.06	1
+66875	Swt1	SWT1 RNA endoribonuclease homolog (S. cerevisiae)	-0.06	1
+73754	Thap1	THAP domain containing, apoptosis associated protein 1	-0.06	1
+170791	Rbm39	RNA binding motif protein 39	0.05	1
+73274	Gpbp1	GC-rich promoter binding protein 1	-0.05	1
+17749	Polr2k	polymerase (RNA) II (DNA directed) polypeptide K	-0.04	1
+217708	Lin52	lin-52 homolog (C. elegans)	-0.04	1
+320267	Fubp3	far upstream element (FUSE) binding protein 3	0.04	1
+66420	Polr2e	polymerase (RNA) II (DNA directed) polypeptide E	-0.04	1
+69920	Polr2i	polymerase (RNA) II (DNA directed) polypeptide I	-0.04	1
+72949	Ccnt2	cyclin T2	0.04	1
+16600	Klf4	Kruppel-like factor 4 (gut)	-0.03	1
+20020	Polr2a	polymerase (RNA) II (DNA directed) polypeptide A	-0.03	1
+20021	Polr2c	polymerase (RNA) II (DNA directed) polypeptide C	0.03	1
+54446	Nfat5	nuclear factor of activated T cells 5	-0.03	1
+66526	Tceanc2	transcription elongation factor A (SII) N-terminal and central domain containing 2	-0.03	1
+18227	Nr4a2	nuclear receptor subfamily 4, group A, member 2	0.02	1
+20016	Polr1c	polymerase (RNA) I polypeptide C	0.01	1
+69833	Polr2f	polymerase (RNA) II (DNA directed) polypeptide F	-0.01	1
+74414	Polr3c	polymerase (RNA) III (DNA directed) polypeptide C	0.01	1

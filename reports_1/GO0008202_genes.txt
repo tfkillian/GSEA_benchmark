@@ -1,0 +1,71 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+15357	Hmgcr	3-hydroxy-3-methylglutaryl-Coenzyme A reductase	0.56	0.47
+17777	Mttp	microsomal triglyceride transfer protein	-0.6	1
+108079	Prkaa2	protein kinase, AMP-activated, alpha 2 catalytic subunit	-0.58	1
+13121	Cyp51	cytochrome P450, family 51	0.55	1
+11806	Apoa1	apolipoprotein A-I	-0.52	1
+17855	Mvk	mevalonate kinase	-0.47	1
+22359	Vldlr	very low density lipoprotein receptor	0.38	1
+65969	Cubn	cubilin (intrinsic factor-cobalamin receptor)	0.36	1
+65970	Lima1	LIM domain and actin binding 1	-0.35	1
+13076	Cyp1a1	cytochrome P450, family 1, subfamily a, polypeptide 1	-0.34	1
+15492	Hsd3b1	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1	-0.32	1
+19682	Rdh5	retinol dehydrogenase 5	-0.29	1
+100017	Ldlrap1	low density lipoprotein receptor adaptor protein 1	-0.28	1
+235623	Scap	SREBF chaperone	0.28	1
+20887	Sult1a1	sulfotransferase family 1A, phenol-preferring, member 1	-0.27	1
+110196	Fdps	farnesyl diphosphate synthetase	0.26	1
+171504	Apobr	apolipoprotein B receptor	-0.26	1
+68865	Arv1	ARV1 homolog, fatty acid homeostasis modulator	0.26	1
+231070	Insig1	insulin induced gene 1	0.25	1
+622402	Akr1c12	aldo-keto reductase family 1, member C12	-0.25	1
+104086	Cyp27a1	cytochrome P450, family 27, subfamily a, polypeptide 1	-0.24	1
+109754	Cyb5r3	cytochrome b5 reductase 3	-0.24	1
+13112	Cyp3a11	cytochrome P450, family 3, subfamily a, polypeptide 11	0.24	1
+13113	Cyp3a13	cytochrome P450, family 3, subfamily a, polypeptide 13	-0.24	1
+100102	Pcsk9	proprotein convertase subtilisin/kexin type 9	-0.23	1
+13360	Dhcr7	7-dehydrocholesterol reductase	-0.22	1
+28200	Dhrs4	dehydrogenase/reductase (SDR family) member 4	-0.21	1
+18145	Npc1	NPC intracellular cholesterol transporter 1	-0.2	1
+16835	Ldlr	low density lipoprotein receptor	0.19	1
+223920	Soat2	sterol O-acyltransferase 2	0.19	1
+72999	Insig2	insulin induced gene 2	-0.17	1
+98386	Lbr	lamin B receptor	-0.17	1
+20788	Srebf2	sterol regulatory element binding factor 2	-0.16	1
+208715	Hmgcs1	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1	0.16	1
+105787	Prkaa1	protein kinase, AMP-activated, alpha 1 catalytic subunit	-0.15	1
+27384	Akr1c13	aldo-keto reductase family 1, member C13	-0.15	1
+110611	Hdlbp	high density lipoprotein (HDL) binding protein	0.14	1
+18023	Nfe2l1	nuclear factor, erythroid derived 2,-like 1	0.14	1
+18194	Nsdhl	NAD(P) dependent steroid dehydrogenase-like	0.14	1
+14137	Fdft1	farnesyl diphosphate farnesyl transferase 1	0.13	1
+72017	Cyb5r1	cytochrome b5 reductase 1	-0.13	1
+20652	Soat1	sterol O-acyltransferase 1	-0.12	1
+67963	Npc2	NPC intracellular cholesterol transporter 2	-0.12	1
+14385	Slc37a4	solute carrier family 37 (glucose-6-phosphate transporter), member 4	-0.11	1
+16890	Lipe	lipase, hormone sensitive	-0.11	1
+192156	Mvd	mevalonate (diphospho) decarboxylase	0.11	1
+20660	Sorl1	sortilin-related receptor, LDLR class A repeats-containing	-0.11	1
+14149	Fdxr	ferredoxin reductase	-0.1	1
+230101	Gba2	glucosidase beta 2	-0.09	1
+13595	Ebp	phenylalkylamine Ca2+ antagonist (emopamil) binding protein	0.08	1
+235293	Sc5d	sterol-C5-desaturase	0.08	1
+56453	Mbtps1	membrane-bound transcription factor peptidase, site 1	-0.08	1
+15360	Hmgcs2	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2	-0.06	1
+66234	Msmo1	methylsterol monoxygenase 1	0.06	1
+78925	Srd5a1	steroid 5 alpha-reductase 1	-0.06	1
+192970	Dhrs11	dehydrogenase/reductase (SDR family) member 11	-0.05	1
+241452	Dhrs9	dehydrogenase/reductase (SDR family) member 9	0.05	1
+73166	Tm7sf2	transmembrane 7 superfamily member 2	-0.05	1
+14466	Gba	glucosidase, beta, acid	0.04	1
+15483	Hsd11b1	hydroxysteroid 11-beta dehydrogenase 1	-0.04	1
+244373	Erlin2	ER lipid raft associated 2	-0.04	1
+238055	Apob	apolipoprotein B	0.03	1
+58520	Erg28	ergosterol biosynthesis 28	-0.03	1
+13088	Cyp2b10	cytochrome P450, family 2, subfamily b, polypeptide 10	-0.02	1
+20787	Srebf1	sterol regulatory element binding transcription factor 1	0.02	1
+68603	Pmvk	phosphomevalonate kinase	0.02	1
+13070	Cyp11a1	cytochrome P450, family 11, subfamily a, polypeptide 1	0.01	1
+14148	Fdx1	ferredoxin 1	-0.01	1
+226144	Erlin1	ER lipid raft associated 1	0.01	1
+74754	Dhcr24	24-dehydrocholesterol reductase	0	1

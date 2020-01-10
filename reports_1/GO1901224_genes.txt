@@ -1,0 +1,52 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+18569	Pdcd4	programmed cell death 4	-1.21	0.13
+16176	Il1b	interleukin 1 beta	1.41	0.48
+50930	Tnfsf14	tumor necrosis factor (ligand) superfamily, member 14	1.16	0.56
+12317	Calr	calreticulin	0.55	0.88
+58994	Smpd3	sphingomyelin phosphodiesterase 3, neutral	-0.78	1
+110784	Nr3c2	nuclear receptor subfamily 3, group C, member 2	-0.71	1
+378425	Nlrp12	NLR family, pyrin domain containing 12	-0.39	1
+80985	Trim44	tripartite motif-containing 44	0.36	1
+11596	Ager	advanced glycosylation end product-specific receptor	-0.34	1
+19245	Ptp4a3	protein tyrosine phosphatase 4a3	-0.3	1
+22051	Trip6	thyroid hormone receptor interactor 6	-0.28	1
+257632	Nod2	nucleotide-binding oligomerization domain containing 2	-0.27	1
+214150	Ago3	argonaute RISC catalytic subunit 3	0.25	1
+19106	Eif2ak2	eukaryotic translation initiation factor 2-alpha kinase 2	0.23	1
+12475	Cd14	CD14 antigen	-0.22	1
+236511	Ago1	argonaute RISC catalytic subunit 1	-0.22	1
+83433	Trem2	triggering receptor expressed on myeloid cells 2	-0.22	1
+20698	Sphk1	sphingosine kinase 1	0.18	1
+70097	Sash1	SAM and SH3 domain containing 1	-0.18	1
+71609	Tradd	TNFRSF1A-associated via death domain	-0.18	1
+15289	Hmgb1	high mobility group box 1	-0.16	1
+16173	Il18	interleukin 18	0.16	1
+60595	Actn4	actinin alpha 4	-0.16	1
+93692	Glrx	glutaredoxin	-0.16	1
+142980	Tlr3	toll-like receptor 3	-0.15	1
+170743	Tlr7	toll-like receptor 7	-0.14	1
+17394	Mmp8	matrix metallopeptidase 8	-0.14	1
+22034	Traf6	TNF receptor-associated factor 6	0.14	1
+319817	Rc3h2	ring finger and CCCH-type zinc finger domains 2	-0.14	1
+24088	Tlr2	toll-like receptor 2	-0.12	1
+27050	Rps3	ribosomal protein S3	-0.12	1
+12914	Crebbp	CREB binding protein	-0.11	1
+16202	Ilk	integrin linked kinase	-0.11	1
+21898	Tlr4	toll-like receptor 4	-0.11	1
+11848	Rhoa	ras homolog family member A	-0.1	1
+16179	Irak1	interleukin-1 receptor-associated kinase 1	-0.1	1
+110829	Lims1	LIM and senescent cell antigen-like domains 1	0.09	1
+19697	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	-0.09	1
+107607	Nod1	nucleotide-binding oligomerization domain containing 1	0.06	1
+170799	Rtkn2	rhotekin 2	-0.06	1
+24105	Rbck1	RanBP-type and C3HC4-type zinc finger containing 1	-0.06	1
+381305	Rc3h1	RING CCCH (C3H) domains 1	-0.06	1
+11820	App	amyloid beta (A4) precursor protein	-0.05	1
+171285	Havcr2	hepatitis A virus cellular receptor 2	0.05	1
+328572	Ep300	E1A binding protein p300	-0.05	1
+21926	Tnf	tumor necrosis factor	-0.04	1
+54446	Nfat5	nuclear factor of activated T cells 5	-0.03	1
+57321	Terf2ip	telomeric repeat binding factor 2, interacting protein	0.03	1
+81897	Tlr9	toll-like receptor 9	0.03	1
+13649	Egfr	epidermal growth factor receptor	0.02	1
+16182	Il18r1	interleukin 18 receptor 1	0	1

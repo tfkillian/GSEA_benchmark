@@ -1,0 +1,63 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+21687	Tek	TEK receptor tyrosine kinase	-1.8	0.039
+12490	Cd34	CD34 antigen	1.14	0.65
+12571	Cdk6	cyclin-dependent kinase 6	0.66	1
+11600	Angpt1	angiopoietin 1	-0.61	1
+225049	Ttc7	tetratricopeptide repeat domain 7	0.61	1
+17347	Mknk2	MAP kinase-interacting serine/threonine kinase 2	-0.47	1
+20739	Spta1	spectrin alpha, erythrocytic 1	-0.45	1
+109785	Pgm3	phosphoglucomutase 3	0.4	1
+226747	Ahctf1	AT hook containing transcription factor 1	0.38	1
+68275	Rpa1	replication protein A1	-0.35	1
+68337	Crip2	cysteine rich protein 2	-0.35	1
+71602	Myo1e	myosin IE	0.33	1
+12798	Cnn2	calponin 2	-0.28	1
+18771	Pknox1	Pbx/knotted 1 homeobox	0.28	1
+16542	Kdr	kinase insert domain protein receptor	-0.27	1
+414758	Zfp950	zinc finger protein 950	-0.26	1
+16923	Sh2b3	SH2B adaptor protein 3	-0.25	1
+216805	Flcn	folliculin	-0.25	1
+12394	Runx1	runt related transcription factor 1	-0.23	1
+21335	Tacc3	transforming, acidic coiled-coil containing protein 3	-0.22	1
+66049	Rogdi	rogdi homolog	-0.21	1
+12193	Zfp36l2	zinc finger protein 36, C3H type-like 2	-0.2	1
+17096	Lyn	LYN proto-oncogene, Src family tyrosine kinase	-0.2	1
+20397	Sgpl1	sphingosine phosphate lyase 1	-0.2	1
+21349	Tal1	T cell acute lymphocytic leukemia 1	0.2	1
+16590	Kit	KIT proto-oncogene receptor tyrosine kinase	-0.19	1
+230126	Shb	src homology 2 domain-containing transforming protein B	0.18	1
+12393	Runx2	runt related transcription factor 2	0.17	1
+12399	Runx3	runt related transcription factor 3	-0.17	1
+67050	Nkap	NFKB activating protein	-0.17	1
+109006	Ciapin1	cytokine induced apoptosis inhibitor 1	0.15	1
+11601	Angpt2	angiopoietin 2	0.15	1
+12190	Brca2	breast cancer 2, early onset	-0.15	1
+214133	Tet2	tet methylcytosine dioxygenase 2	-0.15	1
+21808	Tgfb2	transforming growth factor, beta 2	0.15	1
+17283	Men1	multiple endocrine neoplasia 1	-0.14	1
+15242	Hhex	hematopoietically expressed homeobox	0.13	1
+20656	Sod2	superoxide dismutase 2, mitochondrial	0.13	1
+26462	Txnrd2	thioredoxin reductase 2	-0.13	1
+69562	Cdk13	cyclin-dependent kinase 13	0.12	1
+12978	Csf1r	colony stimulating factor 1 receptor	-0.1	1
+99375	Cul4a	cullin 4A	-0.1	1
+12043	Bcl2	B cell leukemia/lymphoma 2	-0.08	1
+13595	Ebp	phenylalkylamine Ca2+ antagonist (emopamil) binding protein	0.08	1
+17268	Meis1	Meis homeobox 1	-0.08	1
+65960	Twsg1	twisted gastrulation BMP signaling modulator 1	-0.08	1
+66826	Taz	tafazzin	-0.08	1
+235320	Zbtb16	zinc finger and BTB domain containing 16	0.07	1
+12387	Ctnnb1	catenin (cadherin associated protein), beta 1	-0.06	1
+14461	Gata2	GATA binding protein 2	0.06	1
+170799	Rtkn2	rhotekin 2	-0.06	1
+228790	Asxl1	additional sex combs like 1	0.06	1
+19664	Rbpj	recombination signal binding protein for immunoglobulin kappa J region	0.05	1
+74041	Ddias	DNA damage-induced apoptosis suppressor	-0.05	1
+12772	Ccr2	chemokine (C-C motif) receptor 2	-0.04	1
+14581	Gfi1	growth factor independent 1 transcription repressor	0.04	1
+20679	Sox6	SRY (sex determining region Y)-box 6	-0.04	1
+380993	Zfat	zinc finger and AT hook domain containing	-0.03	1
+20741	Sptb	spectrin beta, erythrocytic	0.02	1
+22778	Ikzf1	IKAROS family zinc finger 1	-0.02	1
+233489	Picalm	phosphatidylinositol binding clathrin assembly protein	0.02	1
+99929	Tiparp	TCDD-inducible poly(ADP-ribose) polymerase	0	1

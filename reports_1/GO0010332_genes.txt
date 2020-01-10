@@ -1,0 +1,24 @@
+ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
+17869	Myc	myelocytomatosis oncogene	0.9	1
+319801	Tigar	Trp53 induced glycolysis regulatory phosphatase	0.66	1
+319955	Ercc6	excision repair cross-complementing rodent repair deficiency, complementation group 6	0.39	1
+211651	Fancd2	Fanconi anemia, complementation group D2	-0.29	1
+50883	Chek2	checkpoint kinase 2	-0.27	1
+12028	Bax	BCL2-associated X protein	-0.21	1
+19090	Prkdc	protein kinase, DNA activated, catalytic polypeptide	-0.21	1
+319583	Lig4	ligase IV, DNA, ATP-dependent	0.17	1
+14775	Gpx1	glutathione peroxidase 1	-0.16	1
+19264	Ptprc	protein tyrosine phosphatase, receptor type, C	-0.16	1
+233805	Dcun1d3	DCN1, defective in cullin neddylation 1, domain containing 3 (S. cerevisiae)	-0.16	1
+105787	Prkaa1	protein kinase, AMP-activated, alpha 1 catalytic subunit	-0.15	1
+12190	Brca2	breast cancer 2, early onset	-0.15	1
+17283	Men1	multiple endocrine neoplasia 1	-0.14	1
+18854	Pml	promyelocytic leukemia	0.14	1
+108138	Xrcc4	X-ray repair complementing defective repair in Chinese hamster cells 4	-0.13	1
+20656	Sod2	superoxide dismutase 2, mitochondrial	0.13	1
+11810	Apobec1	apolipoprotein B mRNA editing enzyme, catalytic polypeptide 1	-0.09	1
+12018	Bak1	BCL2-antagonist/killer 1	0.08	1
+12043	Bcl2	B cell leukemia/lymphoma 2	-0.08	1
+18950	Pnp	purine-nucleoside phosphorylase	0.08	1
+22059	Trp53	transformation related protein 53	0.08	1
+57434	Xrcc2	X-ray repair complementing defective repair in Chinese hamster cells 2	0.05	1
