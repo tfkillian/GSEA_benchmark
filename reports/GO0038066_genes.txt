@@ -1,7 +1,0 @@
-ENTREZID	SYMBOL	GENENAME	FC	ADJ.PVAL
-4217	MAP3K5	mitogen-activated protein kinase kinase kinase 5	0.7	5.7e-12
-677	ZFP36L1	ZFP36 ring finger protein like 1	-0.65	5.8e-08
-5606	MAP2K3	mitogen-activated protein kinase kinase 3	0.88	4.3e-06
-1432	MAPK14	mitogen-activated protein kinase 14	0.29	0.0051
-7538	ZFP36	ZFP36 ring finger protein	0.33	0.007
-9261	MAPKAPK2	MAPK activated protein kinase 2	0.25	0.011

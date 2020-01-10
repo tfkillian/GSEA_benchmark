@@ -1,5 +1,5 @@
 ---
-  title: "EnrichmentBrowser"
+title: "EnrichmentBrowser"
 author: "Theo Killian"
 date: "`r Sys.Date()`"
 output:
@@ -13,8 +13,6 @@ output:
 suppressPackageStartupMessages(library("dplyr"))
 knitr::opts_chunk$set(collapse=TRUE, comment="#>", warning=FALSE, message=FALSE)
 ```
-
-
 
 # EnrichmentBrowser
 

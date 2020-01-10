@@ -1,5 +1,5 @@
 ---
-  title: "limma goana"
+title: "limma goana"
 author: "Theo Killian"
 date: "`r Sys.Date()`"
 output:
@@ -78,8 +78,10 @@ rowData(airSE, use.names=TRUE)
 ```
 
 ```{r}
-airSE_dat <- airSE %>%
-             mutate(ENTREZID = mapIds(org.Hs.eg.db, Gene, "ENTREZID", "ENSEMBL") %>%
+airSE_dat <- as.data.frame(rowData(airSE, use.names=TRUE))
+airSE_dat$Gene <- rownames(airSE_dat)
+airSE_dat <- airSE_dat %>%
+             dplyr::mutate(ENTREZID = mapIds(org.Hs.eg.db, Gene, "ENTREZID", "ENSEMBL") %>%
              unname())
 ```
 
@@ -97,7 +99,7 @@ Below shows the length of the list of such genes in the *universe*.
 ```{r warning=FALSE, message=FALSE}
 airSE_id <- airSE_dat %>% filter(!is.na(ENTREZID))
 cat("Dimensions of airSE results with an ENTREZ ID\n")
-dim(mouse_id1)[1]
+dim(airSE_id)[1]
 ```
 
 For reference, shown below is the the subset of the data that *does not have* an
@@ -106,7 +108,7 @@ For reference, shown below is the the subset of the data that *does not have* an
 ```{r warning=FALSE, message=FALSE}
 airSE_no_id <- airSE_dat %>% filter(is.na(ENTREZID))
 cat("Dimensions of airSE results without an ENTREZ ID\n")
-dim(mouse_no_id1)[1]
+dim(airSE_no_id)[1]
 ```
 
 `goana` compares the *universe* of genes by looking at all GO terms for "Hs"
@@ -118,8 +120,7 @@ a p-adjusted value *lower than 0.05* and an absolute log fold change of
 *greater than 1*.
 
 ```{r  warning=FALSE, message=FALSE}
-go_goana <- goana(airSE_id$ENTREZID[(
-                  airSE_id$padj < 0.05 & abs(airSE_id$log2FoldChange) > 1)],
+go_goana <- goana(airSE_id$ENTREZID[(airSE_id$ADJ.PVAL < 0.05 & abs(airSE_id$FC) > 1)],
                   airSE_id$ENTREZID, "Hs") %>% as_tibble()
 
 go_goana <- go_goana %>% mutate(GOID = mapIds(GO.db, .$Term, "GOID", "TERM") %>%

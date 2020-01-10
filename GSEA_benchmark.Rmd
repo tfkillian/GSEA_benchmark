@@ -1,5 +1,5 @@
 ---
-  title: "GSEA_benchmark"
+title: "GSEA Benchmark"
 author: "Theo Killian"
 date: "`r Sys.Date()`"
 output:
@@ -14,353 +14,153 @@ suppressPackageStartupMessages(library("dplyr"))
 knitr::opts_chunk$set(collapse=TRUE, comment="#>", warning=FALSE, message=FALSE)
 ```
 
-```{r}
-## load libraries
-library("ggplot2")
-library("tidyverse")
-library("dplyr")
-```
+# Introduction
 
-# GSEA Benchmark
+This report benchmarks popular GSEA packages such as, `EDASeq` and `goseq`,
+comparing the results found with each method when analyzing the
+`201910_SIGN_STAT2` DE analysis results of *WT TPO vs VEH* data.
 
-This report describes the benchmarking of various R packages that perform GSEA,
-including `goana`, `EnrichmentBrowser` and `GeneTonic`. These packages will be
-compared by functionality and performance.
-
-### EnrichmentBrowser
-
-The `EnrichmentBrowser` package implements an analysis pipeline for
-high-throughput gene expression data as measured with microarrays and RNA-seq.
-In a workflow-like manner, the package brings together a selection of
-established Bioconductor packages for gene expression data analysis. It
-integrates a wide range of gene set and network enrichment analysis methods and
-facilitates combination and exploration of results across methods.
-
-```{r}
+```{r load_libraries}
+library("goseq")
+library("EDASeq")
+library("BSgenome.Mmusculus.UCSC.mm10")
+library("TxDb.Mmusculus.UCSC.mm10.ensGene")
 library("EnrichmentBrowser")
+library("DESeq2")
+library("dplyr")
+# library("geneLenDataBase")
 ```
 
-To demonstrate the functionality of the package for RNA-seq data, we consider
-transcriptome profiles of four primary human `airway` smooth muscle cell lines
-in two conditions: control and treatment with dexamethasone.
+We load the results from `201910_SIGN_STAT2` showing the results of DE analysis
+of *WT TPO vs VEH*.
 
-```{r}
-library("airway")
-data(airway)
+```{r load_data}
+wt_counts <- readr::read_tsv("./data/wt_counts")
+names(wt_counts)[1] <- "ENSEMBL"
+head(wt_counts)
 ```
 
-For further analysis, we remove genes with very low read counts and measurements
-that are not mapped to an ENSEMBL gene ID.
+## EDASeq
 
-```{r}
-airSE <- airway[grep("^ENSG", rownames(airway)),]
-airSE <- airSE[rowMeans(assay(airSE)) > 10,]
-# dim(airSE)
+We show how to conduct Exploratory Data Analysis (EDA) and normalization for a
+typical RNA-Seq experiment using the package `EDASeq`. One can think of EDA for
+RNA-Seq as a two-step process: "read-level" EDA helps in discovering lanes with
+low sequencing depths, quality issues, and unusual nucleotide frequencies, while
+*gene-level* EDA can capture mislabeled lanes, issues with distributional
+assumptions (e.g., over-dispersion), and GC-content bias. This package
+implements both "within-lane" and "between-lane" normalization procedures, to
+account, respectively, for within-lane gene-specific (and possibly
+lane-specific) effects on read counts (e.g., related to gene length or
+GC-content) and for between-lane distributional differences in read counts
+(e.g., sequencing depths).
 
-assay(airSE)[1:4,1:4]
+### Retrieving gene length and GC-content
+
+Two essential features the gene-level EDA normalizes for are gene length and
+GC-content. The function `getGeneLengthAndGCContent` is used to retrieve this
+information. Given selected ENTREZ or ENSEMBL gene IDs and the organism under
+investigation, this can be done either based on BioMart (default) or using BioC
+annotation utilities.
+
+```{r getGeneLengthAndGCContent, eval=FALSE}
+## NOTE: this function only accepts a column named "ENSEMBL" as its argument
+feature <- as.data.frame(getGeneLengthAndGCContent(featureNames(data),
+                                                   org="mmu", mode="org.db"))
+
+## unfortunately, not all the genes have a gene length, so these genes, must
+## be removed from the analysis, leaving us with 37719 genes to perform DE on
+feature <- feature[complete.cases(feature), ]
+dim(feature)
 ```
 
-Normalization of high-throughput expression data is essential to make results
-within and between experiments comparable. Microarray (intensity measurements)
-and RNA-seq (read counts) data typically show distinct features that need to be
-normalized for. The function normalize wraps commonly used functionality from
-limma for microarray normalization and from EDASeq for RNA-seq normalization.
-For specific needs that deviate from these standard normalizations, the user
-should always refer to more specific functions/packages. Microarray data is
-expected to be single-channel. For two-color arrays, it is expected that
-normalization within arrays has been already carried out, e.g. using
-normalizeWithinArrays from limma.
+First, we filter the non-expressed genes, i.e., we consider only the
+genes with an average read count greater than 10 across the four lanes
+and for which we have length and GC-content information.
 
-```{r}
-norm.air <- normalize(airSE, norm.method="quantile")
+```{r filter, message=FALSE, warning=FALSE}
+rownames(wt_counts) <- wt_counts$ENSEMBL
+wt_counts <- wt_counts %>% dplyr::select(-ENSEMBL)
+common <- intersect(rownames(feature), rownames(wt_counts))
+length(common)
 ```
 
-The EnrichmentBrowser incorporates established functionality from the limma
-package for differential expression analysis between sample groups. This
-involves the voom -transformation when applied to RNA-seq data. Alternatively,
-differential expression analysis for RNA-seq data can also be carried out based
-on the negative binomial distribution with edgeR and DESeq2. 
-• GROUP defines the sample groups being contrasted,
-• BLOCK defines paired samples or sample blocks, as e.g. for batch effects.
-For more information on experimental design, see the limma user guide chapter 9.
-For the airway dataset, it indicates whether the cell lines have been treated
-with dexamethasone (1) or not (0).
+The `EDASeq` package provides the `SeqExpressionSet` class to store gene counts,
+(lane-level) information on the sequenced libraries, and (gene-level) feature
+information.  We use the data frame `met` created in Section `secRead` for the
+lane-level data. As for the feature data, we use gene length and GC-content.
 
-```{r}
-airSE$GROUP <- ifelse(airway$dex == "trt", 1, 0)
-table(airSE$GROUP)
+```{r newSeqExpressionSet}
+data <- newSeqExpressionSet(counts=as.matrix(wt_counts[common,]),
+                            featureData=feature[common,],
+                            phenoData=data.frame(
+                            conditions=c(rep("KO_IFN", 4), rep("KO_TPO", 4),
+                                         rep("KO_VEH", 4), rep("wt_IFN", 4),
+                                         rep("wt_TPO", 4), rep("wt_VEH", 4)),
+                            row.names=colnames(wt_counts)))
+head(counts(data))
 ```
 
-Paired samples, or in general sample batches/blocks, can be defined via a BLOCK
-column in the colData slot. For the airway dataset, the sample blocks correspond
-to the four different cell lines.
+### Normalization
 
-```{r}
-airSE$BLOCK <- airway$cell
-table(airSE$BLOCK)
-```
+`EDASeq` considers two main types of effects on gene-level counts: (1)
+within-lane gene-specific (and possibly lane-specific) effects, e.g., related to
+gene length or GC-content, and (2) effects related to between-lane
+distributional differences, e.g., sequencing depth. Accordingly, the functions
+`withinLaneNormalization` and `betweenLaneNormalization` adjust for the first
+and second type of effects, respectively.  We recommend to normalize for
+within-lane effects prior to between-lane normalization. Four within-lane
+normalization methods, namely: loess robust local regression of read counts
+(log) on a gene feature such as GC-content (`loess`), global-scaling between
+feature strata using the median (`median`), global-scaling between feature
+strata using the upper-quartile (`upper`), and full-quantile normalization
+between feature strata (`full`).
 
-For RNA-seq data, the deAna function carries out a differential expression
-analysis between the two groups either based on functionality from limma (that
-includes the voom transformation), or alternatively, the popular edgeR or DESeq2
-package. Here, we use the analysis based on edgeR for demonstration.
+```{r normalization}
+# NOTE: it's also possible to normalize for gene length
+dataWithin <- withinLaneNormalization(data, "length", which="full")
+dataNorm <- betweenLaneNormalization(dataWithin, which="full")
 
-```{r}
-airSE <- deAna(airSE, de.method="edgeR")
-## Excluding 1831 genes not satisfying min.cpm threshold
-rowData(airSE, use.names=TRUE)
-```
-
-#### ID mapping
-
-Using genomic information from different resources often requires mapping
-between different types of gene identifiers. Although primary analysis steps
-such as normalization and differential expression analysis can be carried out
-independent of the gene ID type, downstream exploration functionality of the
-EnrichmentBrowser is consistently based on NCBI Entrez Gene IDs. It is thus, in
-this regard, beneficial to initially map gene IDs of a different type to NCBI
-Entrez IDs. The function idTypes lists the available ID types for the mapping
-depending on the organism under investigation.
-
-```{r}
-idTypes("hsa")
-```
-
-ID mapping for the airway dataset (from ENSEMBL to ENTREZ gene ids) can then be
-carried out using the function idMap .
-
-```{r}
-head(rownames(airSE))
-```
-
-```{r}
-airSE <- idMap(airSE, org="hsa", from="ENSEMBL", to="ENTREZID")
-head(rownames(airSE))
-```
-
-Now, we subject the ALL and the airway gene expression data to the enrichment
-analysis.
-
-#### Enrichment Analysis
-
-In the following, we introduce how the EnrichmentBrowser package can be used to
-perform state-of-the-art enrichment analysis of gene sets. We consider the ALL
-and the airway gene expression data as processed in the previous sections. We
-are now interested in whether predefined sets of genes that are known to work
-together, e.g. as defined in the Gene Ontology (GO) or the KEGG pathway
-annotation, are coordinately differentially expressed. The function getGenesets
-can be used to download gene sets from databases such as GO and KEGG. Here, we
-use the function to download all KEGG pathways for a chosen organism
-(here: Homo sapiens) as gene sets.
-
-```{r}
-kegg.gs <- getGenesets(org="hsa", db="kegg")
-```
-
-Analogously, the function getGenesets can be used to retrieve GO terms of a
-selected ontology (here: biological process, BP) as defined in the GO.db
-annotation package.
-
-```{r}
-go.gs <- getGenesets(org="hsa", db="go", go.onto="BP", go.mode="GO.db")
-```
-
-If provided a file, the function parses user-defined gene sets from GMT file
-format. Here, we use this functionality for reading a list of already downloaded
-KEGG gene sets for Homo sapiens containing NCBI Entrez Gene IDs.
-
-```{r}
-gmt.file <- file.path("~/R/x86_64-pc-linux-gnu-library/3.6/EnrichmentBrowser/extdata/hsa_kegg_gs.gmt")
-hsa.gs <- getGenesets(gmt.file)
-length(hsa.gs)
-
-hsa.gs[1:2]
-```
-
-Currently, the following set-based enrichment analysis methods are supported
-
-```{r}
-sbeaMethods()
-```
-
-ORA: Overrepresentation Analysis (simple and frequently used test based on the
-hypergeometric distribution). For demonstration, we perform a basic ORA choosing
-a significance level α of 0.1
-
-```{r}
-sbea.res <- sbea(method="ora", se=airSE, gs=hsa.gs, perm=0, alpha=0.1)
-gsRanking(sbea.res)
-```
-
-The result of every enrichment analysis is a ranking of gene sets by the
-corresponding p-value. The gsRanking function displays only those gene sets
-satisfying the chosen significance level α. While such a ranked list is the
-standard output of existing enrichment tools, the EnrichmentBrowser package
-provides visualization and interactive exploration of resulting gene sets far
-beyond that point. Using the eaBrowse function creates a HTML summary from which
-each gene set can be inspected in detail (this builds on functionality from the
-ReportingTools package).
-
-```{r}
-eaBrowse(sbea.res)
-```
-
-#### Network-based enrichment analysis
-
-Having found sets of genes that are differentially regulated in the ALL data, we
-are now interested whether these findings can be supported by known regulatory
-interactions. For example, we want to know whether transcription factors and
-their target genes are expressed in accordance to the connecting regulations
-(activation/inhibition). Such information is usually given in a gene regulatory
-network derived from specific experiments or compiled from the literature. There
-are well-studied processes and organisms for which comprehensive and well
-annotated regulatory networks are available, e.g. the RegulonDB for E. coli and
-Yeastract for S. cerevisiae. However, there are also cases where such a network
-is missing. A basic workaround is to compile a network from regulations in
-pathway databases such as KEGG.
-
-```{r}
-hsa.grn <- compileGRN(org="hsa", db="kegg")
-head(hsa.grn)
-```
-
-Now, we are able to perform enrichment analysis using the compiled network.
-Currently, the following network-based enrichment analysis methods are supported
-
-```{r}
-nbeaMethods()
-```
-
-GGEA: Gene Graph Enrichment Analysis (evaluates consistency of known regulatory
-interactions with the observed expression data). For demonstration, we perform
-GGEA using the compiled KEGG regulatory network.
-
-```{r}
-nbea.res <- nbea(method="ggea", se=airSE, gs=hsa.gs, grn=hsa.grn)
-gsRanking(nbea.res)
-```
-
-The resulting ranking lists, for each statistically significant gene set, the
-number of relations of the network involving a member of the gene set under
-study ( NR.RELS ), the sum of consistencies over the relations of the set
-( RAW.SCORE ), the score normalized by induced network size
-( NORM.SCORE = RAW.SCORE / NR.RELS ), and the statistical significance of each
-gene set based on a permutation approach. A GGEA graph for a gene set depicts
-the consistency of each interaction in the set. Nodes (genes) are colored
-according to expression (up-/down-regulated) and edges (interactions)
-are colored according to consistency, i.e. how well the interaction type
-(activation/inhibition) is reflected in the correlation of the observed
-expression of both interaction partners.
-
-```{r}
-par(mfrow=c(1,2))
-ggeaGraph(
-gs=hsa.gs[["hsa05217_Basal_cell_carcinoma"]],
-grn=hsa.grn, se=airSE)
-ggeaGraphLegend()
-```
-
-#### Combining results
-
-Different enrichment analysis methods usually result in different gene set
-rankings for the same dataset. To compare results and detect gene sets that are
-supported by different methods, the EnrichmentBrowser package allows to combine
-results from the different set-based and network-based enrichment analysis
-methods. The combination of results yields a new ranking of the gene sets under
-investigation by specified ranking criteria, e.g. the average rank across
-methods. We consider the ORA result and the GGEA result from the previous
-sections and use the function combResults.
-
-```{r}
-res.list <- list(sbea.res, nbea.res)
-comb.res <- combResults(res.list)
-```
-
-The combined result can be detailedly inspected as before and interactively
-ranked.
-
-```{r}
-eaBrowse(comb.res, graph.view=hsa.grn, nr.show=5)
-```
-
-
-### limma goana
-
-Gene Set Enrichment Analysis (GSEA) in this section is performed using
-`limma::goana()`. This process requires `ENTREZ` identifiers, which are obtained
-by querying the genome wide annotation for the organism of interest, as well as
-p-adjusted values. The enriched gene set is subjected to a hypergeometric test
-for differential enrichment (DE).
-
-```{r warning=FALSE, message=FALSE}
-# library("limma")
-# library("GO.db")
-# library("org.Mm.eg.db")
-# 
-# mouse_res$Gene <- as.character(mouse_res$Gene)
-# mouse_dat1 <- mouse_res %>%
-#               mutate(ENTREZID = mapIds(org.Mm.eg.db, Gene, "ENTREZID", "ENSEMBL") %>%
-#               unname())
-```
-
-Below shows the number of genes found in the original data.
-
-```{r}
-# cat("Dimensions of mouse results ID\n")
-# dim(mouse_dat1)[1]
-```
-
-To perform GSEA, a *universe* of genes must be constructed. Each gene in the
-*universe* must have an `ENTREZ ID` to be testable for differential enrichment.
-Below shows the length of the list of such genes in the *universe*.
-
-```{r warning=FALSE, message=FALSE}
-# mouse_id1 <- mouse_dat1 %>% filter(!is.na(ENTREZID))
-# cat("Dimensions of mouse results with an ENTREZ ID\n")
-# dim(mouse_id1)[1]
-```
-
-For reference, shown below is the the subset of the data that *does not have* an
-`ENTREZ ID` and is not used to construct the universe.
-
-```{r warning=FALSE, message=FALSE}
-# mouse_no_id1 <- mouse_dat1 %>% filter(is.na(ENTREZID))
-# cat("Dimensions of mouse results without an ENTREZ ID\n")
-# dim(mouse_no_id1)[1]
-```
-
-`goana` compares the *universe* of genes by looking at all GO terms for "Hs"
-(human) with the gene set have provided from the `DESeq2` analysis, returning a
-tibble of the GO terms that are significantly differentially enriched after
-performing a hypergeometric test. The vector of enriched genes that will be
-passed are compared with the universe are those from the `DESeq2` analysis with
-a p-adjusted value *lower than 0.05* and an absolute log fold change of
-*greater than 1*.
-
-```{r  warning=FALSE, message=FALSE}
-# go_goana <- goana(mouse_id1$ENTREZID[(
-#                   mouse_id1$padj < 0.05 & abs(mouse_id1$log2FoldChange) > 1)],
-#                   mouse_id1$ENTREZID, "Mm") %>% as_tibble()
-# 
-# go_goana <- go_goana %>% mutate(GOID = mapIds(GO.db, .$Term, "GOID", "TERM") %>%
-#                          unname()) %>%
-#                          dplyr::select(GOID, everything()) %>% 
-#                          arrange(P.DE)
-```
-
-#### limma goana results 
-
-Below is a html table displaying the results of significant genes found in the
-GSEA analysis for comparison of mouse results.
-
-```{r}
-# DT::datatable(go_goana)
+## wt_counts normalized by gene length 
+EDASeq_norm_counts <- as.data.frame(dataNorm@assayData$normalizedCounts)
+saveRDS(EDASeq_norm_counts, file = "./data/EDASeq_norm_counts.rds")
 ```
 
 ```{r}
-# detach("package:limma", unload = TRUE)
-# detach("package:GO.db", unload = TRUE)
-# detach("package:org.Mm.eg.db", unload = TRUE)
+boxplot(dataNorm@assayData$normalizedCounts)
+```
+
+## goseq
+
+`goseq` will work with any method for determining differential expression (DE).
+In order to perform a *GO* analysis on RNA-seq data, `goseq` only requires a
+simple named vector, which contains two pieces of information:
+
+1) Measured genes: all genes for which RNA-seq data was gathered for your
+experiment. Each element of your vector should be named by a unique gene
+identifier.
+
+2) Differentially expressed genes: each element of your vector should be either
+a 1 or a 0, where 1 indicates that the gene is differentially expressed and 0
+that it is not.
+
+```{r}
+supportedOrganisms()
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
 ```
 
 *Session Info*
@@ -368,3 +168,4 @@ GSEA analysis for comparison of mouse results.
 ```{r sessionInfo}
 sessionInfo()
 ```
+
