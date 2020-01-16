@@ -1,0 +1,269 @@
+---
+title: "GSEA on WT counts (not normalized for length)"
+author: "Theo Killian"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    code_folding: hide
+    toc: true
+    toc_float: true
+---
+
+```{r, echo = FALSE, results = 'asis'}
+suppressPackageStartupMessages(library("dplyr"))
+knitr::opts_chunk$set(collapse=TRUE, comment="#>", warning=FALSE, message=FALSE)
+```
+
+# GSEA
+
+This GSEA benchmarking will perform GSEA on the wild type samples from the
+`rms_sk_combo` data for both GO terms and KEGG pathways using the
+`EnrichmentBrowser` package.
+
+```{r load_libraries, message=FALSE, warning=FALSE, echo=FALSE}
+library("EnrichmentBrowser")
+library("SummarizedExperiment")
+library("dplyr")
+library("readr")
+```
+
+Raw counts from `rms_sk_combo` are read from a *.csv* file.
+
+```{r}
+counts <- read.csv("./data/rms_sk_combo.csv", header=TRUE, sep=",")
+remove_after_dot <- counts$X
+names(counts)[1] <-"Gene"
+counts$Gene <- gsub("\\..*","", remove_after_dot)
+counts <- counts %>% dplyr::select(Gene, T01:T03, KMR19, KMR46)
+rownames(counts) <- counts$Gene
+counts <- counts %>% dplyr::select(-Gene)
+counts
+```
+
+Column data from `rms_sk_combo` is read and prepared.
+
+```{r}
+## Assign condition 'coldata' 
+condition <- factor(c(rep("T0", 3), rep("KMR", 2)))
+coldata <- data.frame(row.names=colnames(counts), condition)
+```
+
+The raw counts and column data are combined in a `SummarizedExperiment` object.
+
+```{r}
+counts <- as.matrix(as.data.frame(counts))
+mouse_counts_se <- SummarizedExperiment(assays=list(counts=counts),
+                                     colData=coldata)
+head(assay(mouse_counts_se))
+```
+
+Add the DE results to the `rowData` of the `SummarizedExperiment`
+
+```{r deana, message=FALSE, warning=FALSE}
+res1 <- read.csv("./data/mouse_results_1.csv", header=TRUE, sep=",") # %>% 
+                 # rename(FC = log2FoldChange) %>% 
+                 # rename(DESeq2.STAT = stat) %>% 
+                 # rename(PVAL = pvalue) %>%
+                 # rename(ADJ.PVAL = padj) %>%
+                 # dplyr::select(Gene, FC, DESeq2.STAT, PVAL, ADJ.PVAL)
+res1 <- res1 %>% dplyr::select(Gene:padj)
+names(res1) <- c("Gene", "GeneName", "baseMean", "FC", "lfcSE", "DESeq2.STAT",
+                 "PVAL", "ADJ.PVAL")
+# Add gene name column 1
+idx <- match(res1$Gene, rownames(counts))
+res1$selected <- res1$Gene[idx]
+res1 <- res1[complete.cases(res1$selected), ]
+res1 <- res1 %>% dplyr::select(FC, DESeq2.STAT, PVAL, ADJ.PVAL)
+# dim(res1)
+
+# rownames(res1) <- res1$Gene
+# countdata_res <- res1 %>% dplyr::select(-Gene)
+# counts_res <- as.matrix(as.data.frame(countdata_res))
+# colData_res <- names(countdata_res)
+# mouse_res_se <- SummarizedExperiment(assays=list(counts=counts_res),
+#                                          colData=colData_res)
+ 
+rowData(mouse_counts_se, use.names = TRUE) <- res1
+rowData(mouse_counts_se)
+```
+
+#### ID mapping
+
+Using genomic information from different resources often requires mapping
+between different types of gene identifiers. Although primary analysis steps
+such as normalization and differential expression analysis can be carried out
+independent of the gene ID type, downstream exploration functionality of the
+`EnrichmentBrowser` is consistently based on *NCBI Entrez Gene IDs*. It is
+beneficial to initially map gene IDs of a different type to *NCBI Entrez IDs*.
+The function `idTypes` lists the available ID types for the mapping depending on
+the organism under investigation.
+
+```{r idtypes, message=FALSE, warning=FALSE}
+idTypes("mmu")
+```
+
+ID mapping for the `airway` dataset (from *ENSEMBL* to *ENTREZ* gene ids) can
+then be carried out using the function `idMap`.
+
+```{r}
+head(rownames(mouse_counts_se))
+```
+
+*ENSEMBL IDs* are mapped to the *ENTREZ IDs*, and the `airway` gene expression
+data is ready to be subjected to enrichment analysis.
+
+```{r idmap, message=FALSE, warning=FALSE}
+mouse_counts_se <- idMap(mouse_counts_se, org="mmu", from="ENSEMBL", to="ENTREZID")
+head(rownames(mouse_counts_se))
+```
+
+### Enrichment Analysis
+
+In the following, we introduce how the `EnrichmentBrowser` package can be used
+to perform state-of-the-art enrichment analysis of gene sets. We consider the
+`airway` gene expression data as processed in the previous sections. We are now
+interested in whether predefined sets of genes that are known to work together,
+e.g. as defined in the *Gene Ontology (GO)* or the *KEGG* pathway annotation,
+are coordinately differentially expressed. The function `getGenesets` can be
+used to download gene sets from databases such as *GO* and *KEGG*. Here, we use
+the function to download all *KEGG* pathways for a chosen organism (here:
+*Homo sapiens*) as gene sets. Analogously, the function `getGenesets` can also
+be used to retrieve *GO* terms of a selected ontology (such as biological
+process, *BP*) as defined in the `GO.db` annotation package.
+
+```{r keggs, message=FALSE, warning=FALSE}
+## retrieve KEGG pathway terms of a selected organism
+## https://rdrr.io/bioc/EnrichmentBrowser/man/getGenesets.html
+kegg.gs <- getGenesets(org="mmu", db="kegg")
+## retrieve GO terms of a selected organism
+go.gs <- getGenesets(org="mmu", db="go", go.mode="GO.db")
+```
+
+#### Set Based Enrichment Analysis (SBEA)
+
+Set-based enrichment analysis (SBEA). This is the main function for the
+enrichment analysis of gene sets. It implements and wraps existing
+implementations of several frequently used methods and allows a flexible
+inspection of resulting gene set rankings. Currently, the following set-based
+enrichment analysis methods are supported by the function `sbeaMethods()`:
+ "ora", "safe", "gsea", "gsa", "padog", "globaltest", "roast", "camera", "gsva",
+"samgs", "ebm" and "mgsa".
+
+The method used here within the `sbea()` function is
+*GSEA (Gene Set Enrichment Analysis)* which is frequently used and widely
+accepted. *GSEA* uses a Kolmogorov–Smirnov statistic to test whether the ranks
+of the p-values of genes in a gene set resemble a uniform distribution. An *α*
+parameter value of 0.05 and 1000 permutations will be used.
+
+NOTE:: The Kolmogorov–Smirnov test is a nonparametric test of the equality of
+continuous or discontinuous, one-dimensional probability distributions that can
+be used to compare a sample with a reference probability distribution. The
+Kolmogorov–Smirnov statistic quantifies a distance between the empirical
+distribution function of the sample and the cumulative distribution function of
+the reference distribution, or between the empirical distribution functions of
+two samples. The null distribution of this statistic is calculated under the
+null hypothesis that the sample is drawn from the reference distribution (in the
+one-sample case) or that the samples are drawn from the same distribution (in
+the two-sample case). In the one-sample case, the distribution considered under
+the null hypothesis may be continuous, purely discrete or mixed. In the
+two-sample case, the distribution considered under the null hypothesis is a
+continuous distribution but is otherwise unrestricted. 
+
+The result of every enrichment analysis is a ranking of gene sets by the
+corresponding p-value. The `gsRanking` function displays only those gene sets
+satisfying the chosen significance level *α*.
+
+```{r}
+gsea_res <- sbea(method="gsea", se=mouse_counts_se, gs=go.gs, alpha = 0.05,
+                 perm = 1000)
+gsRanking(gsea_res) # DataFrame with gene sets ranked by the corresponding p-val
+```
+
+### Network-based enrichment analysis
+
+We are now interested whether these findings can be supported by known
+regulatory interactions. For example, we want to know whether transcription 
+factors and their target genes are expressed in accordance to the connecting
+regulations (activation/inhibition). Such information is usually given in a gene
+regulatory network derived from specific experiments or compiled from the
+literature. Here, we compile a network from regulations in pathway databases
+such as *KEGG*. Now, we are able to perform enrichment analysis using the
+compiled network.
+
+```{r}
+## Compilation of a gene regulatory network from pathway databases
+mmu.grn <- compileGRN(org="mmu", db="kegg")
+head(mmu.grn)
+```
+
+Network-based enrichment analysis (NBEA). This is the main function for
+network-based enrichment analysis. It implements and wraps existing
+implementations of several frequently used methods and allows a flexible
+inspection of resulting gene set rankings. Currently, the following set-based
+enrichment analysis methods are supported by the function `nbeaMethods()`:
+"ggea", "spia", "pathnet", "degraph", "ganpa", "cepa", "topologygsa" and
+"netgsa".
+
+The method used here within the `nbea()` function is
+*GGEA: Gene Graph Enrichment Analysis*  which evaluates the consistency of known
+regulatory interactions with the observed expression data. We perform *GGEA*
+using the compiled *KEGG* regulatory network.
+
+```{r}
+ggea_res <- nbea(method="ggea", se=mouse_counts_se, gs=go.gs, grn=mmu.grn,
+                 alpha = 0.05)
+gsRanking(ggea_res)
+```
+
+The resulting ranking lists, for each statistically significant gene set, the
+number of relations of the network involving a member of the gene set under
+study *(NR.RELS)*, the sum of consistencies over the relations of the set
+*(RAW.SCORE)*, the score normalized by induced network size
+*(NORM.SCORE = RAW.SCORE / NR.RELS)*, and the statistical significance of each
+gene set based on a permutation approach.
+
+<!-- A *GGEA* graph for a gene set depicts -->
+<!-- the consistency of each interaction in the set. Nodes (genes) are colored -->
+<!-- according to expression (up-/down-regulated) and edges (interactions) -->
+<!-- are colored according to consistency, i.e. how well the interaction type -->
+<!-- (activation/inhibition) is reflected in the correlation of the observed -->
+<!-- expression of both interaction partners. -->
+
+<!-- ```{r fig.height=6, fig.width=12} -->
+<!-- par(mfrow=c(1,2)) -->
+<!-- ggeaGraph(gs=mmu.gs[["0001666_response_to_hypoxia"]], -->
+<!--           grn=mmu.grn, se=wt_counts_se) -->
+<!-- ggeaGraphLegend() -->
+<!-- ``` -->
+
+#### Combining results
+
+Different enrichment analysis methods usually result in different gene set
+rankings for the same dataset. To compare results and detect gene sets that are
+supported by different methods, the `EnrichmentBrowser` package allows to
+combine results from the different set-based and network-based enrichment
+analysis methods. The combination of results yields a new ranking of the gene
+sets under investigation by specified ranking criteria, e.g. the average rank
+across methods. We consider the *GSEA* result and the *GGEA* result from the
+previous sections and use the function `combResults`.
+
+```{r}
+res.list <- list(gsea_res, ggea_res)
+comb.res <- combResults(res.list)
+```
+
+The combined result can be detailedly inspected as before and interactively
+ranked. Using the `eaBrowse` function creates a HTML summary from which each
+gene set can be inspected in detail (this builds on functionality from the
+`ReportingTools` package).
+
+```{r}
+eaBrowse(comb.res, graph.view=mmu.grn, nr.show=100, html.only = TRUE,
+         out.dir = "./reports_1")
+```
+
+*Session Info*
+
+```{r sessionInfo}
+sessionInfo()
+```

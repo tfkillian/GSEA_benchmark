@@ -1,0 +1,184 @@
+---
+title: "201910_SIGN_STAT2 GSEA normalized by goseq"
+author: "Theo Killian"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    code_folding: hide
+    toc: true
+    toc_float: true
+---
+
+```{r, echo = FALSE, results = 'asis'}
+suppressPackageStartupMessages(library("dplyr"))
+knitr::opts_chunk$set(collapse=TRUE, comment="#>", warning=FALSE, message=FALSE)
+```
+
+# GSEA
+
+This GSEA benchmarking will perform GSEA on the wild type samples from the
+`201910_SIGN_STAT2` data for both GO terms and KEGG pathways using the
+`EnrichmentBrowser` package.
+
+*Note:* `goseq` normalizes raw counts for gene length *after* DE analysis
+
+```{r load_libraries, message=FALSE, warning=FALSE, echo=FALSE}
+library("EnrichmentBrowser")
+library("SummarizedExperiment")
+library("dplyr")
+library("goseq")
+library("org.Mm.eg.db")
+```
+
+Results data from *prior DE analysis.* The results columns are selected, given
+appropriate column names and converted to a `SummarizedExperiment` object.
+
+```{r}
+wt_counts_res <- read.csv("./data/mouse_results_1.csv", header=TRUE, sep=",") %>% 
+                 # rename(FC = log2FoldChange) %>%
+                 # rename(DESeq2.STAT = stat) %>%
+                 # rename(PVAL = pvalue) %>%
+                 # rename(ADJ.PVAL = padj) %>%
+                 dplyr::select(Gene:padj)
+# names(res1df) <- c("Gene", "geneName", "baseMean", "FC", "DESeq2.STAT", "PVAL", "ADJ.PVAL")
+# rownames(wt_counts_res) <- wt_counts_res$Gene
+# wt_counts_res <- res1 %>% dplyr::select(-Gene)
+
+wt_counts_res
+```
+
+Next, we format the DE genes into a vector suitable for use with `goseq`
+
+```{r}
+wt_counts_res <- wt_counts_res %>% mutate(binary = case_when(
+                 (wt_counts_res$padj < 0.05 & !is.na(wt_counts_res$padj)) ~ 1,
+                 (wt_counts_res$padj < 0.05 & is.na(wt_counts_res$padj)) ~ 0,
+                 (is.na(wt_counts_res$padj)) ~ 0))
+
+DE_genes <- as.integer(wt_counts_res$binary)
+DE_genes[is.na(DE_genes)] <- 0
+names(DE_genes) <- wt_counts_res$Gene
+table(DE_genes)
+```
+
+### Check for organism info availability
+
+```{r}
+# View(supportedOrganisms())
+# supportedOrganisms()[supportedOrganisms()$Genome=="mm9",]
+```
+
+Read `featurecounts` gene file to get gene lengths for every gene. 
+
+```{r}
+gene_len <- read.table("./data/STAT2-TPOS1_featurecounts.tsv", skip = 1,
+                       sep = '\t', header = TRUE)
+names(wt_counts_res)[1] <- "Geneid"
+gene_table <- left_join(wt_counts_res, gene_len, by=c("Geneid"))
+gene_len <- gene_table %>% filter(!is.na(length))
+# idx <- match(gene_len$Geneid, wt_counts_res$Gene)
+# gene_len$selected <- gene_len$Geneid[idx]
+gene_length <- as.integer(gene_len$Length)
+names(gene_length) <- gene_len$Geneid
+head(gene_length)
+```
+
+### Fitting the Probability Weighting Function (PWF).
+
+We first need to obtain a weighting for each gene, depending on its length,
+given by the PWF. `nullp` plots the resulting fit, allowing verification of the
+goodness of fit before continuing the analysis. Further plotting of the PWF can
+be performed using the `plotPWFfunction`.
+
+```{r}
+pwf=nullp(DE_genes, bias.data=gene_length)
+```
+
+```{r}
+head(pwf)
+```
+
+
+### Using the Wallenius approximation
+
+To start with we will use the default method, to calculate the over and under
+expressed GO categories among DE genes. Again, we allow `goseq` to fetch data
+automatically, except this time the data being fetched is the relationship
+between ENSEMBL gene IDs and GO categories.
+
+```{r}
+GO.wall=goseq(pwf, "mm9", "ensGene") # need to provide mm10 GO terms somehow
+head(GO.wall)
+```
+
+```{r}
+# library("org.Mm.egENSEMBL2EG")
+# library("org.Mm.egPATH")
+# Get the mapping from ENSEMBL 2 Entrez
+en2eg=as.list(org.Mm.egENSEMBL2EG)
+# Get the mapping from Entrez 2 KEGG
+eg2kegg=as.list(org.Mm.egPATH)
+# Define a function which gets all unique KEGG IDs
+# associated with a set of Entrez IDs
+grepKEGG=function(id,mapkeys){unique(unlist(mapkeys[id], use.names=FALSE))}
+# Apply this function to every entry in the mapping from
+# ENSEMBL 2 Entrez to combine the two maps
+kegg=lapply(en2eg, grepKEGG, eg2kegg)
+head(kegg)
+```
+
+
+```{r}
+KEGG=goseq(pwf, gene2cat=kegg)
+head(KEGG)
+```
+
+First we have to get the correct *KEGG* pathway names for the `goseq` results.
+
+```{r}
+# https://biobeat.wordpress.com/category/r/
+# http://rest.kegg.jp/list/pathway/
+getKeggPathwayTable <- function(){
+  pathway_link_REST_url <- "http://rest.kegg.jp/list/pathway/"
+  kegg_pathways<- data.frame()
+ 
+  current_row = 1
+  for (line in readLines(pathway_link_REST_url)) {
+    tmp <- strsplit(line, "\t")[[1]]
+    map <- tmp[1]
+    map <- strsplit(map, ":")[[1]][2]  
+    pathway_name<- tmp[2]
+    kegg_pathways[current_row, 1]=map
+    kegg_pathways[current_row, 2]=pathway_name
+    current_row = current_row + 1
+  }
+  names(kegg_pathways) <- c("map_id","name")
+  kegg_pathways
+}
+
+kegg_pathways <- getKeggPathwayTable()
+```
+
+```{r}
+## clean up the goseq terms to match the edaseq go results
+kegg_pathways$category <- gsub("map", "", kegg_pathways$map_id)
+kegg_mapped <- full_join(KEGG, kegg_pathways, by = "category")
+kegg_mapped$mmu <- gsub("map", "mmu", kegg_mapped$map_id) 
+kegg_mapped$term <- paste0(kegg_mapped$mmu, "_", kegg_mapped$name)
+kegg_mapped$term <- gsub(" ", "_", kegg_goseq_norm_term)
+kegg_mapped <- kegg_mapped %>%
+  dplyr::select(term, category, over_represented_pvalue, under_represented_pvalue)
+kegg_mapped
+```
+
+```{r}
+#### Save Results
+saveRDS(GO.wall, file = "./results/go_goseq_mouse.rds")
+saveRDS(kegg_mapped, file = "./results/kegg_goseq_mouse.rds")
+```
+
+*Session Info*
+
+```{r sessionInfo}
+sessionInfo()
+```
